@@ -1,0 +1,7 @@
+article img {
+  background: none;
+  border: 0;
+  padding: 0;
+  width: 50%;
+  height: auto;
+}

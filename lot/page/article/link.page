@@ -1,0 +1,10 @@
+---
+title: Hyper Link
+description: Definition of hyper link.
+author: Taufik Nurrohman
+link: 'https://example.com'
+...
+
+In computing, a hyperlink, or simply a link, is a reference to data that the user can follow by clicking or tapping. A hyperlink points to a whole document or to a specific element within a document. Hypertext is text with hyperlinks. The text that is linked from is called anchor text. A software system that is used for viewing and creating hypertext is a hypertext system, and to create a hyperlink is to hyperlink (or simply to link). A user following hyperlinks is said to navigate or browse the hypertext.
+
+The document containing a hyperlink is known as its source document. For example, in an online reference work such as Wikipedia, or Google, many words and terms in the text are hyperlinked to definitions of those terms. Hyperlinks are often used to implement reference mechanisms such as tables of contents, footnotes, bibliographies, indexes, letters and glossaries.
