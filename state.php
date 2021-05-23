@@ -7,6 +7,7 @@ return [
     'title' => 'Site Title',
     'description' => 'Site description.',
     'language' => 'en',
+    'direction' => 'ltr',
     'x' => [
         'page' => [
             'comment' => ['type' => 'Markdown'],
