@@ -62,7 +62,7 @@ type: HTML
   <li>List Item 3</li>
   <li>List Item 4</li>
 </ul>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat <sup id="from:1.1"><a href="#to:1" class="from">1</a></sup></p>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat <sup id="from:1.1"><a href="#to:1" role="doc-noteref">1</a></sup></p>
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
 <dl>
   <dt>Lorem Ipsum</dt>
@@ -72,7 +72,7 @@ type: HTML
   <dt>Ut Wisi Enim Ad Minim Veniam</dt>
   <dd>Quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</dd>
 </dl>
-<table class="table">
+<table>
   <caption>Table caption goes here.</caption>
   <thead>
     <tr>
@@ -97,19 +97,22 @@ type: HTML
 <h4>Example Heading 4</h4>
 <h5>Example Heading 5</h5>
 <h6>Example Heading 6</h6>
-<fieldset>
-  <legend>Test Legend</legend>
-  <p>text <button class="button">Button</button> <input type="button" class="button" value="Input Button"> <span class="button">Span</span> <a class="button" href="">Anchor</a> text</p>
-  <p>text <input class="input" type="text"> <select class="select">
-      <option>Red</option>
-      <option>Green</option>
-      <option>Blue</option>
-    </select> <input class="input" type="color"> <label><input class="input" type="checkbox"> <span>Check Box</span></label> <label><input class="input" type="radio"> <span>Radio</span></label></p>
-  <p>text <input class="input" type="range"> text</p>
-  <p>text <textarea class="textarea"></textarea> text</p>
-  <p>text <input class="input" type="file"> text</p>
-  <p><textarea class="textarea width">Lorem ipsum dolor sit amet.</textarea></p>
-</fieldset>
+<form>
+  <p role="alert">An alert message.</p>
+  <fieldset>
+    <legend>Test Legend</legend>
+    <p>text <button class="button">Button</button> <input type="button" class="button" value="Input Button"> <span class="button" role="button">Span</span> <a class="button" href="" role="button">Anchor</a> text</p>
+    <p>text <input class="input" type="text"> <select class="select">
+        <option>Red</option>
+        <option>Green</option>
+        <option>Blue</option>
+      </select> <input class="input" type="color"> <label><input class="input" type="checkbox"> <span>Check Box</span></label> <label><input class="input" type="radio"> <span>Radio</span></label></p>
+    <p>text <input class="input" type="range"> text</p>
+    <p>text <textarea class="textarea"></textarea> text</p>
+    <p>text <input class="input" type="file"> text</p>
+    <p><textarea class="textarea width">Lorem ipsum dolor sit amet.</textarea></p>
+  </fieldset>
+</form>
 <details>
   <summary>Summary 1</summary>
   <p>Details goes here.</p>
@@ -122,17 +125,11 @@ type: HTML
   <summary>Summary 3</summary>
   <p>Details goes here.</p>
 </details>
-<div class="alert p">
-  <p>Default alert.</p>
-  <p class="success">Success alert.</p>
-  <p class="info">Info alert.</p>
-  <p class="error">Error alert.</p>
-</div>
-<div class="notes p">
+<div role="doc-endnotes">
   <hr>
   <ol>
-    <li class="note" id="to:1">
-      <p>Example <em>footnote</em> value. <a href="#from:1.1" rev="footnote" class="to">↩</a></p>
+    <li id="to:1" role="doc-endnote">
+      <p>Example <em>footnote</em> value. <a href="#from:1.1" role="doc-backlink">↩</a></p>
     </li>
   </ol>
 </div>
