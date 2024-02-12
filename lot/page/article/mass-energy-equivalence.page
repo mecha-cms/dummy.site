@@ -1,0 +1,126 @@
+---
+title: !!binary TWFzc+KAk0VuZXJneSBFcXVpdmFsZW5jZQ==
+description: !!binary TWFzc+KAk2VuZXJneSBlcXVpdmFsZW5jZSBzdGF0ZXMgdGhhdCBhbGwgb2JqZWN0cyBoYXZpbmcgbWFzcywgb3IgX21hc3NpdmUgb2JqZWN0c18sIGhhdmUgYSBjb3JyZXNwb25kaW5nIGludHJpbnNpYyBlbmVyZ3ksIGV2ZW4gd2hlbiB0aGV5IGFyZSBzdGF0aW9uYXJ5Lg==
+author: Wikipedia
+type: Markdown
+state:
+  x: { t-o-c: 1, comment: 1 }
+...
+
+In physics, **mass–energy equivalence** is the relationship between mass and energy in a system’s rest frame, where the
+two quantities differ only by a multiplicative constant and the units of measurement. The principle is described by the
+physicist Albert Einstein’s formula: \$E=mc^2\$. In a reference frame where the system is moving, its relativistic
+energy and relativistic mass (instead of rest mass) obey the same formula.
+
+The formula defines the energy \$E\$ of a particle in its rest frame as the product of mass (\$m\$) with the speed of
+light squared (\$c^2\$). Because the speed of light is a large number in everyday units (approximately 300000 km/s or
+186000 mi/s), the formula implies that a small amount of “rest mass”, measured when the system is at rest, corresponds
+to an enormous amount of energy, which is independent of the composition of the matter.
+
+Rest mass, also called invariant mass, is a fundamental physical property that is independent of momentum, even at
+extreme speeds approaching the speed of light. Its value is the same in all inertial frames of reference. Massless
+particles such as photons have zero invariant mass, but massless free particles have both momentum and energy.
+
+The equivalence principle implies that when energy is lost in chemical reactions, nuclear reactions, and other energy
+transformations, the system will also lose a corresponding amount of mass. The energy, and mass, can be released to the
+environment as radiant energy, such as light, or as thermal energy. The principle is fundamental to many fields of
+physics, including nuclear and particle physics.
+
+Mass–energy equivalence arose from special relativity as a paradox described by the French polymath Henri Poincaré
+(1854–1912). Einstein was the first to propose the equivalence of mass and energy as a general principle and a
+consequence of the symmetries of space and time. The principle first appeared in “Does the inertia of a body depend upon
+its energy-content?”, one of his annus mirabilis papers, published on 21 November 1905. The formula and its relationship
+to momentum, as described by the energy–momentum relation, were later developed by other physicists.
+
+### Description
+
+Mass–energy equivalence states that all objects having mass, or _massive objects_, have a corresponding intrinsic
+energy, even when they are stationary. In the rest frame of an object, where by definition it is motionless and so has
+no momentum, the mass and energy are equal or they differ only by a constant factor, the speed of light squared
+(\$c^2\$).
+
+In relativity, all the energy that moves with an object (i.e., the energy as measured in the object’s rest frame)
+contributes to the total mass of the body, which measures how much it resists acceleration. If an isolated box of ideal
+mirrors could contain light, the individually massless photons would contribute to the total mass of the box by the
+amount equal to their energy divided by \$c^2\$.
+
+### Mass in Special Relativity
+
+An object moves at different speeds in different frames of reference, depending on the motion of the observer. This
+implies the kinetic energy, in both Newtonian mechanics and relativity, is ‘frame dependent’, so that the amount of
+relativistic energy that an object is measured to have depends on the observer. The _relativistic mass_ of an object is
+given by the relativistic energy divided by \$c^2\$. Because the relativistic mass is exactly proportional to the
+relativistic energy, relativistic mass and relativistic energy are nearly synonymous; the only difference between them
+is the units.
+
+### Efficiency
+
+In some reactions, matter particles can be destroyed and their associated energy released to the environment as other
+forms of energy, such as light and heat. One example of such a conversion takes place in elementary particle
+interactions, where the rest energy is transformed into kinetic energy. Such conversions between types of energy happen
+in nuclear weapons, in which the protons and neutrons in atomic nuclei lose a small fraction of their original mass,
+though the mass lost is not due to the destruction of any smaller constituents.
+
+As most of the mass which comprises ordinary objects resides in protons and neutrons, converting all the energy of
+ordinary matter into more useful forms requires that the protons and neutrons be converted to lighter particles, or
+particles with no mass at all.
+
+Many extensions of the standard model contain magnetic monopoles, and in some models of grand unification, these
+monopoles catalyze proton decay, a process known as the Callan–Rubakov effect. This process would be an efficient
+mass–energy conversion at ordinary temperatures, but it requires making monopoles and anti-monopoles, whose production
+is expected to be inefficient. Another method of completely annihilating matter uses the gravitational field of black
+holes. The British theoretical physicist Stephen Hawking theorized it is possible to throw matter into a black hole and
+use the emitted heat to generate power. According to the theory of Hawking radiation, however, larger black holes
+radiate less than smaller ones, so that usable power can only be produced by small black holes.
+
+### Extension for Systems in Motion
+
+Unlike a system’s energy in an inertial frame, the relativistic energy (\$E\_\{\\rm \{rel\}\}\$) of a system depends on
+both the rest mass (\$m\_\{0\}\$) and the total momentum of the system. The extension of Einstein’s equation to these
+systems is given by:
+
+$$ E\_\{\\rm rel\} = \\sqrt\{ \(m\_0 c^2\)^2 + \(pc\)^2 \} \\,\\! $$
+
+where the \$\(pc\)^\{2\}\$ term represents the square of the
+[Euclidean norm](https://en.wikipedia.org/wiki/Euclidean_norm) (total vector length) of the various momentum vectors in
+the system, which reduces to the square of the simple momentum magnitude, if only a single particle is considered. This
+equation is called the energy–momentum relation and reduces to \$E\_\{\\rm \{rel\}\}=mc^\{2\}\$ when the momentum term
+is zero. For photons where \$m\_\{0\}=0\$, the equation reduces to \$E\_\{\\rm \{rel\}\}=pc\$.
+
+### Low-Speed Expansion
+
+Using the [Lorentz factor](https://en.wikipedia.org/wiki/Lorentz_factor), \$γ\$, the energy–momentum can be rewritten as
+\$E = γmc^2\$ and expanded as a power series:
+
+<div>
+$$
+E = m_0 c^2 \left[1 + \frac{1}{2} \left(\frac{v}{c}\right)^2 + \frac{3}{8} \left(\frac{v}{c}\right)^4 + \frac{5}{16} \left(\frac{v}{c}\right)^6 + \ldots \right].
+$$
+</div>
+
+For speeds much smaller than the speed of light, higher-order terms in this expression get smaller and smaller because
+\$\\tfrac\{v\}\{c\}\$ is small. For low speeds, all but the first two terms can be ignored:
+
+<div>
+$$
+E \approx m_0 c^2 + \frac{1}{2} m_0 v^2.
+$$
+</div>
+
+In classical mechanics, both the \$m\_0c^2\$ term and the high-speed corrections are ignored. The initial value of the
+energy is arbitrary, as only the change in energy can be measured and so the \$m\_0c^2\$ term is ignored in classical
+physics. While the higher-order terms become important at higher speeds, the Newtonian equation is a highly accurate
+low-speed approximation; adding in the third term yields:
+
+<div>
+$$
+E \approx m_0 c^2 + \frac{1}{2}m_0 v^2 \left(1 + \frac{3v^2}{4c^2}\right)
+$$
+</div>
+
+The difference between the two approximations is given by \$\\tfrac\{3v^\{2\}\}\{4c^\{2\}\}\$, a number very small for
+everyday objects. In 2018 NASA announced the Parker Solar Probe was the fastest ever, with a speed of 153,454 miles per
+hour (68,600 m/s). The difference between the approximations for the Parker Solar Probe in 2018 is
+\$\\tfrac\{3v^\{2\}\}\{4c^\{2\}\}\\approx 3.9 \\times 10^\{-8\}\$, which accounts for an energy correction of four parts
+per hundred million. The gravitational constant, in contrast, has a standard relative uncertainty of about
+\$2.2 \\times 10^\{-5\}\$.

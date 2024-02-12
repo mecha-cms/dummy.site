@@ -3,6 +3,7 @@ title: Hyper Link
 description: Definition of hyper link.
 author: Taufik Nurrohman
 link: 'https://example.com'
+type: Markdown
 ...
 
 In computing, a hyperlink, or simply a link, is a reference to data that the user can follow by clicking or tapping. A
