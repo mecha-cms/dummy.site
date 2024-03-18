@@ -1,10 +1,10 @@
 ---
-title: !!binary TWFzc+KAk0VuZXJneSBFcXVpdmFsZW5jZQ==
-description: !!binary TWFzc+KAk2VuZXJneSBlcXVpdmFsZW5jZSBzdGF0ZXMgdGhhdCBhbGwgb2JqZWN0cyBoYXZpbmcgbWFzcywgb3IgX21hc3NpdmUgb2JqZWN0c18sIGhhdmUgYSBjb3JyZXNwb25kaW5nIGludHJpbnNpYyBlbmVyZ3ksIGV2ZW4gd2hlbiB0aGV5IGFyZSBzdGF0aW9uYXJ5Lg==
+title: Mass–Energy Equivalence
+description: >
+  Mass–energy equivalence states that all objects having mass, or massive objects, have a corresponding intrinsic
+  energy, even when they are stationary.
 author: Wikipedia
 type: Markdown
-state:
-  x: { t-o-c: 1, comment: 1 }
 ...
 
 In physics, **mass–energy equivalence** is the relationship between mass and energy in a system’s rest frame, where the
@@ -79,7 +79,11 @@ Unlike a system’s energy in an inertial frame, the relativistic energy (\$E\_\
 both the rest mass (\$m\_\{0\}\$) and the total momentum of the system. The extension of Einstein’s equation to these
 systems is given by:
 
-$$ E\_\{\\rm rel\} = \\sqrt\{ \(m\_0 c^2\)^2 + \(pc\)^2 \} \\,\\! $$
+<div>
+$$
+E_{\rm rel} = \sqrt{ (m_0 c^2)^2 + (pc)^2 } \,\!
+$$
+</div>
 
 where the \$\(pc\)^\{2\}\$ term represents the square of the
 [Euclidean norm](https://en.wikipedia.org/wiki/Euclidean_norm) (total vector length) of the various momentum vectors in
