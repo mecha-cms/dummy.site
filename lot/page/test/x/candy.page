@@ -1,0 +1,15 @@
+---
+title: Candy
+description: Test for the Candy extension.
+type: Markdown
+...
+
+{{ asdf }}
+
+asdf {{ asdf }} asdf
+
+%{ asdf }%
+
+asdf %{ asdf }% asdf
+
+asdf {{ _SERVER.HTTP_HOST }}

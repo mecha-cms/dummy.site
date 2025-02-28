@@ -1,0 +1,12 @@
+---
+title: KaTeX $e=mc^2$
+description: Test math expression $c = \pm\sqrt{a^2 + b^2}$.
+type: HTML
+...
+
+<p>Test math expression $c = \pm\sqrt{a^2 + b^2}$ asdf asdf.</p>
+<p>Lorem ipsum dolor sit amet.</p>
+<p>$$c = \pm\sqrt{a^2 + b^2}$$</p>
+<p>Lorem ipsum dolor sit amet.</p>
+<p>asdf \[e=mc^2\] asdf</p>
+<p>asdf \(e=mc^2\) asdf</p>
