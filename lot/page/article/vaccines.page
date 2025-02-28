@@ -5,6 +5,9 @@ author: Taufik Nurrohman
 type: Markdown
 ...
 
+![Image](/lot/asset/page/article/vaccines/5878512.jpg)
+ Photo by [Artem Podrez][1] from [Pexels][2].
+
 Vaccines are prepared from harmful viruses or bacteria and administered to patients to provide immunity to specific
 diseases. The various types of vaccines are classified according to the method by which they are derived.
 
@@ -22,3 +25,6 @@ A final type of vaccine contains living microorganisms that have been rendered h
 large number of antigen molecules are produced and the immunity that results is generally longer lasting than the
 immunity from other types of vaccines. The Sabin oral antipolio vaccine and the BCG vaccine against tuberculosis are
 examples of this type of vaccine.
+
+ [1]: https://www.pexels.com/@artempodrez
+ [2]: https://www.pexels.com/photo/a-close-up-view-of-a-covid-19-vaccine-vial-on-blue-background-5878512

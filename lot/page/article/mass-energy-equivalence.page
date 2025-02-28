@@ -1,11 +1,14 @@
 ---
 title: Mass–Energy Equivalence
-description: >
+description: >-
   Mass–energy equivalence states that all objects having mass, or massive objects, have a corresponding intrinsic
   energy, even when they are stationary.
 author: Wikipedia
 type: Markdown
 ...
+
+![Image](/lot/asset/page/article/mass-energy-equivalence/414837.jpg)
+ Photo by [Pixabay][1] from [Pexels][2].
 
 In physics, **mass–energy equivalence** is the relationship between mass and energy in a system’s rest frame, where the
 two quantities differ only by a multiplicative constant and the units of measurement. The principle is described by the
@@ -128,3 +131,6 @@ hour (68,600 m/s). The difference between the approximations for the Parker Sola
 \$\\tfrac\{3v^\{2\}\}\{4c^\{2\}\}\\approx 3.9 \\times 10^\{-8\}\$, which accounts for an energy correction of four parts
 per hundred million. The gravitational constant, in contrast, has a standard relative uncertainty of about
 \$2.2 \\times 10^\{-5\}\$.
+
+ [1]: https://www.pexels.com/@pixabay
+ [2]: https://www.pexels.com/photo/white-windmill-414837
