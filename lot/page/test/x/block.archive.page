@@ -1,9 +1,8 @@
 ---
 title: Block Archive
+description: Test for the [Block Archive](https://mecha-cms.com/store/extension/block.archive) extension.
 author: '@taufik-nurrohman'
 type: Markdown
-state:
-  x: { t-o-c: 1, comment: 1 }
 ...
 
 ### Archives
