@@ -1,12 +1,28 @@
 <?php
 
-foreach (range(1, 30) as $juzs) {
-    if ($juzs = fetch('http://api.alquran.cloud/v1/juz/1/quran-uthmani')) {
-        if (is_array($juzs = json_decode($juzs, true))) {
-            // var_dump($juzs);exit;
-        }
-    }
-}
+// foreach (range(1, 30) as $juz) {
+//     content(LOT . D . 'tag' . D . 'juz-' . $juz . D . 'id.data', crc32('juz-' . $juz), 0600);
+//     content(LOT . D . 'tag' . D . 'juz-' . $juz . D . 'time.data', date('Y-m-d H:i:s'), 0600);
+//     content(LOT . D . 'tag' . D . 'juz-' . $juz . '.archive', <<<PAGE
+// ---
+// title: Juz’ {$juz}
+// ...
+// PAGE, 0600);
+// }
+//
+// exit;
+
+// foreach (range(1, 30) as $juzs) {
+//     if ($juzs = fetch('http://api.alquran.cloud/v1/juz/1/quran-uthmani')) {
+//         if (is_array($juzs = json_decode($juzs, true))) {
+//             echo '<pre>';
+//             var_dump($juzs);
+//             exit;
+//         }
+//     }
+// }
+//
+// exit;
 
 $folder = LOT . D . 'page' . D . 'test' . D . 'x' . D . 'page' . D . 'quran';
 
@@ -67,34 +83,45 @@ if ($surahs = fetch('https://quranapi.pages.dev/api/surah.json')) {
             $path = $folder . D . To::kebab($v['surahName']);
             content($path . '.page', <<<PAGE
 ---
+surah: {$k}
 title: {$v['surahNameArabic']} ({$v['surahName']})
 description: It means “{$v['surahNameTranslation']}” in English.
 author: Taufik Nurrohman
 type: Markdown
 chunk: {$v['totalAyah']}
-sort: [ 1, name ]
-surah: {$k}
+sort: [ 1, ayah ]
 ...
 PAGE, 0600);
-            content($path . D . 'time.data', date('Y-m-d H:i:s'), 0600);
+            content($path . D . 'time.data', $time = '2025-02-28 22:48:12', 0600);
             if ($revelationPlace = $v['revelationPlace'] ?? 0) {
                 content($path . D . 'kind.data', '[' . ('Mecca' === $revelationPlace ? '1158076311' : '1503081466') . ']', 0600);
             }
             if ($surah = fetch('https://quranapi.pages.dev/api/' . $k . '.json')) {
                 if (is_array($surah = json_decode($surah, true))) {
                     foreach ($surah['arabic1'] as $kk => $vv) {
-                        $english = isset($surah['english'][$kk]) ? "\n\n### English\n\n" . trim($surah['english'][$kk]) : "";
+                        $prefix = $suffix = "";
+                        $translation = trim($surah['english'][$kk] ?? "");
                         $kk = $kk + 1;
-                        $vv = "### Arabic\n\n" . trim($vv);
-                        content($path . D . 'ayah-' . str_pad((string) $kk, 3, '0', STR_PAD_LEFT) . '.page', <<<PAGE
+                        $vv = trim($vv);
+                        if ($translation && false === strpos('0123456789', $translation[0]) && $translation[0] === mb_strtolower($translation[0])) {
+                            $prefix = '[…](ayah-' . ($kk - 1) . ') ';
+                        }
+                        if ($translation && false === strpos('!.?', substr($translation, -1))) {
+                            $suffix = ' […](ayah-' . ($kk + 1) . ')';
+                        }
+                        $vv = "### Arabic\n\n" . $prefix . $vv . $suffix;
+                        $translation = "" !== $translation ? "\n\n### English\n\n" . $prefix . $translation . $suffix : "";
+                        content($path . D . 'ayah-' . $kk . D . 'time.data', $time, 0600);
+                        content($path . D . 'ayah-' . $kk . '.page', <<<PAGE
 ---
+ayah: {$kk}
 title: Ayah {$kk}
 description: Content of surah {$v['surahName']} ayah {$kk}.
 author: Taufik Nurrohman
 type: Markdown
 ...
 
-{$vv}{$english}
+{$vv}{$translation}
 PAGE, 0600);
                     }
                 }
