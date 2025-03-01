@@ -1,9 +1,9 @@
 ---
+surah: 2
 title: البقرة (Al-Baqara)
 description: It means “The Cow” in English.
-author: Taufik Nurrohman
+author: '@taufik-nurrohman'
 type: Markdown
 chunk: 286
-sort: [ 1, name ]
-surah: 2
+sort: [ 1, ayah ]
 ...

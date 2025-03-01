@@ -1,9 +1,9 @@
 ---
+surah: 67
 title: الملك (Al-Mulk)
 description: It means “The Sovereignty” in English.
-author: Taufik Nurrohman
+author: '@taufik-nurrohman'
 type: Markdown
 chunk: 30
-sort: [ 1, name ]
-surah: 67
+sort: [ 1, ayah ]
 ...

@@ -1,9 +1,9 @@
 ---
+surah: 103
 title: العصر (Al-Asr)
 description: It means “The Declining Day, Epoch” in English.
-author: Taufik Nurrohman
+author: '@taufik-nurrohman'
 type: Markdown
 chunk: 3
-sort: [ 1, name ]
-surah: 103
+sort: [ 1, ayah ]
 ...

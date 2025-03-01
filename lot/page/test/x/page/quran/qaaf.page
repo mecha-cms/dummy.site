@@ -1,9 +1,9 @@
 ---
+surah: 50
 title: ق (Qaaf)
 description: It means “The letter Qaaf” in English.
-author: Taufik Nurrohman
+author: '@taufik-nurrohman'
 type: Markdown
 chunk: 45
-sort: [ 1, name ]
-surah: 50
+sort: [ 1, ayah ]
 ...

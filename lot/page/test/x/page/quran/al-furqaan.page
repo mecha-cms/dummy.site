@@ -1,9 +1,9 @@
 ---
+surah: 25
 title: الفرقان (Al-Furqaan)
 description: It means “The Criterion” in English.
-author: Taufik Nurrohman
+author: '@taufik-nurrohman'
 type: Markdown
 chunk: 77
-sort: [ 1, name ]
-surah: 25
+sort: [ 1, ayah ]
 ...

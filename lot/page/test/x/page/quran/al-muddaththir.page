@@ -1,9 +1,9 @@
 ---
+surah: 74
 title: المدثر (Al-Muddaththir)
 description: It means “The Cloaked One” in English.
-author: Taufik Nurrohman
+author: '@taufik-nurrohman'
 type: Markdown
 chunk: 56
-sort: [ 1, name ]
-surah: 74
+sort: [ 1, ayah ]
 ...

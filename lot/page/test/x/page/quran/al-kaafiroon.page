@@ -1,9 +1,9 @@
 ---
+surah: 109
 title: الكافرون (Al-Kaafiroon)
 description: It means “The Disbelievers” in English.
-author: Taufik Nurrohman
+author: '@taufik-nurrohman'
 type: Markdown
 chunk: 6
-sort: [ 1, name ]
-surah: 109
+sort: [ 1, ayah ]
 ...

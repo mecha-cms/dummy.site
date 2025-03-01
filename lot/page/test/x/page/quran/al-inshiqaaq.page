@@ -1,9 +1,9 @@
 ---
+surah: 84
 title: الإنشقاق (Al-Inshiqaaq)
 description: It means “The Splitting Open” in English.
-author: Taufik Nurrohman
+author: '@taufik-nurrohman'
 type: Markdown
 chunk: 25
-sort: [ 1, name ]
-surah: 84
+sort: [ 1, ayah ]
 ...

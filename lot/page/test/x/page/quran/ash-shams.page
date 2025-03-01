@@ -1,9 +1,9 @@
 ---
+surah: 91
 title: الشمس (Ash-Shams)
 description: It means “The Sun” in English.
-author: Taufik Nurrohman
+author: '@taufik-nurrohman'
 type: Markdown
 chunk: 15
-sort: [ 1, name ]
-surah: 91
+sort: [ 1, ayah ]
 ...

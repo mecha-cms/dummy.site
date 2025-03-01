@@ -1,9 +1,9 @@
 ---
-title: الأنعام (Al-An'aam)
+surah: 6
+title: الأنعام (Al-An’aam)
 description: It means “The Cattle” in English.
-author: Taufik Nurrohman
+author: '@taufik-nurrohman'
 type: Markdown
 chunk: 165
-sort: [ 1, name ]
-surah: 6
+sort: [ 1, ayah ]
 ...

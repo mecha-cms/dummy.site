@@ -1,9 +1,9 @@
 ---
+surah: 44
 title: الدخان (Ad-Dukhaan)
 description: It means “The Smoke” in English.
-author: Taufik Nurrohman
+author: '@taufik-nurrohman'
 type: Markdown
 chunk: 59
-sort: [ 1, name ]
-surah: 44
+sort: [ 1, ayah ]
 ...

@@ -2,16 +2,16 @@
 title: The Holy Quran
 description: >-
   Using the Quran to stress test the [Page](https://mecha-cms.com/store/extension/page) extension. Let’s see how much
-  memory is used to list all the pages. The list is sorted by the `surah` key embedded in the file content, so a partial
-  reading of the file content is necessary.
-author: Taufik Nurrohman
+  memory is used to list all the pages. The list is sorted by the `ayah` and `surah` key embedded in the file content,
+  so a partial reading of the file content is necessary.
+author: '@taufik-nurrohman'
 type: Markdown
 chunk: 144
 sort: [ 1, surah ]
 ...
 
 The Quran, also romanized Qur’an or Koran, is the central religious text of Islam, believed by Muslims to be a
-revelation directly from God (_Allāh_). It is organized in 114 chapters (_surah, pl. suwer_) which consist of individual
+revelation directly from God (_Allāh_). It is organized in 114 chapters (_sūrah, pl. suwer_) which consist of individual
 verses (_āyah_). Besides its religious significance, it is widely regarded as the finest work in Arabic literature, and
 has significantly influenced the Arabic language. It is the object of a modern field of academic research known as
 Quranic studies.

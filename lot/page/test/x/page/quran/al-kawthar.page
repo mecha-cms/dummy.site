@@ -1,9 +1,9 @@
 ---
+surah: 108
 title: الكوثر (Al-Kawthar)
 description: It means “Abundance” in English.
-author: Taufik Nurrohman
+author: '@taufik-nurrohman'
 type: Markdown
 chunk: 3
-sort: [ 1, name ]
-surah: 108
+sort: [ 1, ayah ]
 ...

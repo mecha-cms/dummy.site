@@ -1,9 +1,9 @@
 ---
+surah: 38
 title: ص (Saad)
 description: It means “The letter Saad” in English.
-author: Taufik Nurrohman
+author: '@taufik-nurrohman'
 type: Markdown
 chunk: 88
-sort: [ 1, name ]
-surah: 38
+sort: [ 1, ayah ]
 ...
