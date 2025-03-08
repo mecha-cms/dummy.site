@@ -135,10 +135,10 @@
 //                         if ($translation && false === strpos('0123456789', $translation[0]) && $translation[0] === mb_strtolower($translation[0])) {
 //                             $prefix = '[…](ayah-' . ($kk - 1) . ') ';
 //                         }
-//                         if ($translation && false === strpos('!.?', substr($translation, -1))) {
+//                         if ($translation && false === strpos('!.?”', substr($translation, -1))) {
 //                             $suffix = ' […](ayah-' . ($kk + 1) . ')';
 //                         }
-//                         $vv = "### Arabic\n\n" . $prefix . $vv . $suffix;
+//                         $vv = "### Arabic\n\n" . '<span style="display: block; font-size: 180%; text-align: right;">' . $prefix . $vv . $suffix . '</span>';
 //                         $translation = "" !== $translation ? "\n\n### English\n\n" . $prefix . $translation . $suffix : "";
 //                         content($path . D . 'ayah-' . $kk . D . 'time.data', $time, 0600);
 //                         content($path . D . 'ayah-' . $kk . '.page', <<<PAGE
@@ -158,6 +158,8 @@
 //         }
 //     }
 // }
+//
+// exit;
 
 // foreach (g($folder = LOT . D . 'page' . D . 'test' . D . 'x' . D . 'page' . D . 'quran', 'page') as $k => $v) {
 //     $v = new Page($k);
@@ -175,6 +177,7 @@
 //                         $kind[] = crc32('hizb-' . $vv['hizbQuarter']);
 //                     }
 //                     sort($kind);
+//                     $kind = array_values(array_unique($kind));
 //                     content(dirname($ayah) . D . pathinfo($ayah, PATHINFO_FILENAME) . D . 'kind.data', json_encode($kind), 0600);
 //                 }
 //             }
