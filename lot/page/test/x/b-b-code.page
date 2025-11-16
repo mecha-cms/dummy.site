@@ -1,0 +1,7 @@
+---
+title: BBCode
+description: Test for the [url=https://mecha-cms.com/store/extension/b-b-code]BBCode[/url] extension.
+type: BBCode
+...
+
+Lorem ipsum [b]dolor[/b] sit amet.
