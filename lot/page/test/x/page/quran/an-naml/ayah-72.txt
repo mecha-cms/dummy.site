@@ -1,0 +1,15 @@
+---
+ayah: 72
+title: Āyah 72
+description: Content of sūrah An-Naml āyah 72.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">قُلْ عَسَىٰٓ أَن يَكُونَ رَدِفَ لَكُم بَعْضُ ٱلَّذِى تَسْتَعْجِلُونَ</span>
+
+### English
+
+Say, ˹O Prophet,˺ “Perhaps some of what you seek to hasten is close at hand.”

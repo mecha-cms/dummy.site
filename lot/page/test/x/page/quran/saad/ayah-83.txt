@@ -1,0 +1,15 @@
+---
+ayah: 83
+title: Āyah 83
+description: Content of sūrah Saad āyah 83.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِلَّا عِبَادَكَ مِنْهُمُ ٱلْمُخْلَصِينَ […](ayah-82)</span>
+
+### English
+
+[…](ayah-82) except Your chosen servants among them.”

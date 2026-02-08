@@ -1,0 +1,15 @@
+---
+ayah: 89
+title: Āyah 89
+description: Content of sūrah Al-Waaqia āyah 89.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ […](ayah-88)</span>
+
+### English
+
+[…](ayah-88) then ˹such a person will have˺ serenity, fragrance, and a Garden of Bliss.

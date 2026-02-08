@@ -1,0 +1,15 @@
+---
+ayah: 7
+title: Āyah 7
+description: Content of sūrah Al-Burooj āyah 7.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-8) وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌ […](ayah-6)</span>
+
+### English
+
+[…](ayah-6) watching what they had ˹ordered to be˺ done to the believers […](ayah-8)

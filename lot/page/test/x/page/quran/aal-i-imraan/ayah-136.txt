@@ -1,0 +1,15 @@
+---
+ayah: 136
+title: Āyah 136
+description: Content of sūrah Aal-i-Imraan āyah 136.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">أُو۟لَـٰٓئِكَ جَزَآؤُهُم مَّغْفِرَةٌ مِّن رَّبِّهِمْ وَجَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ وَنِعْمَ أَجْرُ ٱلْعَـٰمِلِينَ</span>
+
+### English
+
+Their reward is forgiveness from their Lord and Gardens under which rivers flow, staying there forever. How excellent is the reward for those who work ˹righteousness˺!

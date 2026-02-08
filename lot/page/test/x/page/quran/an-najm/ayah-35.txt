@@ -1,0 +1,15 @@
+---
+ayah: 35
+title: Āyah 35
+description: Content of sūrah An-Najm āyah 35.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">أَعِندَهُۥ عِلْمُ ٱلْغَيْبِ فَهُوَ يَرَىٰٓ</span>
+
+### English
+
+Does he have the knowledge of the unseen so that he sees ˹the Hereafter˺?

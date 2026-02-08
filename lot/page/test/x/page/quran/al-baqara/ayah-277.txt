@@ -1,0 +1,15 @@
+---
+ayah: 277
+title: Āyah 277
+description: Content of sūrah Al-Baqara āyah 277.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ</span>
+
+### English
+
+Indeed, those who believe, do good, establish prayer, and pay alms-tax will receive their reward from their Lord, and there will be no fear for them, nor will they grieve.

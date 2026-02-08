@@ -1,0 +1,15 @@
+---
+ayah: 14
+title: Āyah 14
+description: Content of sūrah Ad-Dukhaan āyah 14.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">ثُمَّ تَوَلَّوْا۟ عَنْهُ وَقَالُوا۟ مُعَلَّمٌ مَّجْنُونٌ […](ayah-13)</span>
+
+### English
+
+[…](ayah-13) then they turned away from him, saying, “A madman, taught by others!”?

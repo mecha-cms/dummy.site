@@ -1,0 +1,15 @@
+---
+ayah: 49
+title: Āyah 49
+description: Content of sūrah Ar-Room āyah 49.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَإِن كَانُوا۟ مِن قَبْلِ أَن يُنَزَّلَ عَلَيْهِم مِّن قَبْلِهِۦ لَمُبْلِسِينَ […](ayah-48)</span>
+
+### English
+
+[…](ayah-48) although they had utterly lost hope just before it was sent down to them.

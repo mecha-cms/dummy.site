@@ -1,0 +1,15 @@
+---
+ayah: 24
+title: Āyah 24
+description: Content of sūrah Al-Inshiqaaq āyah 24.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ</span>
+
+### English
+
+So give them good news of a painful punishment.

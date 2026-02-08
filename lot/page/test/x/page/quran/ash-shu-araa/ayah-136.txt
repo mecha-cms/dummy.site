@@ -1,0 +1,15 @@
+---
+ayah: 136
+title: Āyah 136
+description: Content of sūrah Ash-Shu’araa āyah 136.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">قَالُوا۟ سَوَآءٌ عَلَيْنَآ أَوَعَظْتَ أَمْ لَمْ تَكُن مِّنَ ٱلْوَٰعِظِينَ</span>
+
+### English
+
+They responded, “It is all the same to us whether you warn ˹us˺ or not.

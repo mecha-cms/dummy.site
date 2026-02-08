@@ -1,0 +1,15 @@
+---
+ayah: 12
+title: Āyah 12
+description: Content of sūrah Qaaf āyah 12.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-13) كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَأَصْحَـٰبُ ٱلرَّسِّ وَثَمُودُ</span>
+
+### English
+
+Before them, the people of Noah denied ˹the truth,˺ as did the people of the Water-pit, Thamûd […](ayah-13)

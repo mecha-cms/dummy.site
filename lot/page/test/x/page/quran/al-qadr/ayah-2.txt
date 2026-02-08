@@ -1,0 +1,15 @@
+---
+ayah: 2
+title: Āyah 2
+description: Content of sūrah Al-Qadr āyah 2.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ</span>
+
+### English
+
+And what will make you realize what the Night of Glory is?

@@ -1,0 +1,15 @@
+---
+ayah: 172
+title: Āyah 172
+description: Content of sūrah Ash-Shu’araa āyah 172.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-173) ثُمَّ دَمَّرْنَا ٱلْـَٔاخَرِينَ</span>
+
+### English
+
+Then We utterly destroyed the rest […](ayah-173)

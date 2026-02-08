@@ -1,0 +1,15 @@
+---
+ayah: 11
+title: Āyah 11
+description: Content of sūrah Al-Mulk āyah 11.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَٱعْتَرَفُوا۟ بِذَنۢبِهِمْ فَسُحْقًا لِّأَصْحَـٰبِ ٱلسَّعِيرِ</span>
+
+### English
+
+And so they will confess their sins. So away with the residents of the Blaze!

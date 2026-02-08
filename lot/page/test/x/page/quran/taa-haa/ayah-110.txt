@@ -1,0 +1,15 @@
+---
+ayah: 110
+title: Āyah 110
+description: Content of sūrah Taa-Haa āyah 110.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِهِۦ عِلْمًا</span>
+
+### English
+
+He ˹fully˺ knows what is ahead of them and what is behind them, but they cannot encompass Him in ˹their˺ knowledge.

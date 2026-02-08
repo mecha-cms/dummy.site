@@ -1,0 +1,15 @@
+---
+ayah: 2
+title: Āyah 2
+description: Content of sūrah Al-Muzzammil āyah 2.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-3) قُمِ ٱلَّيْلَ إِلَّا قَلِيلًا</span>
+
+### English
+
+Stand all night ˹in prayer˺ except a little— […](ayah-3)

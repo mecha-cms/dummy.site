@@ -1,0 +1,15 @@
+---
+ayah: 139
+title: Āyah 139
+description: Content of sūrah Al-Baqara āyah 139.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">قُلْ أَتُحَآجُّونَنَا فِى ٱللَّهِ وَهُوَ رَبُّنَا وَرَبُّكُمْ وَلَنَآ أَعْمَـٰلُنَا وَلَكُمْ أَعْمَـٰلُكُمْ وَنَحْنُ لَهُۥ مُخْلِصُونَ</span>
+
+### English
+
+Say, “Would you dispute with us about Allah, while He is our Lord and your Lord? We are accountable for our deeds and you for yours. And we are devoted to Him ˹alone˺.

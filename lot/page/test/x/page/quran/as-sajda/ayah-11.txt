@@ -1,0 +1,15 @@
+---
+ayah: 11
+title: Āyah 11
+description: Content of sūrah As-Sajda āyah 11.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">۞ قُلْ يَتَوَفَّىٰكُم مَّلَكُ ٱلْمَوْتِ ٱلَّذِى وُكِّلَ بِكُمْ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ</span>
+
+### English
+
+Say, ˹O Prophet,˺ “Your soul will be taken by the Angel of Death, who is in charge of you. Then to your Lord you will ˹all˺ be returned.”

@@ -1,0 +1,15 @@
+---
+ayah: 8
+title: Āyah 8
+description: Content of sūrah Al-Balad āyah 8.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-9) أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ</span>
+
+### English
+
+Have We not given them two eyes […](ayah-9)

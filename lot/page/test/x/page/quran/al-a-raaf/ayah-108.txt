@@ -1,0 +1,15 @@
+---
+ayah: 108
+title: Āyah 108
+description: Content of sūrah Al-A’raaf āyah 108.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّـٰظِرِينَ</span>
+
+### English
+
+Then he drew his hand ˹out of his collar˺ and it was ˹shining˺ white for all to see.

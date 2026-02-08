@@ -1,0 +1,15 @@
+---
+ayah: 65
+title: Āyah 65
+description: Content of sūrah Al-Waaqia āyah 65.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-66) لَوْ نَشَآءُ لَجَعَلْنَـٰهُ حُطَـٰمًا فَظَلْتُمْ تَفَكَّهُونَ</span>
+
+### English
+
+If We willed, We could simply reduce this ˹harvest˺ to chaff, leaving you to lament […](ayah-66)

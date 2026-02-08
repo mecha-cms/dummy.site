@@ -1,0 +1,15 @@
+---
+ayah: 206
+title: Āyah 206
+description: Content of sūrah Al-A’raaf āyah 206.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩</span>
+
+### English
+
+Surely those ˹angels˺ nearest to your Lord are not too proud to worship Him. They glorify Him. And to Him they prostrate.

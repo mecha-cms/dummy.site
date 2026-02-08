@@ -1,0 +1,5 @@
+---
+author: '@taufik-nurrohman'
+title: Rukūʿ 509
+type: Markdown
+...

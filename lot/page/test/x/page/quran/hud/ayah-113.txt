@@ -1,0 +1,15 @@
+---
+ayah: 113
+title: Āyah 113
+description: Content of sūrah Hud āyah 113.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَلَا تَرْكَنُوٓا۟ إِلَى ٱلَّذِينَ ظَلَمُوا۟ فَتَمَسَّكُمُ ٱلنَّارُ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِنْ أَوْلِيَآءَ ثُمَّ لَا تُنصَرُونَ</span>
+
+### English
+
+And do not be inclined to the wrongdoers or you will be touched by the Fire. For then you would have no protectors other than Allah, nor would you be helped.

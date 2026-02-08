@@ -1,0 +1,15 @@
+---
+ayah: 256
+title: Āyah 256
+description: Content of sūrah Al-Baqara āyah 256.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">لَآ إِكْرَاهَ فِى ٱلدِّينِ ۖ قَد تَّبَيَّنَ ٱلرُّشْدُ مِنَ ٱلْغَىِّ ۚ فَمَن يَكْفُرْ بِٱلطَّـٰغُوتِ وَيُؤْمِنۢ بِٱللَّهِ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ لَا ٱنفِصَامَ لَهَا ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ</span>
+
+### English
+
+Let there be no compulsion in religion, for the truth stands out clearly from falsehood. So whoever renounces false gods and believes in Allah has certainly grasped the firmest, unfailing hand-hold. And Allah is All-Hearing, All-Knowing.

@@ -1,0 +1,15 @@
+---
+ayah: 148
+title: Āyah 148
+description: Content of sūrah Ash-Shu’araa āyah 148.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-149) وَزُرُوعٍ وَنَخْلٍ طَلْعُهَا هَضِيمٌ […](ayah-147)</span>
+
+### English
+
+[…](ayah-147) and ˹various˺ crops, and palm trees ˹loaded˺ with tender fruit; […](ayah-149)

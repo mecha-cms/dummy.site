@@ -1,0 +1,15 @@
+---
+ayah: 34
+title: Āyah 34
+description: Content of sūrah Al-Qamar āyah 34.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-35) إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ ۖ نَّجَّيْنَـٰهُم بِسَحَرٍ</span>
+
+### English
+
+We unleashed upon them a storm of stones. As for ˹the believers of˺ Lot’s family, We delivered them before dawn […](ayah-35)

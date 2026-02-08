@@ -1,0 +1,15 @@
+---
+ayah: 29
+title: Āyah 29
+description: Content of sūrah Adh-Dhaariyat āyah 29.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ</span>
+
+### English
+
+Then his wife came forward with a cry, clasping her forehead ˹in astonishment˺, exclaiming, “˹A baby from˺ a barren, old woman!”

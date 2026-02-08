@@ -1,0 +1,15 @@
+---
+ayah: 188
+title: Āyah 188
+description: Content of sūrah Ash-Shu’araa āyah 188.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">قَالَ رَبِّىٓ أَعْلَمُ بِمَا تَعْمَلُونَ</span>
+
+### English
+
+Shu’aib responded, “My Lord knows best whatever you do.”

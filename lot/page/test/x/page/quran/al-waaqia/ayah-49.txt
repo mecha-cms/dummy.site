@@ -1,0 +1,15 @@
+---
+ayah: 49
+title: Āyah 49
+description: Content of sūrah Al-Waaqia āyah 49.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-50) قُلْ إِنَّ ٱلْأَوَّلِينَ وَٱلْـَٔاخِرِينَ</span>
+
+### English
+
+Say, ˹O Prophet,˺ “Most certainly, earlier and later generations […](ayah-50)

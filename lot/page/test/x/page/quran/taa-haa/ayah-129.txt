@@ -1,0 +1,15 @@
+---
+ayah: 129
+title: Āyah 129
+description: Content of sūrah Taa-Haa āyah 129.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَكَانَ لِزَامًا وَأَجَلٌ مُّسَمًّى</span>
+
+### English
+
+Had it not been for a prior decree from your Lord ˹O Prophet˺ and a term already set, their ˹instant˺ doom would have been inevitable.

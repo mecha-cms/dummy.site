@@ -1,0 +1,15 @@
+---
+ayah: 87
+title: Āyah 87
+description: Content of sūrah Al-Hijr āyah 87.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَلَقَدْ ءَاتَيْنَـٰكَ سَبْعًا مِّنَ ٱلْمَثَانِى وَٱلْقُرْءَانَ ٱلْعَظِيمَ</span>
+
+### English
+
+We have certainly granted you the seven often-repeated verses and the great Quran.

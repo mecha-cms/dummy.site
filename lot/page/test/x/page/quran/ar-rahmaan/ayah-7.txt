@@ -1,0 +1,15 @@
+---
+ayah: 7
+title: Āyah 7
+description: Content of sūrah Ar-Rahmaan āyah 7.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-8) وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ</span>
+
+### English
+
+As for the sky, He raised it ˹high˺, and set the balance ˹of justice˺ […](ayah-8)

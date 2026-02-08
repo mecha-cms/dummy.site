@@ -1,0 +1,5 @@
+---
+author: '@taufik-nurrohman'
+title: Rukūʿ 387
+type: Markdown
+...

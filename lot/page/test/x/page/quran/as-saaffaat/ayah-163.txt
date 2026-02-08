@@ -1,0 +1,15 @@
+---
+ayah: 163
+title: Āyah 163
+description: Content of sūrah As-Saaffaat āyah 163.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِلَّا مَنْ هُوَ صَالِ ٱلْجَحِيمِ […](ayah-162)</span>
+
+### English
+
+[…](ayah-162) except those ˹destined˺ to burn in Hell.

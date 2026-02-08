@@ -1,0 +1,15 @@
+---
+ayah: 6
+title: Āyah 6
+description: Content of sūrah Al-Qaari’a āyah 6.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-7) فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ</span>
+
+### English
+
+So as for those whose scale is heavy ˹with good deeds˺ […](ayah-7)

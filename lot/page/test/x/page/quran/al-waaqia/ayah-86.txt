@@ -1,0 +1,15 @@
+---
+ayah: 86
+title: Āyah 86
+description: Content of sūrah Al-Waaqia āyah 86.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-87) فَلَوْلَآ إِن كُنتُمْ غَيْرَ مَدِينِينَ</span>
+
+### English
+
+Now, if you are not subject to Our Will ˹as you claim˺ […](ayah-87)

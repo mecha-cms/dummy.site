@@ -1,0 +1,15 @@
+---
+ayah: 62
+title: Āyah 62
+description: Content of sūrah Yunus āyah 62.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">أَلَآ إِنَّ أَوْلِيَآءَ ٱللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ</span>
+
+### English
+
+There will certainly be no fear for the close servants of Allah, nor will they grieve.

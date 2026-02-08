@@ -1,0 +1,15 @@
+---
+ayah: 19
+title: Āyah 19
+description: Content of sūrah At-Takwir āyah 19.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-20) إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ</span>
+
+### English
+
+Indeed, this ˹Quran˺ is the Word of ˹Allah delivered by Gabriel,˺ a noble messenger-angel […](ayah-20)

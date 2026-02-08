@@ -1,0 +1,15 @@
+---
+ayah: 19
+title: Āyah 19
+description: Content of sūrah Al-Mutaffifin āyah 19.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-20) وَمَآ أَدْرَىٰكَ مَا عِلِّيُّونَ […](ayah-18)</span>
+
+### English
+
+[…](ayah-18) and what will make you realize what ’Illiyûn is?— […](ayah-20)

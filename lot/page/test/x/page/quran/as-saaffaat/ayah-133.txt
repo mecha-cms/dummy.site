@@ -1,0 +1,15 @@
+---
+ayah: 133
+title: Āyah 133
+description: Content of sūrah As-Saaffaat āyah 133.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَإِنَّ لُوطًا لَّمِنَ ٱلْمُرْسَلِينَ</span>
+
+### English
+
+And Lot was indeed one of the messengers.

@@ -1,0 +1,15 @@
+---
+ayah: 201
+title: Āyah 201
+description: Content of sūrah Ash-Shu’araa āyah 201.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-202) لَا يُؤْمِنُونَ بِهِۦ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ</span>
+
+### English
+
+They will not believe in it until they see the painful punishment […](ayah-202)

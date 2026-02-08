@@ -1,0 +1,15 @@
+---
+ayah: 53
+title: Āyah 53
+description: Content of sūrah Saba āyah 53.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَقَدْ كَفَرُوا۟ بِهِۦ مِن قَبْلُ ۖ وَيَقْذِفُونَ بِٱلْغَيْبِ مِن مَّكَانٍۭ بَعِيدٍ […](ayah-52)</span>
+
+### English
+
+[…](ayah-52) while they had already rejected it before, guessing blindly from a place ˹equally˺ far-away ˹from the Hereafter˺?

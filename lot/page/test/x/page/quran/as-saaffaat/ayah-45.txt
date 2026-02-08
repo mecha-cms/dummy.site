@@ -1,0 +1,15 @@
+---
+ayah: 45
+title: Āyah 45
+description: Content of sūrah As-Saaffaat āyah 45.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-46) يُطَافُ عَلَيْهِم بِكَأْسٍ مِّن مَّعِينٍۭ</span>
+
+### English
+
+A drink ˹of pure wine˺ will be passed around to them from a flowing stream: […](ayah-46)

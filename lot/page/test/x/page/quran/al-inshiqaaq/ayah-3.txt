@@ -1,0 +1,15 @@
+---
+ayah: 3
+title: Āyah 3
+description: Content of sūrah Al-Inshiqaaq āyah 3.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-4) وَإِذَا ٱلْأَرْضُ مُدَّتْ […](ayah-2)</span>
+
+### English
+
+[…](ayah-2) and when the earth is flattened out […](ayah-4)

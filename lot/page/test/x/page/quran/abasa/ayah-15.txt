@@ -1,0 +1,15 @@
+---
+ayah: 15
+title: Āyah 15
+description: Content of sūrah Abasa āyah 15.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-16) بِأَيْدِى سَفَرَةٍ […](ayah-14)</span>
+
+### English
+
+[…](ayah-14) by the hands of angel-scribes […](ayah-16)

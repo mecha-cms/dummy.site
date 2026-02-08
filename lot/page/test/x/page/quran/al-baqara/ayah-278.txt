@@ -1,0 +1,15 @@
+---
+ayah: 278
+title: Āyah 278
+description: Content of sūrah Al-Baqara āyah 278.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَذَرُوا۟ مَا بَقِىَ مِنَ ٱلرِّبَوٰٓا۟ إِن كُنتُم مُّؤْمِنِينَ</span>
+
+### English
+
+O believers! Fear Allah, and give up outstanding interest if you are ˹true˺ believers.

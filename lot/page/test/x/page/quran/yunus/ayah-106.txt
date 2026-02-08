@@ -1,0 +1,15 @@
+---
+ayah: 106
+title: Āyah 106
+description: Content of sūrah Yunus āyah 106.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-107) وَلَا تَدْعُ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكَ وَلَا يَضُرُّكَ ۖ فَإِن فَعَلْتَ فَإِنَّكَ إِذًا مِّنَ ٱلظَّـٰلِمِينَ […](ayah-105)</span>
+
+### English
+
+[…](ayah-105) and ‘Do not invoke, instead of Allah, what can neither benefit nor harm you—for if you do, then you will certainly be one of the wrongdoers,’ […](ayah-107)

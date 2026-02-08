@@ -1,0 +1,15 @@
+---
+ayah: 103
+title: Āyah 103
+description: Content of sūrah Al-An’aam āyah 103.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">لَّا تُدْرِكُهُ ٱلْأَبْصَـٰرُ وَهُوَ يُدْرِكُ ٱلْأَبْصَـٰرَ ۖ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ</span>
+
+### English
+
+No vision can encompass Him, but He encompasses all vision. For He is the Most Subtle, All-Aware.

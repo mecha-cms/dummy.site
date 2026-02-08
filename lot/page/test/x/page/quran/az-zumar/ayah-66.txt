@@ -1,0 +1,15 @@
+---
+ayah: 66
+title: Āyah 66
+description: Content of sūrah Az-Zumar āyah 66.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">بَلِ ٱللَّهَ فَٱعْبُدْ وَكُن مِّنَ ٱلشَّـٰكِرِينَ</span>
+
+### English
+
+Rather, worship Allah ˹alone˺ and be one of the grateful.

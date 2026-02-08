@@ -1,0 +1,15 @@
+---
+ayah: 68
+title: Āyah 68
+description: Content of sūrah As-Saaffaat āyah 68.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">ثُمَّ إِنَّ مَرْجِعَهُمْ لَإِلَى ٱلْجَحِيمِ</span>
+
+### English
+
+Then they will ultimately return to ˹their place in˺ Hell.

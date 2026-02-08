@@ -1,0 +1,15 @@
+---
+ayah: 117
+title: Āyah 117
+description: Content of sūrah As-Saaffaat āyah 117.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-118) وَءَاتَيْنَـٰهُمَا ٱلْكِتَـٰبَ ٱلْمُسْتَبِينَ</span>
+
+### English
+
+We gave them the clear Scripture […](ayah-118)

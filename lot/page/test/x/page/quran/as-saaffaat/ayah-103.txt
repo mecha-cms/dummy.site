@@ -1,0 +1,15 @@
+---
+ayah: 103
+title: Āyah 103
+description: Content of sūrah As-Saaffaat āyah 103.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-104) فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ</span>
+
+### English
+
+Then when they submitted ˹to Allah’s Will˺, and Abraham laid him on the side of his forehead ˹for sacrifice˺ […](ayah-104)

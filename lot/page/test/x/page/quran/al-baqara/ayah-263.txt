@@ -1,0 +1,15 @@
+---
+ayah: 263
+title: Āyah 263
+description: Content of sūrah Al-Baqara āyah 263.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">۞ قَوْلٌ مَّعْرُوفٌ وَمَغْفِرَةٌ خَيْرٌ مِّن صَدَقَةٍ يَتْبَعُهَآ أَذًى ۗ وَٱللَّهُ غَنِىٌّ حَلِيمٌ</span>
+
+### English
+
+Kind words and forgiveness are better than charity followed by injury. And Allah is Self-Sufficient, Most Forbearing.

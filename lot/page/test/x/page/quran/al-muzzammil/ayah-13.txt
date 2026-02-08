@@ -1,0 +1,15 @@
+---
+ayah: 13
+title: Āyah 13
+description: Content of sūrah Al-Muzzammil āyah 13.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-14) وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا […](ayah-12)</span>
+
+### English
+
+[…](ayah-12) choking food, and a painful punishment ˹in store for them˺ […](ayah-14)

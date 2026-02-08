@@ -1,0 +1,15 @@
+---
+ayah: 34
+title: Āyah 34
+description: Content of sūrah Ar-Room āyah 34.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَـٰهُمْ ۚ فَتَمَتَّعُوا۟ فَسَوْفَ تَعْلَمُونَ […](ayah-33)</span>
+
+### English
+
+[…](ayah-33) becoming ungrateful for whatever ˹favours˺ We have given them. So enjoy yourselves, for soon you will know.

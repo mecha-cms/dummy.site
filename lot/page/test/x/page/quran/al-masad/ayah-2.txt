@@ -1,0 +1,15 @@
+---
+ayah: 2
+title: Āyah 2
+description: Content of sūrah Al-Masad āyah 2.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ</span>
+
+### English
+
+Neither his wealth nor ˹worldly˺ gains will benefit him.

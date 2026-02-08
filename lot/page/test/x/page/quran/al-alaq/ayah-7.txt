@@ -1,0 +1,15 @@
+---
+ayah: 7
+title: Āyah 7
+description: Content of sūrah Al-Alaq āyah 7.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">أَن رَّءَاهُ ٱسْتَغْنَىٰٓ […](ayah-6)</span>
+
+### English
+
+[…](ayah-6) once they think they are self-sufficient.

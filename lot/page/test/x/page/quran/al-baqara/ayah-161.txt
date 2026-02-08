@@ -1,0 +1,15 @@
+---
+ayah: 161
+title: Āyah 161
+description: Content of sūrah Al-Baqara āyah 161.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌ أُو۟لَـٰٓئِكَ عَلَيْهِمْ لَعْنَةُ ٱللَّهِ وَٱلْمَلَـٰٓئِكَةِ وَٱلنَّاسِ أَجْمَعِينَ</span>
+
+### English
+
+Surely those who disbelieve and die as disbelievers are condemned by Allah, the angels, and all of humanity.

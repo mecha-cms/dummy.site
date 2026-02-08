@@ -1,0 +1,15 @@
+---
+ayah: 102
+title: Āyah 102
+description: Content of sūrah Al-A’raaf āyah 102.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَمَا وَجَدْنَا لِأَكْثَرِهِم مِّنْ عَهْدٍ ۖ وَإِن وَجَدْنَآ أَكْثَرَهُمْ لَفَـٰسِقِينَ</span>
+
+### English
+
+We did not find most of them true to their covenant. Rather, We found most of them truly rebellious.

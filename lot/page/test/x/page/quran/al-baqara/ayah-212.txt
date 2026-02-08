@@ -1,0 +1,15 @@
+---
+ayah: 212
+title: Āyah 212
+description: Content of sūrah Al-Baqara āyah 212.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">زُيِّنَ لِلَّذِينَ كَفَرُوا۟ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَيَسْخَرُونَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ ۘ وَٱلَّذِينَ ٱتَّقَوْا۟ فَوْقَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۗ وَٱللَّهُ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ</span>
+
+### English
+
+The life of this world has been made appealing to the disbelievers, and they mock the believers. Those who are mindful ˹of Allah˺ will rank above them on the Day of Judgment. And Allah provides for whoever He wills without limit.

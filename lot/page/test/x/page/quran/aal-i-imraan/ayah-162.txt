@@ -1,0 +1,15 @@
+---
+ayah: 162
+title: Āyah 162
+description: Content of sūrah Aal-i-Imraan āyah 162.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">أَفَمَنِ ٱتَّبَعَ رِضْوَٰنَ ٱللَّهِ كَمَنۢ بَآءَ بِسَخَطٍ مِّنَ ٱللَّهِ وَمَأْوَىٰهُ جَهَنَّمُ ۚ وَبِئْسَ ٱلْمَصِيرُ</span>
+
+### English
+
+Are those who seek Allah’s pleasure like those who deserve Allah’s wrath? Hell is their home. What an evil destination!

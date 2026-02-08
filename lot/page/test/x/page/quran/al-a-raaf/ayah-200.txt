@@ -1,0 +1,15 @@
+---
+ayah: 200
+title: Āyah 200
+description: Content of sūrah Al-A’raaf āyah 200.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَإِمَّا يَنزَغَنَّكَ مِنَ ٱلشَّيْطَـٰنِ نَزْغٌ فَٱسْتَعِذْ بِٱللَّهِ ۚ إِنَّهُۥ سَمِيعٌ عَلِيمٌ</span>
+
+### English
+
+If you are tempted by Satan, then seek refuge with Allah. Surely He is All-Hearing, All-Knowing.

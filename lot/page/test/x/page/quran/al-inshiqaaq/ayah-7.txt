@@ -1,0 +1,15 @@
+---
+ayah: 7
+title: Āyah 7
+description: Content of sūrah Al-Inshiqaaq āyah 7.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-8) فَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ بِيَمِينِهِۦ</span>
+
+### English
+
+As for those who are given their record in their right hand […](ayah-8)

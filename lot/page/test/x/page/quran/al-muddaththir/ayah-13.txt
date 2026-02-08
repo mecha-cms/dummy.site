@@ -1,0 +1,15 @@
+---
+ayah: 13
+title: Āyah 13
+description: Content of sūrah Al-Muddaththir āyah 13.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-14) وَبَنِينَ شُهُودًا […](ayah-12)</span>
+
+### English
+
+[…](ayah-12) and children always by his side […](ayah-14)

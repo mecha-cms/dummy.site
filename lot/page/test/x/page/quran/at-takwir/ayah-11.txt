@@ -1,0 +1,15 @@
+---
+ayah: 11
+title: Āyah 11
+description: Content of sūrah At-Takwir āyah 11.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-12) وَإِذَا ٱلسَّمَآءُ كُشِطَتْ […](ayah-10)</span>
+
+### English
+
+[…](ayah-10) and when the sky is stripped away […](ayah-12)

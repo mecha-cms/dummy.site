@@ -1,0 +1,15 @@
+---
+ayah: 7
+title: Āyah 7
+description: Content of sūrah Al-Fajr āyah 7.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-8) إِرَمَ ذَاتِ ٱلْعِمَادِ</span>
+
+### English
+
+˹the people˺ of Iram—with ˹their˺ great stature […](ayah-8)

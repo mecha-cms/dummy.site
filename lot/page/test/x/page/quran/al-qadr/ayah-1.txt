@@ -1,0 +1,15 @@
+---
+ayah: 1
+title: Āyah 1
+description: Content of sūrah Al-Qadr āyah 1.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ</span>
+
+### English
+
+Indeed, ˹it is˺ We ˹Who˺ sent this ˹Quran˺ down on the Night of Glory.

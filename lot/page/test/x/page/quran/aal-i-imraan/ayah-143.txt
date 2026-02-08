@@ -1,0 +1,15 @@
+---
+ayah: 143
+title: Āyah 143
+description: Content of sūrah Aal-i-Imraan āyah 143.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَلَقَدْ كُنتُمْ تَمَنَّوْنَ ٱلْمَوْتَ مِن قَبْلِ أَن تَلْقَوْهُ فَقَدْ رَأَيْتُمُوهُ وَأَنتُمْ تَنظُرُونَ</span>
+
+### English
+
+You certainly wished ˹for the opportunity˺ for martyrdom before encountering it, now you have seen it with your own eyes.

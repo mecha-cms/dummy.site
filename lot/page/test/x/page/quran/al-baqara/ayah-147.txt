@@ -1,0 +1,15 @@
+---
+ayah: 147
+title: Āyah 147
+description: Content of sūrah Al-Baqara āyah 147.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">ٱلْحَقُّ مِن رَّبِّكَ ۖ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ</span>
+
+### English
+
+˹This is˺ the truth from your Lord, so do not ever be one of those who doubt.

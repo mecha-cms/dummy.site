@@ -1,0 +1,15 @@
+---
+ayah: 154
+title: Āyah 154
+description: Content of sūrah An-Nisaa āyah 154.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَرَفَعْنَا فَوْقَهُمُ ٱلطُّورَ بِمِيثَـٰقِهِمْ وَقُلْنَا لَهُمُ ٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا وَقُلْنَا لَهُمْ لَا تَعْدُوا۟ فِى ٱلسَّبْتِ وَأَخَذْنَا مِنْهُم مِّيثَـٰقًا غَلِيظًا</span>
+
+### English
+
+We raised the Mount over them ˹as a warning˺ for ˹breaking˺ their covenant and said, “Enter the gate ˹of Jerusalem˺ with humility.” We also warned them, “Do not break the Sabbath,” and took from them a firm covenant.

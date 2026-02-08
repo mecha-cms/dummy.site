@@ -1,0 +1,15 @@
+---
+ayah: 85
+title: Āyah 85
+description: Content of sūrah Yunus āyah 85.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-86) فَقَالُوا۟ عَلَى ٱللَّهِ تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلْقَوْمِ ٱلظَّـٰلِمِينَ</span>
+
+### English
+
+They replied, “In Allah we trust. Our Lord! Do not subject us to the persecution of the oppressive people […](ayah-86)

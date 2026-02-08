@@ -1,0 +1,15 @@
+---
+ayah: 5
+title: Āyah 5
+description: Content of sūrah Al-Masad āyah 5.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ […](ayah-4)</span>
+
+### English
+
+[…](ayah-4) around her neck will be a rope of palm-fibre.

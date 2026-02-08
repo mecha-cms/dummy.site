@@ -1,0 +1,15 @@
+---
+ayah: 40
+title: Āyah 40
+description: Content of sūrah Al-Muddaththir āyah 40.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-41) فِى جَنَّـٰتٍ يَتَسَآءَلُونَ […](ayah-39)</span>
+
+### English
+
+[…](ayah-39) who will be in Gardens, asking one another […](ayah-41)

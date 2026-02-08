@@ -1,0 +1,15 @@
+---
+ayah: 41
+title: Āyah 41
+description: Content of sūrah As-Saaffaat āyah 41.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-42) أُو۟لَـٰٓئِكَ لَهُمْ رِزْقٌ مَّعْلُومٌ</span>
+
+### English
+
+They will have a known provision: […](ayah-42)

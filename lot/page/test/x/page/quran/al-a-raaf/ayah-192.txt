@@ -1,0 +1,15 @@
+---
+ayah: 192
+title: Āyah 192
+description: Content of sūrah Al-A’raaf āyah 192.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَلَا يَسْتَطِيعُونَ لَهُمْ نَصْرًا وَلَآ أَنفُسَهُمْ يَنصُرُونَ […](ayah-191)</span>
+
+### English
+
+[…](ayah-191) which cannot help them, or even help themselves?

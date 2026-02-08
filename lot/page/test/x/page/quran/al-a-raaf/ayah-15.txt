@@ -1,0 +1,15 @@
+---
+ayah: 15
+title: Āyah 15
+description: Content of sūrah Al-A’raaf āyah 15.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">قَالَ إِنَّكَ مِنَ ٱلْمُنظَرِينَ</span>
+
+### English
+
+Allah said, “You are delayed ˹until the appointed Day˺.”

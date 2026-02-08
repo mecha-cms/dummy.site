@@ -1,0 +1,15 @@
+---
+ayah: 7
+title: Āyah 7
+description: Content of sūrah Ash-Shams āyah 7.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-8) وَنَفْسٍ وَمَا سَوَّىٰهَا</span>
+
+### English
+
+And by the soul and ˹the One˺ Who fashioned it […](ayah-8)

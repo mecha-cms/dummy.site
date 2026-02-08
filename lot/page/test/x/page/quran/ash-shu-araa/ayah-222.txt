@@ -1,0 +1,15 @@
+---
+ayah: 222
+title: Āyah 222
+description: Content of sūrah Ash-Shu’araa āyah 222.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-223) تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٍ</span>
+
+### English
+
+They descend upon every sinful liar […](ayah-223)

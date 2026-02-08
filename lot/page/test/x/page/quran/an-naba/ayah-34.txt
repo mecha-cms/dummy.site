@@ -1,0 +1,15 @@
+---
+ayah: 34
+title: Āyah 34
+description: Content of sūrah An-Naba āyah 34.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-35) وَكَأْسًا دِهَاقًا […](ayah-33)</span>
+
+### English
+
+[…](ayah-33) and full cups ˹of pure wine˺ […](ayah-35)

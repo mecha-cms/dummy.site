@@ -1,0 +1,15 @@
+---
+ayah: 8
+title: Āyah 8
+description: Content of sūrah Al-Inshiqaaq āyah 8.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-9) فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا […](ayah-7)</span>
+
+### English
+
+[…](ayah-7) they will have an easy reckoning […](ayah-9)

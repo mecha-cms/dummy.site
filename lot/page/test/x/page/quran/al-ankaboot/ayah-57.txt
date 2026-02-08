@@ -1,0 +1,15 @@
+---
+ayah: 57
+title: Āyah 57
+description: Content of sūrah Al-Ankaboot āyah 57.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۖ ثُمَّ إِلَيْنَا تُرْجَعُونَ</span>
+
+### English
+
+Every soul will taste death, then to Us you will ˹all˺ be returned.

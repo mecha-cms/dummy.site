@@ -1,0 +1,15 @@
+---
+ayah: 10
+title: Āyah 10
+description: Content of sūrah Al-Aadiyaat āyah 10.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-11) وَحُصِّلَ مَا فِى ٱلصُّدُورِ […](ayah-9)</span>
+
+### English
+
+[…](ayah-9) and the secrets of the hearts will be laid bare— […](ayah-11)

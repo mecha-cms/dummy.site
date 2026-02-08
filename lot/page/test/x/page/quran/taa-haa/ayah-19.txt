@@ -1,0 +1,15 @@
+---
+ayah: 19
+title: Āyah 19
+description: Content of sūrah Taa-Haa āyah 19.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">قَالَ أَلْقِهَا يَـٰمُوسَىٰ</span>
+
+### English
+
+Allah said, “Throw it down, O  Moses!”

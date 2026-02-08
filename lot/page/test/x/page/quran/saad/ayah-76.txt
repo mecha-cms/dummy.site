@@ -1,0 +1,15 @@
+---
+ayah: 76
+title: Āyah 76
+description: Content of sūrah Saad āyah 76.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">قَالَ أَنَا۠ خَيْرٌ مِّنْهُ ۖ خَلَقْتَنِى مِن نَّارٍ وَخَلَقْتَهُۥ مِن طِينٍ</span>
+
+### English
+
+He replied, “I am better than he is: You created me from fire and him from clay.”

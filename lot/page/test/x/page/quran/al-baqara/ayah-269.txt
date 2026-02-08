@@ -1,0 +1,15 @@
+---
+ayah: 269
+title: Āyah 269
+description: Content of sūrah Al-Baqara āyah 269.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">يُؤْتِى ٱلْحِكْمَةَ مَن يَشَآءُ ۚ وَمَن يُؤْتَ ٱلْحِكْمَةَ فَقَدْ أُوتِىَ خَيْرًا كَثِيرًا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ</span>
+
+### English
+
+Allah grants wisdom to whoever He wills. And whoever is granted wisdom is certainly blessed with a great privilege. But none will be mindful ˹of this˺ except people of reason.

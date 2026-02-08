@@ -1,0 +1,15 @@
+---
+ayah: 38
+title: Āyah 38
+description: Content of sūrah Al-Hijr āyah 38.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِلَىٰ يَوْمِ ٱلْوَقْتِ ٱلْمَعْلُومِ […](ayah-37)</span>
+
+### English
+
+[…](ayah-37) until the appointed Day.”

@@ -1,0 +1,15 @@
+---
+ayah: 27
+title: Āyah 27
+description: Content of sūrah Al-Mutaffifin āyah 27.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-28) وَمِزَاجُهُۥ مِن تَسْنِيمٍ</span>
+
+### English
+
+And this drink’s flavour will come from Tasnîm— […](ayah-28)

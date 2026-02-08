@@ -1,0 +1,15 @@
+---
+ayah: 119
+title: Āyah 119
+description: Content of sūrah An-Nisaa āyah 119.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَـَٔامُرَنَّهُمْ فَلَيُبَتِّكُنَّ ءَاذَانَ ٱلْأَنْعَـٰمِ وَلَـَٔامُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ ٱللَّهِ ۚ وَمَن يَتَّخِذِ ٱلشَّيْطَـٰنَ وَلِيًّا مِّن دُونِ ٱللَّهِ فَقَدْ خَسِرَ خُسْرَانًا مُّبِينًا</span>
+
+### English
+
+I will certainly mislead them and delude them with empty hopes. Also, I will order them and they will slit the ears of cattle and alter Allah’s creation.” And whoever takes Satan as a guardian instead of Allah has certainly suffered a tremendous loss.

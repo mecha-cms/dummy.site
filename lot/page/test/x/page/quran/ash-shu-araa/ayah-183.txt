@@ -1,0 +1,15 @@
+---
+ayah: 183
+title: Āyah 183
+description: Content of sūrah Ash-Shu’araa āyah 183.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ […](ayah-182)</span>
+
+### English
+
+[…](ayah-182) and do not defraud people of their property. Nor go about spreading corruption in the land.

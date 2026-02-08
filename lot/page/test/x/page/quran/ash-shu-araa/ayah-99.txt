@@ -1,0 +1,15 @@
+---
+ayah: 99
+title: Āyah 99
+description: Content of sūrah Ash-Shu’araa āyah 99.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَمَآ أَضَلَّنَآ إِلَّا ٱلْمُجْرِمُونَ</span>
+
+### English
+
+And none led us astray other than the wicked.

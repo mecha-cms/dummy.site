@@ -1,0 +1,15 @@
+---
+ayah: 30
+title: Āyah 30
+description: Content of sūrah Az-Zumar āyah 30.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِنَّكَ مَيِّتٌ وَإِنَّهُم مَّيِّتُونَ</span>
+
+### English
+
+You ˹O Prophet˺ will certainly die, and they will die too.

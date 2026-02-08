@@ -1,0 +1,15 @@
+---
+ayah: 134
+title: Āyah 134
+description: Content of sūrah Al-An’aam āyah 134.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِنَّ مَا تُوعَدُونَ لَـَٔاتٍ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ</span>
+
+### English
+
+Indeed, what you have been promised will certainly come to pass. And you will have no escape.

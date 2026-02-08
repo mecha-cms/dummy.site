@@ -1,0 +1,15 @@
+---
+ayah: 117
+title: Āyah 117
+description: Content of sūrah Hud āyah 117.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَمَا كَانَ رَبُّكَ لِيُهْلِكَ ٱلْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا مُصْلِحُونَ</span>
+
+### English
+
+And your Lord ˹O Prophet˺ would never destroy a society unjustly while its people were acting rightly.

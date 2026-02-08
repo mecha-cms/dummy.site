@@ -1,0 +1,15 @@
+---
+ayah: 11
+title: Āyah 11
+description: Content of sūrah At-Taariq āyah 11.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-12) وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ</span>
+
+### English
+
+By the sky with its recurring cycles […](ayah-12)

@@ -1,0 +1,15 @@
+---
+ayah: 25
+title: Āyah 25
+description: Content of sūrah Adh-Dhaariyat āyah 25.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَـٰمًا ۖ قَالَ سَلَـٰمٌ قَوْمٌ مُّنكَرُونَ</span>
+
+### English
+
+˹Remember˺ when they entered his presence and greeted ˹him with˺, “Peace!” He replied, “Peace ˹be upon you˺!” ˹Then he said to himself,˺ “˹These are˺ an unfamiliar people.”

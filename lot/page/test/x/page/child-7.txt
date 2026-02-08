@@ -1,0 +1,5 @@
+---
+{ title: Child 7, description: Page child 7., type: Markdown }
+...
+
+Lorem ipsum dolor sit amet.

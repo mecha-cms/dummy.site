@@ -1,0 +1,15 @@
+---
+ayah: 46
+title: Āyah 46
+description: Content of sūrah Al-Haaqqa āyah 46.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-47) ثُمَّ لَقَطَعْنَا مِنْهُ ٱلْوَتِينَ […](ayah-45)</span>
+
+### English
+
+[…](ayah-45) then severed his aorta […](ayah-47)

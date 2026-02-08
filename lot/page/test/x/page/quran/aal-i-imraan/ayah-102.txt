@@ -1,0 +1,15 @@
+---
+ayah: 102
+title: Āyah 102
+description: Content of sūrah Aal-i-Imraan āyah 102.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ حَقَّ تُقَاتِهِۦ وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ</span>
+
+### English
+
+O believers! Be mindful of Allah in the way He deserves, and do not die except in ˹a state of full˺ submission ˹to Him˺.

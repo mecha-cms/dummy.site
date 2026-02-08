@@ -1,0 +1,15 @@
+---
+ayah: 3
+title: Āyah 3
+description: Content of sūrah An-Naas āyah 3.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-4) إِلَـٰهِ ٱلنَّاسِ […](ayah-2)</span>
+
+### English
+
+[…](ayah-2) the God of humankind […](ayah-4)

@@ -1,0 +1,15 @@
+---
+ayah: 76
+title: Āyah 76
+description: Content of sūrah Al-A’raaf āyah 76.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا بِٱلَّذِىٓ ءَامَنتُم بِهِۦ كَـٰفِرُونَ</span>
+
+### English
+
+The arrogant said, “We surely reject what you believe in.”

@@ -1,0 +1,15 @@
+---
+ayah: 115
+title: Āyah 115
+description: Content of sūrah Al-Baqara āyah 115.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَلِلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ ۚ فَأَيْنَمَا تُوَلُّوا۟ فَثَمَّ وَجْهُ ٱللَّهِ ۚ إِنَّ ٱللَّهَ وَٰسِعٌ عَلِيمٌ</span>
+
+### English
+
+To Allah belong the east and the west, so wherever you turn you are facing ˹towards˺ Allah. Surely Allah is All-Encompassing, All-Knowing.

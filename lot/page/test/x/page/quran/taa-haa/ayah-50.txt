@@ -1,0 +1,15 @@
+---
+ayah: 50
+title: Āyah 50
+description: Content of sūrah Taa-Haa āyah 50.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">قَالَ رَبُّنَا ٱلَّذِىٓ أَعْطَىٰ كُلَّ شَىْءٍ خَلْقَهُۥ ثُمَّ هَدَىٰ</span>
+
+### English
+
+He answered, “Our Lord is the One Who has given everything its ˹distinctive˺ form, then guided ˹it˺.”

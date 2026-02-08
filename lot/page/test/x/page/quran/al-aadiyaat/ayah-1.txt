@@ -1,0 +1,15 @@
+---
+ayah: 1
+title: Āyah 1
+description: Content of sūrah Al-Aadiyaat āyah 1.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-2) وَٱلْعَـٰدِيَـٰتِ ضَبْحًا</span>
+
+### English
+
+’ By the galloping, panting horses […](ayah-2)

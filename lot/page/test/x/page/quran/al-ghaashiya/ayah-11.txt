@@ -1,0 +1,15 @@
+---
+ayah: 11
+title: Āyah 11
+description: Content of sūrah Al-Ghaashiya āyah 11.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">لَّا تَسْمَعُ فِيهَا لَـٰغِيَةً […](ayah-10)</span>
+
+### English
+
+[…](ayah-10) where no idle talk will be heard.

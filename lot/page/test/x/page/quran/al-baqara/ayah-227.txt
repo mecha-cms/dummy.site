@@ -1,0 +1,15 @@
+---
+ayah: 227
+title: Āyah 227
+description: Content of sūrah Al-Baqara āyah 227.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَإِنْ عَزَمُوا۟ ٱلطَّلَـٰقَ فَإِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ</span>
+
+### English
+
+But if they settle on divorce, then Allah is indeed All-Hearing, All-Knowing.

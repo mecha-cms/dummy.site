@@ -1,0 +1,15 @@
+---
+ayah: 7
+title: Āyah 7
+description: Content of sūrah Al-Aadiyaat āyah 7.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-8) وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ […](ayah-6)</span>
+
+### English
+
+[…](ayah-6) and they certainly attest to this— […](ayah-8)

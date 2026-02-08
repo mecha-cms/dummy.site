@@ -1,0 +1,15 @@
+---
+ayah: 121
+title: Āyah 121
+description: Content of sūrah Hud āyah 121.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَقُل لِّلَّذِينَ لَا يُؤْمِنُونَ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنَّا عَـٰمِلُونَ</span>
+
+### English
+
+Say to those who disbelieve, “Persist in your ways; we will certainly persist in ours.

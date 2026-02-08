@@ -1,0 +1,15 @@
+---
+ayah: 46
+title: Āyah 46
+description: Content of sūrah Ad-Dukhaan āyah 46.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">كَغَلْىِ ٱلْحَمِيمِ […](ayah-45)</span>
+
+### English
+
+[…](ayah-45) like the boiling of hot water.

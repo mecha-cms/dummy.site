@@ -1,0 +1,15 @@
+---
+ayah: 279
+title: Āyah 279
+description: Content of sūrah Al-Baqara āyah 279.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَإِن لَّمْ تَفْعَلُوا۟ فَأْذَنُوا۟ بِحَرْبٍ مِّنَ ٱللَّهِ وَرَسُولِهِۦ ۖ وَإِن تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَٰلِكُمْ لَا تَظْلِمُونَ وَلَا تُظْلَمُونَ</span>
+
+### English
+
+If you do not, then beware of a war with Allah and His Messenger! But if you repent, you may retain your principal—neither inflicting nor suffering harm.

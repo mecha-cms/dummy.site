@@ -1,0 +1,15 @@
+---
+ayah: 11
+title: Āyah 11
+description: Content of sūrah Saad āyah 11.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">جُندٌ مَّا هُنَالِكَ مَهْزُومٌ مِّنَ ٱلْأَحْزَابِ</span>
+
+### English
+
+This is just another ˹enemy˺ force bound for defeat out there.

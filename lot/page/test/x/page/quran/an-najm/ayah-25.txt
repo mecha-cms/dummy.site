@@ -1,0 +1,15 @@
+---
+ayah: 25
+title: Āyah 25
+description: Content of sūrah An-Najm āyah 25.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَلِلَّهِ ٱلْـَٔاخِرَةُ وَٱلْأُولَىٰ</span>
+
+### English
+
+In fact, to Allah ˹alone˺ belongs this world and the next.

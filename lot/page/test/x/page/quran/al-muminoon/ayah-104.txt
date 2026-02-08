@@ -1,0 +1,15 @@
+---
+ayah: 104
+title: Āyah 104
+description: Content of sūrah Al-Muminoon āyah 104.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">تَلْفَحُ وُجُوهَهُمُ ٱلنَّارُ وَهُمْ فِيهَا كَـٰلِحُونَ</span>
+
+### English
+
+The Fire will burn their faces, leaving them deformed.

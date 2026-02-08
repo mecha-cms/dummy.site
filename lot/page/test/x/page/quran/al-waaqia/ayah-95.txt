@@ -1,0 +1,15 @@
+---
+ayah: 95
+title: Āyah 95
+description: Content of sūrah Al-Waaqia āyah 95.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِنَّ هَـٰذَا لَهُوَ حَقُّ ٱلْيَقِينِ</span>
+
+### English
+
+Indeed, this is the absolute truth.

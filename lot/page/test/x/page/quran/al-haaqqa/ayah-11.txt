@@ -1,0 +1,15 @@
+---
+ayah: 11
+title: Āyah 11
+description: Content of sūrah Al-Haaqqa āyah 11.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-12) إِنَّا لَمَّا طَغَا ٱلْمَآءُ حَمَلْنَـٰكُمْ فِى ٱلْجَارِيَةِ</span>
+
+### English
+
+Indeed, when the floodwater had overflowed, We carried you in the floating Ark ˹with Noah˺ […](ayah-12)

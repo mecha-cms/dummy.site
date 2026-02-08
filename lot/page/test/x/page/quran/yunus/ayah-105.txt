@@ -1,0 +1,15 @@
+---
+ayah: 105
+title: Āyah 105
+description: Content of sūrah Yunus āyah 105.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-106) وَأَنْ أَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ […](ayah-104)</span>
+
+### English
+
+[…](ayah-104) and, ‘Be steadfast in faith in all uprightness, and do not be one of the polytheists,’ […](ayah-106)

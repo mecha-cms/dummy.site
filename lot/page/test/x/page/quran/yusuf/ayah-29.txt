@@ -1,0 +1,15 @@
+---
+ayah: 29
+title: Āyah 29
+description: Content of sūrah Yusuf āyah 29.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">يُوسُفُ أَعْرِضْ عَنْ هَـٰذَا ۚ وَٱسْتَغْفِرِى لِذَنۢبِكِ ۖ إِنَّكِ كُنتِ مِنَ ٱلْخَاطِـِٔينَ</span>
+
+### English
+
+O  Joseph! Forget about this. And you ˹O wife˺! Seek forgiveness for your sin. It certainly has been your fault.”

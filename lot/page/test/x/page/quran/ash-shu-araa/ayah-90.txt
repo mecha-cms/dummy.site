@@ -1,0 +1,15 @@
+---
+ayah: 90
+title: Āyah 90
+description: Content of sūrah Ash-Shu’araa āyah 90.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-91) وَأُزْلِفَتِ ٱلْجَنَّةُ لِلْمُتَّقِينَ</span>
+
+### English
+
+˹On that Day˺ Paradise will be brought near to the God-fearing […](ayah-91)

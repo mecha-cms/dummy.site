@@ -1,0 +1,15 @@
+---
+ayah: 159
+title: Āyah 159
+description: Content of sūrah Aal-i-Imraan āyah 159.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَبِمَا رَحْمَةٍ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ ۖ فَٱعْفُ عَنْهُمْ وَٱسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِى ٱلْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ</span>
+
+### English
+
+It is out of Allah’s mercy that you ˹O Prophet˺ have been lenient with them. Had you been cruel or hard-hearted, they would have certainly abandoned you. So pardon them, ask Allah’s forgiveness for them, and consult with them in ˹conducting˺ matters. Once you make a decision, put your trust in Allah. Surely Allah loves those who trust in Him.

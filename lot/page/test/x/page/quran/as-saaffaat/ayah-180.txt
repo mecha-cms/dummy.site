@@ -1,0 +1,15 @@
+---
+ayah: 180
+title: Āyah 180
+description: Content of sūrah As-Saaffaat āyah 180.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">سُبْحَـٰنَ رَبِّكَ رَبِّ ٱلْعِزَّةِ عَمَّا يَصِفُونَ</span>
+
+### English
+
+Glorified is your Lord—the Lord of Honour and Power—above what they claim!

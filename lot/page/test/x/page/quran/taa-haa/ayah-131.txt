@@ -1,0 +1,15 @@
+---
+ayah: 131
+title: Āyah 131
+description: Content of sūrah Taa-Haa āyah 131.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًا مِّنْهُمْ زَهْرَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا لِنَفْتِنَهُمْ فِيهِ ۚ وَرِزْقُ رَبِّكَ خَيْرٌ وَأَبْقَىٰ</span>
+
+### English
+
+Do not let your eyes crave what We have allowed some of the disbelievers to enjoy; the ˹fleeting˺ splendour of this worldly life, which We test them with. But your Lord’s provision ˹in the Hereafter˺ is far better and more lasting.

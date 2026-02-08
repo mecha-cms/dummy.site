@@ -1,0 +1,15 @@
+---
+ayah: 101
+title: Āyah 101
+description: Content of sūrah Ash-Shu’araa āyah 101.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَلَا صَدِيقٍ حَمِيمٍ […](ayah-100)</span>
+
+### English
+
+[…](ayah-100) nor a close friend.

@@ -1,0 +1,15 @@
+---
+ayah: 115
+title: Āyah 115
+description: Content of sūrah As-Saaffaat āyah 115.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَنَجَّيْنَـٰهُمَا وَقَوْمَهُمَا مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ […](ayah-114)</span>
+
+### English
+
+[…](ayah-114) and delivered them and their people from the great distress.

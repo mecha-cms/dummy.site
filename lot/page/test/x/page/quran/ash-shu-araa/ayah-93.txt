@@ -1,0 +1,15 @@
+---
+ayah: 93
+title: Āyah 93
+description: Content of sūrah Ash-Shu’araa āyah 93.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">مِن دُونِ ٱللَّهِ هَلْ يَنصُرُونَكُمْ أَوْ يَنتَصِرُونَ […](ayah-92)</span>
+
+### English
+
+[…](ayah-92) besides Allah? Can they help you or even help themselves?”

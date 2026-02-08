@@ -1,0 +1,15 @@
+---
+ayah: 100
+title: Āyah 100
+description: Content of sūrah Al-Kahf āyah 100.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-101) وَعَرَضْنَا جَهَنَّمَ يَوْمَئِذٍ لِّلْكَـٰفِرِينَ عَرْضًا</span>
+
+### English
+
+On that Day We will display Hell clearly for the disbelievers […](ayah-101)

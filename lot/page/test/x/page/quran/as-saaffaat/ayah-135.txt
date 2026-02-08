@@ -1,0 +1,15 @@
+---
+ayah: 135
+title: Āyah 135
+description: Content of sūrah As-Saaffaat āyah 135.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِلَّا عَجُوزًا فِى ٱلْغَـٰبِرِينَ […](ayah-134)</span>
+
+### English
+
+[…](ayah-134) except an old woman, who was one of the doomed.

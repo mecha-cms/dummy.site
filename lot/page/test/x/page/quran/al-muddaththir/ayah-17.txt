@@ -1,0 +1,15 @@
+---
+ayah: 17
+title: Āyah 17
+description: Content of sūrah Al-Muddaththir āyah 17.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-18) سَأُرْهِقُهُۥ صَعُودًا</span>
+
+### English
+
+I will make his fate unbearable […](ayah-18)

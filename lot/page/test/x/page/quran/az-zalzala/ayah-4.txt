@@ -1,0 +1,15 @@
+---
+ayah: 4
+title: Āyah 4
+description: Content of sūrah Az-Zalzala āyah 4.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-5) يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا […](ayah-3)</span>
+
+### English
+
+[…](ayah-3) on that Day the earth will recount everything […](ayah-5)

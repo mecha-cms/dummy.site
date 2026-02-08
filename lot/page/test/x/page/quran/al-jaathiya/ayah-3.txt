@@ -1,0 +1,15 @@
+---
+ayah: 3
+title: Āyah 3
+description: Content of sūrah Al-Jaathiya āyah 3.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِنَّ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ لَـَٔايَـٰتٍ لِّلْمُؤْمِنِينَ</span>
+
+### English
+
+Surely in ˹the creation of˺ the heavens and the earth are signs for the believers.

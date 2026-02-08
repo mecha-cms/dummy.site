@@ -1,0 +1,15 @@
+---
+ayah: 61
+title: Āyah 61
+description: Content of sūrah Al-Hijr āyah 61.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-62) فَلَمَّا جَآءَ ءَالَ لُوطٍ ٱلْمُرْسَلُونَ</span>
+
+### English
+
+So when the messengers came to the family of Lot […](ayah-62)

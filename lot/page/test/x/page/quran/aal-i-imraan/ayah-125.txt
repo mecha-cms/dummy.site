@@ -1,0 +1,15 @@
+---
+ayah: 125
+title: Āyah 125
+description: Content of sūrah Aal-i-Imraan āyah 125.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">بَلَىٰٓ ۚ إِن تَصْبِرُوا۟ وَتَتَّقُوا۟ وَيَأْتُوكُم مِّن فَوْرِهِمْ هَـٰذَا يُمْدِدْكُمْ رَبُّكُم بِخَمْسَةِ ءَالَـٰفٍ مِّنَ ٱلْمَلَـٰٓئِكَةِ مُسَوِّمِينَ</span>
+
+### English
+
+Most certainly, if you ˹believers˺ are firm and mindful ˹of Allah˺ and the enemy launches a sudden attack on you, Allah will reinforce you with five thousand angels designated ˹for battle˺.

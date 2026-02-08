@@ -1,0 +1,15 @@
+---
+ayah: 180
+title: Āyah 180
+description: Content of sūrah Al-A’raaf āyah 180.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَلِلَّهِ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ فَٱدْعُوهُ بِهَا ۖ وَذَرُوا۟ ٱلَّذِينَ يُلْحِدُونَ فِىٓ أَسْمَـٰٓئِهِۦ ۚ سَيُجْزَوْنَ مَا كَانُوا۟ يَعْمَلُونَ</span>
+
+### English
+
+Allah has the Most Beautiful Names. So call upon Him by them, and keep away from those who abuse His Names. They will be punished for what they used to do.

@@ -1,0 +1,15 @@
+---
+ayah: 34
+title: Āyah 34
+description: Content of sūrah Az-Zukhruf āyah 34.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-35) وَلِبُيُوتِهِمْ أَبْوَٰبًا وَسُرُرًا عَلَيْهَا يَتَّكِـُٔونَ […](ayah-33)</span>
+
+### English
+
+[…](ayah-33) as well as ˹silver˺ gates and thrones to recline on […](ayah-35)

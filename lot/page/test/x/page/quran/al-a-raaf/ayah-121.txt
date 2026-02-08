@@ -1,0 +1,15 @@
+---
+ayah: 121
+title: Āyah 121
+description: Content of sūrah Al-A’raaf āyah 121.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-122) قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَـٰلَمِينَ</span>
+
+### English
+
+They declared, “We ˹now˺ believe in the Lord of all worlds— […](ayah-122)

@@ -1,0 +1,15 @@
+---
+ayah: 3
+title: Āyah 3
+description: Content of sūrah Al-Masad āyah 3.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-4) سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ</span>
+
+### English
+
+He will burn in a flaming Fire […](ayah-4)

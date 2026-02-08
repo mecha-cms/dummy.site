@@ -1,0 +1,15 @@
+---
+ayah: 196
+title: Āyah 196
+description: Content of sūrah Aal-i-Imraan āyah 196.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">لَا يَغُرَّنَّكَ تَقَلُّبُ ٱلَّذِينَ كَفَرُوا۟ فِى ٱلْبِلَـٰدِ</span>
+
+### English
+
+Do not be deceived by the prosperity of the disbelievers throughout the land.

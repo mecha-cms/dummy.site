@@ -1,0 +1,15 @@
+---
+ayah: 8
+title: Āyah 8
+description: Content of sūrah An-Najm āyah 8.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-9) ثُمَّ دَنَا فَتَدَلَّىٰ […](ayah-7)</span>
+
+### English
+
+[…](ayah-7) then he approached ˹the Prophet˺, coming so close […](ayah-9)

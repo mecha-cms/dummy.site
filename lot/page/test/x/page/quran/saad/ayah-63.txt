@@ -1,0 +1,15 @@
+---
+ayah: 63
+title: Āyah 63
+description: Content of sūrah Saad āyah 63.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">أَتَّخَذْنَـٰهُمْ سِخْرِيًّا أَمْ زَاغَتْ عَنْهُمُ ٱلْأَبْصَـٰرُ</span>
+
+### English
+
+Were we wrong in mocking them ˹in the world˺? Or do our eyes ˹just˺ fail to see them ˹in the Fire˺?”

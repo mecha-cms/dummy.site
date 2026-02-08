@@ -1,0 +1,15 @@
+---
+ayah: 20
+title: Āyah 20
+description: Content of sūrah Al-Mutaffifin āyah 20.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-21) كِتَـٰبٌ مَّرْقُومٌ […](ayah-19)</span>
+
+### English
+
+[…](ayah-19) a fate ˹already˺ sealed […](ayah-21)

@@ -1,0 +1,15 @@
+---
+ayah: 28
+title: Āyah 28
+description: Content of sūrah An-Najm āyah 28.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَمَا لَهُم بِهِۦ مِنْ عِلْمٍ ۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ ۖ وَإِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا […](ayah-27)</span>
+
+### English
+
+[…](ayah-27) although they have no knowledge ˹in support˺ of this. They follow nothing but ˹inherited˺ assumptions. And surely assumptions can in no way replace the truth.

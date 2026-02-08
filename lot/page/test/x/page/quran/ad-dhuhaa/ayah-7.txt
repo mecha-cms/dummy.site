@@ -1,0 +1,15 @@
+---
+ayah: 7
+title: Āyah 7
+description: Content of sūrah Ad-Dhuhaa āyah 7.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَوَجَدَكَ ضَآلًّا فَهَدَىٰ</span>
+
+### English
+
+Did He not find you unguided then guided you?

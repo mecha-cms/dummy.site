@@ -1,0 +1,15 @@
+---
+ayah: 11
+title: Āyah 11
+description: Content of sūrah Al-Infitaar āyah 11.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">كِرَامًا كَـٰتِبِينَ […](ayah-10)</span>
+
+### English
+
+[…](ayah-10) honourable angels, recording ˹everything˺.

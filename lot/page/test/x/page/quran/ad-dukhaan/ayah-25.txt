@@ -1,0 +1,15 @@
+---
+ayah: 25
+title: Āyah 25
+description: Content of sūrah Ad-Dukhaan āyah 25.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-26) كَمْ تَرَكُوا۟ مِن جَنَّـٰتٍ وَعُيُونٍ</span>
+
+### English
+
+˹Imagine˺ how many gardens and springs the tyrants left behind […](ayah-26)

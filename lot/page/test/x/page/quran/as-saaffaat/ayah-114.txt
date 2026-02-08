@@ -1,0 +1,15 @@
+---
+ayah: 114
+title: Āyah 114
+description: Content of sūrah As-Saaffaat āyah 114.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-115) وَلَقَدْ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَـٰرُونَ</span>
+
+### English
+
+And We certainly showed favour to Moses and Aaron […](ayah-115)

@@ -1,0 +1,15 @@
+---
+ayah: 5
+title: Āyah 5
+description: Content of sūrah Ash-Shams āyah 5.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-6) وَٱلسَّمَآءِ وَمَا بَنَىٰهَا</span>
+
+### English
+
+And by heaven and ˹the One˺ Who built it […](ayah-6)

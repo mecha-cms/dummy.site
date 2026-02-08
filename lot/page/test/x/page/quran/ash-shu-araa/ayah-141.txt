@@ -1,0 +1,15 @@
+---
+ayah: 141
+title: Āyah 141
+description: Content of sūrah Ash-Shu’araa āyah 141.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-142) كَذَّبَتْ ثَمُودُ ٱلْمُرْسَلِينَ</span>
+
+### English
+
+The people of Thamûd rejected the messengers […](ayah-142)

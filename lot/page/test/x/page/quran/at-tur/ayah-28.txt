@@ -1,0 +1,15 @@
+---
+ayah: 28
+title: Āyah 28
+description: Content of sūrah At-Tur āyah 28.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِنَّا كُنَّا مِن قَبْلُ نَدْعُوهُ ۖ إِنَّهُۥ هُوَ ٱلْبَرُّ ٱلرَّحِيمُ</span>
+
+### English
+
+Indeed, we used to call upon Him ˹alone˺ before. He is truly the Most Kind, Most Merciful.”

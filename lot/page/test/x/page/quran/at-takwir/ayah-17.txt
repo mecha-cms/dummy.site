@@ -1,0 +1,15 @@
+---
+ayah: 17
+title: Āyah 17
+description: Content of sūrah At-Takwir āyah 17.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-18) وَٱلَّيْلِ إِذَا عَسْعَسَ […](ayah-16)</span>
+
+### English
+
+[…](ayah-16) and the night as it falls […](ayah-18)

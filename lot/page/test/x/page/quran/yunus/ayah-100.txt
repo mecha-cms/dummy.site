@@ -1,0 +1,15 @@
+---
+ayah: 100
+title: Āyah 100
+description: Content of sūrah Yunus āyah 100.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَمَا كَانَ لِنَفْسٍ أَن تُؤْمِنَ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَيَجْعَلُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يَعْقِلُونَ</span>
+
+### English
+
+It is not for any soul to believe except by Allah’s leave, and He will bring His wrath upon those who are unmindful.

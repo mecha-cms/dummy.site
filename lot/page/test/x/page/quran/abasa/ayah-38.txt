@@ -1,0 +1,15 @@
+---
+ayah: 38
+title: Āyah 38
+description: Content of sūrah Abasa āyah 38.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-39) وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ</span>
+
+### English
+
+On that Day ˹some˺ faces will be bright […](ayah-39)

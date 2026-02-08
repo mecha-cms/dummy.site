@@ -1,0 +1,15 @@
+---
+ayah: 168
+title: Āyah 168
+description: Content of sūrah An-Nisaa āyah 168.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-169) إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَظَلَمُوا۟ لَمْ يَكُنِ ٱللَّهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ طَرِيقًا</span>
+
+### English
+
+Those who disbelieve and wrong themselves—surely Allah will neither forgive them nor guide them to any path […](ayah-169)

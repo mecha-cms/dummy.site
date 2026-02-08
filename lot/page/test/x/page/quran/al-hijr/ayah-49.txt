@@ -1,0 +1,15 @@
+---
+ayah: 49
+title: Āyah 49
+description: Content of sūrah Al-Hijr āyah 49.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-50) ۞ نَبِّئْ عِبَادِىٓ أَنِّىٓ أَنَا ٱلْغَفُورُ ٱلرَّحِيمُ</span>
+
+### English
+
+Inform My servants ˹O Prophet˺ that I am truly the All-Forgiving, Most Merciful […](ayah-50)

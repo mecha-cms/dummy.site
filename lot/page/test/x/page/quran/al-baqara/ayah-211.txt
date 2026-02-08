@@ -1,0 +1,15 @@
+---
+ayah: 211
+title: Āyah 211
+description: Content of sūrah Al-Baqara āyah 211.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">سَلْ بَنِىٓ إِسْرَٰٓءِيلَ كَمْ ءَاتَيْنَـٰهُم مِّنْ ءَايَةٍۭ بَيِّنَةٍ ۗ وَمَن يُبَدِّلْ نِعْمَةَ ٱللَّهِ مِنۢ بَعْدِ مَا جَآءَتْهُ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ</span>
+
+### English
+
+Ask the Children of Israel how many clear signs We have given them. And whoever trades Allah’s favour—after receiving it—˹for disbelief˺ should know that Allah is indeed severe in punishment.

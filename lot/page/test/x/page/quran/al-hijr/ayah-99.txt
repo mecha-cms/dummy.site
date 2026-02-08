@@ -1,0 +1,15 @@
+---
+ayah: 99
+title: Āyah 99
+description: Content of sūrah Al-Hijr āyah 99.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَٱعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ ٱلْيَقِينُ […](ayah-98)</span>
+
+### English
+
+[…](ayah-98) and worship your Lord until the inevitable comes your way.

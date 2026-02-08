@@ -1,0 +1,15 @@
+---
+ayah: 153
+title: Āyah 153
+description: Content of sūrah As-Saaffaat āyah 153.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">أَصْطَفَى ٱلْبَنَاتِ عَلَى ٱلْبَنِينَ</span>
+
+### English
+
+Has He chosen daughters over sons?

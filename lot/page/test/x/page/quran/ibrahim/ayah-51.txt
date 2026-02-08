@@ -1,0 +1,15 @@
+---
+ayah: 51
+title: Āyah 51
+description: Content of sūrah Ibrahim āyah 51.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">لِيَجْزِىَ ٱللَّهُ كُلَّ نَفْسٍ مَّا كَسَبَتْ ۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ</span>
+
+### English
+
+As such, Allah will reward every soul for what it has committed. Surely Allah is swift in reckoning.

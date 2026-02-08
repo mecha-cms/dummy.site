@@ -1,0 +1,15 @@
+---
+ayah: 127
+title: Āyah 127
+description: Content of sūrah An-Nahl āyah 127.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَٱصْبِرْ وَمَا صَبْرُكَ إِلَّا بِٱللَّهِ ۚ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِى ضَيْقٍ مِّمَّا يَمْكُرُونَ</span>
+
+### English
+
+Be patient ˹O Prophet˺, for your patience is only with Allah’s help. Do not grieve over those ˹who disbelieve˺, nor be distressed by their schemes.

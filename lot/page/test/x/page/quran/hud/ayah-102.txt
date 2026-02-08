@@ -1,0 +1,15 @@
+---
+ayah: 102
+title: Āyah 102
+description: Content of sūrah Hud āyah 102.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَكَذَٰلِكَ أَخْذُ رَبِّكَ إِذَآ أَخَذَ ٱلْقُرَىٰ وَهِىَ ظَـٰلِمَةٌ ۚ إِنَّ أَخْذَهُۥٓ أَلِيمٌ شَدِيدٌ</span>
+
+### English
+
+Such is the ˹crushing˺ grip of your Lord when He seizes the societies entrenched in wrongdoing. Indeed, His grip is ˹terribly˺ painful and severe.

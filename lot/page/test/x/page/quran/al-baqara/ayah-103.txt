@@ -1,0 +1,15 @@
+---
+ayah: 103
+title: Āyah 103
+description: Content of sūrah Al-Baqara āyah 103.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَلَوْ أَنَّهُمْ ءَامَنُوا۟ وَٱتَّقَوْا۟ لَمَثُوبَةٌ مِّنْ عِندِ ٱللَّهِ خَيْرٌ ۖ لَّوْ كَانُوا۟ يَعْلَمُونَ</span>
+
+### English
+
+If only they were faithful and mindful ˹of Allah˺, there would have been a better reward from Allah, if only they knew!

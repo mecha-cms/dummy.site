@@ -1,0 +1,15 @@
+---
+ayah: 112
+title: Āyah 112
+description: Content of sūrah An-Nisaa āyah 112.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَمَن يَكْسِبْ خَطِيٓـَٔةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًٔا فَقَدِ ٱحْتَمَلَ بُهْتَـٰنًا وَإِثْمًا مُّبِينًا</span>
+
+### English
+
+And whoever commits an evil or sinful deed then blames it on an innocent person, they will definitely bear the guilt of slander and blatant sin.

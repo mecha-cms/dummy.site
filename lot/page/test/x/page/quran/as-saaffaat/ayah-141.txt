@@ -1,0 +1,15 @@
+---
+ayah: 141
+title: Āyah 141
+description: Content of sūrah As-Saaffaat āyah 141.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَسَاهَمَ فَكَانَ مِنَ ٱلْمُدْحَضِينَ</span>
+
+### English
+
+Then ˹to save it from sinking,˺ he drew straws ˹with other passengers˺. He lost ˹and was thrown overboard˺.

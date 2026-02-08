@@ -1,0 +1,15 @@
+---
+ayah: 56
+title: Āyah 56
+description: Content of sūrah An-Najm āyah 56.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">هَـٰذَا نَذِيرٌ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ</span>
+
+### English
+
+This ˹Prophet˺ is a warner like earlier ones.

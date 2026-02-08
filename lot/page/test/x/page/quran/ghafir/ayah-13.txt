@@ -1,0 +1,15 @@
+---
+ayah: 13
+title: Āyah 13
+description: Content of sūrah Ghafir āyah 13.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">هُوَ ٱلَّذِى يُرِيكُمْ ءَايَـٰتِهِۦ وَيُنَزِّلُ لَكُم مِّنَ ٱلسَّمَآءِ رِزْقًا ۚ وَمَا يَتَذَكَّرُ إِلَّا مَن يُنِيبُ</span>
+
+### English
+
+He is the One Who shows you His signs and sends down ˹rain as˺ a provision for you from the sky. ˹But˺ none will be mindful except those who turn ˹to Him˺.

@@ -1,0 +1,15 @@
+---
+ayah: 50
+title: Āyah 50
+description: Content of sūrah Al-Anbiyaa āyah 50.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَهَـٰذَا ذِكْرٌ مُّبَارَكٌ أَنزَلْنَـٰهُ ۚ أَفَأَنتُمْ لَهُۥ مُنكِرُونَ</span>
+
+### English
+
+And this ˹Quran˺ is a blessed reminder which We have revealed. Will you ˹pagans˺ then deny it?

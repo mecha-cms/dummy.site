@@ -1,0 +1,15 @@
+---
+ayah: 96
+title: Āyah 96
+description: Content of sūrah Ash-Shu’araa āyah 96.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-97) قَالُوا۟ وَهُمْ فِيهَا يَخْتَصِمُونَ</span>
+
+### English
+
+There the deviant will cry while disputing with their idols […](ayah-97)

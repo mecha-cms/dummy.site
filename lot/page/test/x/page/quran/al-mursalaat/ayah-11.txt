@@ -1,0 +1,15 @@
+---
+ayah: 11
+title: Āyah 11
+description: Content of sūrah Al-Mursalaat āyah 11.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-12) وَإِذَا ٱلرُّسُلُ أُقِّتَتْ […](ayah-10)</span>
+
+### English
+
+[…](ayah-10) and the messengers’ time ˹to testify˺ comes up— […](ayah-12)

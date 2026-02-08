@@ -1,0 +1,15 @@
+---
+ayah: 64
+title: Āyah 64
+description: Content of sūrah Saad āyah 64.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِنَّ ذَٰلِكَ لَحَقٌّ تَخَاصُمُ أَهْلِ ٱلنَّارِ</span>
+
+### English
+
+This dispute between the residents of the Fire will certainly come to pass.

@@ -1,0 +1,15 @@
+---
+ayah: 130
+title: Āyah 130
+description: Content of sūrah Taa-Haa āyah 130.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ غُرُوبِهَا ۖ وَمِنْ ءَانَآئِ ٱلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ</span>
+
+### English
+
+So be patient ˹O Prophet˺ with what they say. And glorify the praises of your Lord before sunrise and before sunset, and glorify Him in the hours of the night and at both ends of the day, so that you may be pleased ˹with the reward˺.

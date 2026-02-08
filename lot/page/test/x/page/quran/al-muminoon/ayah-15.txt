@@ -1,0 +1,15 @@
+---
+ayah: 15
+title: Āyah 15
+description: Content of sūrah Al-Muminoon āyah 15.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-16) ثُمَّ إِنَّكُم بَعْدَ ذَٰلِكَ لَمَيِّتُونَ</span>
+
+### English
+
+After that you will surely die […](ayah-16)

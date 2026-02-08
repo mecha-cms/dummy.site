@@ -1,0 +1,15 @@
+---
+ayah: 35
+title: Āyah 35
+description: Content of sūrah Al-Mursalaat āyah 35.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-36) هَـٰذَا يَوْمُ لَا يَنطِقُونَ</span>
+
+### English
+
+On that Day they will not ˹be in a position to˺ speak […](ayah-36)

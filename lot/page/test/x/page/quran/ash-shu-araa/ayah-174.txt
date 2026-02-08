@@ -1,0 +1,15 @@
+---
+ayah: 174
+title: Āyah 174
+description: Content of sūrah Ash-Shu’araa āyah 174.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ</span>
+
+### English
+
+Surely in this is a sign. Yet most of them would not believe.

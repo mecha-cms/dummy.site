@@ -1,0 +1,15 @@
+---
+ayah: 11
+title: Āyah 11
+description: Content of sūrah Saba āyah 11.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">أَنِ ٱعْمَلْ سَـٰبِغَـٰتٍ وَقَدِّرْ فِى ٱلسَّرْدِ ۖ وَٱعْمَلُوا۟ صَـٰلِحًا ۖ إِنِّى بِمَا تَعْمَلُونَ بَصِيرٌ […](ayah-10)</span>
+
+### English
+
+[…](ayah-10) instructing: “Make full-length armour, ˹perfectly˺ balancing the links. And work righteousness ˹O family of David!˺. Indeed, I am All-Seeing of what you do.”

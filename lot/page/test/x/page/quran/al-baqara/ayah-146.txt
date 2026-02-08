@@ -1,0 +1,15 @@
+---
+ayah: 146
+title: Āyah 146
+description: Content of sūrah Al-Baqara āyah 146.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ يَعْرِفُونَهُۥ كَمَا يَعْرِفُونَ أَبْنَآءَهُمْ ۖ وَإِنَّ فَرِيقًا مِّنْهُمْ لَيَكْتُمُونَ ٱلْحَقَّ وَهُمْ يَعْلَمُونَ</span>
+
+### English
+
+Those We have given the Scripture recognize this ˹Prophet˺ as they recognize their own children. Yet a group of them hides the truth knowingly.

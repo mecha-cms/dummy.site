@@ -1,0 +1,15 @@
+---
+ayah: 3
+title: Āyah 3
+description: Content of sūrah An-Najm āyah 3.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ</span>
+
+### English
+
+Nor does he speak of his own whims.

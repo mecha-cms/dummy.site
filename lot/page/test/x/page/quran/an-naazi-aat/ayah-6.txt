@@ -1,0 +1,15 @@
+---
+ayah: 6
+title: Āyah 6
+description: Content of sūrah An-Naazi’aat āyah 6.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-7) يَوْمَ تَرْجُفُ ٱلرَّاجِفَةُ</span>
+
+### English
+
+˹Consider˺ the Day ˹when˺ the quaking Blast will come to pass […](ayah-7)

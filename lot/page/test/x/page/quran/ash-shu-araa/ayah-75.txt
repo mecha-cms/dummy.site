@@ -1,0 +1,15 @@
+---
+ayah: 75
+title: Āyah 75
+description: Content of sūrah Ash-Shu’araa āyah 75.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-76) قَالَ أَفَرَءَيْتُم مَّا كُنتُمْ تَعْبُدُونَ</span>
+
+### English
+
+Abraham responded, “Have you ˹really˺ considered what you have been worshipping— […](ayah-76)

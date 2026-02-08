@@ -1,0 +1,15 @@
+---
+ayah: 146
+title: Āyah 146
+description: Content of sūrah Ash-Shu’araa āyah 146.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-147) أَتُتْرَكُونَ فِى مَا هَـٰهُنَآ ءَامِنِينَ</span>
+
+### English
+
+Do you think you will be ˹forever˺ left secure in what you have here: […](ayah-147)

@@ -1,0 +1,15 @@
+---
+ayah: 177
+title: Āyah 177
+description: Content of sūrah As-Saaffaat āyah 177.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَآءَ صَبَاحُ ٱلْمُنذَرِينَ</span>
+
+### English
+
+Yet when it descends upon them: how evil will that morning be for those who had been warned!

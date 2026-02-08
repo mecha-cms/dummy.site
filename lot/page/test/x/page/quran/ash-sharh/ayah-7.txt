@@ -1,0 +1,15 @@
+---
+ayah: 7
+title: Āyah 7
+description: Content of sūrah Ash-Sharh āyah 7.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-8) فَإِذَا فَرَغْتَ فَٱنصَبْ</span>
+
+### English
+
+So once you have fulfilled ˹your duty˺, strive ˹in devotion˺ […](ayah-8)

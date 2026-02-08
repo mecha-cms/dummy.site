@@ -1,0 +1,15 @@
+---
+ayah: 96
+title: Āyah 96
+description: Content of sūrah An-Nisaa āyah 96.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">دَرَجَـٰتٍ مِّنْهُ وَمَغْفِرَةً وَرَحْمَةً ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا […](ayah-95)</span>
+
+### English
+
+[…](ayah-95) far superior ranks, forgiveness, and mercy from Him. And Allah is All-Forgiving, Most Merciful.

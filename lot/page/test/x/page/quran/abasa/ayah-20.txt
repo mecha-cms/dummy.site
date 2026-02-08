@@ -1,0 +1,15 @@
+---
+ayah: 20
+title: Āyah 20
+description: Content of sūrah Abasa āyah 20.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-21) ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ</span>
+
+### English
+
+Then He makes the way easy for them […](ayah-21)

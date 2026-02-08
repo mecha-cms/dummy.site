@@ -1,0 +1,15 @@
+---
+ayah: 69
+title: Āyah 69
+description: Content of sūrah Al-Qasas āyah 69.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ</span>
+
+### English
+
+And your Lord knows what their hearts conceal and what they reveal.

@@ -1,0 +1,15 @@
+---
+ayah: 68
+title: Āyah 68
+description: Content of sūrah Hud āyah 68.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ ۗ أَلَآ إِنَّ ثَمُودَا۟ كَفَرُوا۟ رَبَّهُمْ ۗ أَلَا بُعْدًا لِّثَمُودَ […](ayah-67)</span>
+
+### English
+
+[…](ayah-67) as if they had never lived there. Surely Thamûd denied their Lord, so away with Thamûd!

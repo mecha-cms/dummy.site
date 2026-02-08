@@ -1,0 +1,15 @@
+---
+ayah: 26
+title: Āyah 26
+description: Content of sūrah Al-Haaqqa āyah 26.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَلَمْ أَدْرِ مَا حِسَابِيَهْ […](ayah-25)</span>
+
+### English
+
+[…](ayah-25) nor known anything of my reckoning!

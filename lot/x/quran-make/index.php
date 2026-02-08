@@ -1,12 +1,13 @@
 <?php
 
 // foreach (range(1, 30) as $n) {
-//     content(LOT . D . 'tag' . D . 'juz-' . $n . D . 'id.data', crc32('juz-' . $n), 0600);
-//     content(LOT . D . 'tag' . D . 'juz-' . $n . D . 'time.data', date('Y-m-d H:i:s'), 0600);
-//     content(LOT . D . 'tag' . D . 'juz-' . $n . '.archive', <<<PAGE
+//     content(LOT . D . 'tag' . D . "'juz-" . $n . D . '+' . D . 'id.json', crc32('juz-' . $n), 0600);
+//     content(LOT . D . 'tag' . D . "'juz-" . $n . D . '+' . D . 'time.txt', date('Y-m-d H:i:s'), 0600);
+//     content(LOT . D . 'tag' . D . "'juz-" . $n . '.txt', <<<PAGE
 // ---
-// title: Juz’ {$n}
 // author: '@taufik-nurrohman'
+// title: Juz’ {$n}
+// type: Markdown
 // ...
 // PAGE, 0600);
 // }
@@ -14,12 +15,13 @@
 // exit;
 
 // foreach (range(1, 556) as $n) {
-//     content(LOT . D . 'tag' . D . 'ruku-' . $n . D . 'id.data', crc32('ruku-' . $n), 0600);
-//     content(LOT . D . 'tag' . D . 'ruku-' . $n . D . 'time.data', date('Y-m-d H:i:s'), 0600);
-//     content(LOT . D . 'tag' . D . 'ruku-' . $n . '.archive', <<<PAGE
+//     content(LOT . D . 'tag' . D . "'ruku-" . $n . D . '+' . D . 'id.json', crc32('ruku-' . $n), 0600);
+//     content(LOT . D . 'tag' . D . "'ruku-" . $n . D . '+' . D . 'time.txt', date('Y-m-d H:i:s'), 0600);
+//     content(LOT . D . 'tag' . D . "'ruku-" . $n . '.txt', <<<PAGE
 // ---
-// title: Rukūʿ {$n}
 // author: '@taufik-nurrohman'
+// title: Rukūʿ {$n}
+// type: Markdown
 // ...
 // PAGE, 0600);
 // }
@@ -27,12 +29,13 @@
 // exit;
 
 // foreach (range(1, 7) as $n) {
-//     content(LOT . D . 'tag' . D . 'manzil-' . $n . D . 'id.data', crc32('manzil-' . $n), 0600);
-//     content(LOT . D . 'tag' . D . 'manzil-' . $n . D . 'time.data', date('Y-m-d H:i:s'), 0600);
-//     content(LOT . D . 'tag' . D . 'manzil-' . $n . '.archive', <<<PAGE
+//     content(LOT . D . 'tag' . D . "'manzil-" . $n . D . '+' . D . 'id.json', crc32('manzil-' . $n), 0600);
+//     content(LOT . D . 'tag' . D . "'manzil-" . $n . D . '+' . D . 'time.txt', date('Y-m-d H:i:s'), 0600);
+//     content(LOT . D . 'tag' . D . "'manzil-" . $n . '.txt', <<<PAGE
 // ---
-// title: Manzil {$n}
 // author: '@taufik-nurrohman'
+// title: Manzil {$n}
+// type: Markdown
 // ...
 // PAGE, 0600);
 // }
@@ -40,12 +43,13 @@
 // exit;
 
 // foreach (range(1, 240) as $n) {
-//     content(LOT . D . 'tag' . D . 'hizb-' . $n . D . 'id.data', crc32('hizb-' . $n), 0600);
-//     content(LOT . D . 'tag' . D . 'hizb-' . $n . D . 'time.data', date('Y-m-d H:i:s'), 0600);
-//     content(LOT . D . 'tag' . D . 'hizb-' . $n . '.archive', <<<PAGE
+//     content(LOT . D . 'tag' . D . "'hizb-" . $n . D . '+' . D . 'id.json', crc32('hizb-' . $n), 0600);
+//     content(LOT . D . 'tag' . D . "'hizb-" . $n . D . '+' . D . 'time.txt', date('Y-m-d H:i:s'), 0600);
+//     content(LOT . D . 'tag' . D . "'hizb-" . $n . '.txt', <<<PAGE
 // ---
-// title: Ḥizb {$n}
 // author: '@taufik-nurrohman'
+// title: Ḥizb {$n}
+// type: Markdown
 // ...
 // PAGE, 0600);
 // }
@@ -54,13 +58,12 @@
 
 // $folder = LOT . D . 'page' . D . 'test' . D . 'x' . D . 'page' . D . 'quran';
 //
-// content($folder . '.page', <<<PAGE
+// content($folder . '.txt', <<<PAGE
 // ---
 // title: The Holy Quran
 // description: >-
 //   Using the Quran to stress test the [Page](https://mecha-cms.com/store/extension/page) extension. Let’s see how much
-//   memory is used to list all the pages. The list is sorted by the `ayah` and `surah` key embedded in the file content,
-//   so a partial reading of the file content is necessary.
+//   memory is used to list all the pages. The list is sorted by the `ayah` and `surah` key embedded in the file content.
 // author: '@taufik-nurrohman'
 // type: Markdown
 // chunk: 144
@@ -110,7 +113,7 @@
 //             $k = $k + 1;
 //             $path = $folder . D . To::kebab($v['surahName']);
 //             $v['surahName'] = strtr($v['surahName'], ["'" => "’"]);
-//             content($path . '.page', <<<PAGE
+//             content($path . '.txt', <<<PAGE
 // ---
 // surah: {$k}
 // title: {$v['surahNameArabic']} ({$v['surahName']})
@@ -121,9 +124,9 @@
 // sort: [ 1, ayah ]
 // ...
 // PAGE, 0600);
-//             content($path . D . 'time.data', $time = '2025-02-28 22:48:12', 0600);
+//             content($path . D . '+' . D . 'time.txt', $time = '2025-02-28 22:48:12', 0600);
 //             if ($revelationPlace = $v['revelationPlace'] ?? 0) {
-//                 content($path . D . 'kind.data', '[' . ('Mecca' === $revelationPlace ? '1158076311' : '1503081466') . ']', 0600);
+//                 content($path . D . '+' . D . 'kind.json', '[' . ('Mecca' === $revelationPlace ? '1158076311' : '1503081466') . ']', 0600);
 //             }
 //             if ($surah = fetch('https://quranapi.pages.dev/api/' . $k . '.json')) {
 //                 if (is_array($surah = json_decode($surah, true))) {
@@ -133,15 +136,15 @@
 //                         $kk = $kk + 1;
 //                         $vv = trim($vv);
 //                         if ($translation && false === strpos('0123456789', $translation[0]) && $translation[0] === mb_strtolower($translation[0])) {
-//                             $prefix = '[…](ayah-' . ($kk - 1) . ') ';
+//                             $prefix = '[…](ayah-' . ($kk - 1) . ')';
 //                         }
 //                         if ($translation && false === strpos('!.?”', substr($translation, -1))) {
-//                             $suffix = ' […](ayah-' . ($kk + 1) . ')';
+//                             $suffix = '[…](ayah-' . ($kk + 1) . ')';
 //                         }
-//                         $vv = "### Arabic\n\n" . '<span style="display: block; font-size: 180%; text-align: right;">' . $prefix . $vv . $suffix . '</span>';
-//                         $translation = "" !== $translation ? "\n\n### English\n\n" . $prefix . $translation . $suffix : "";
-//                         content($path . D . 'ayah-' . $kk . D . 'time.data', $time, 0600);
-//                         content($path . D . 'ayah-' . $kk . '.page', <<<PAGE
+//                         $vv = "### Arabic\n\n" . '<span style="display: block; font-size: 150%; text-align: right;">' . trim($suffix . ' ' . $vv . ' ' . $prefix) . '</span>';
+//                         $translation = "" !== $translation ? "\n\n### English\n\n" . trim($prefix . ' ' . $translation . ' ' . $suffix) : "";
+//                         content($path . D . 'ayah-' . $kk . D . '+' . D . 'time.txt', $time, 0600);
+//                         content($path . D . 'ayah-' . $kk . '.txt', <<<PAGE
 // ---
 // ayah: {$kk}
 // title: Āyah {$kk}
@@ -161,15 +164,15 @@
 //
 // exit;
 
-// foreach (g($folder = LOT . D . 'page' . D . 'test' . D . 'x' . D . 'page' . D . 'quran', 'page') as $k => $v) {
+// foreach (g($folder = LOT . D . 'page' . D . 'test' . D . 'x' . D . 'page' . D . 'quran', 'txt') as $k => $v) {
 //     $v = new Page($k);
 //     $surah = $v->surah;
 //     if ($surahs = fetch('http://api.alquran.cloud/v1/surah/' . $surah)) {
 //         if (is_array($surahs = json_decode($surahs, true))) {
 //             $ayahs = $surahs['data']['ayahs'];
 //             foreach ($ayahs as $vv) {
-//                 if (is_file($ayah = dirname($k) . D . pathinfo($k, PATHINFO_FILENAME) . D . 'ayah-' . $vv['numberInSurah'] . '.page')) {
-//                     $kind = content(dirname($ayah) . D . pathinfo($ayah, PATHINFO_FILENAME) . D . 'kind.data') ?? '[]';
+//                 if (is_file($ayah = dirname($k) . D . pathinfo($k, PATHINFO_FILENAME) . D . 'ayah-' . $vv['numberInSurah'] . '.txt')) {
+//                     $kind = content(dirname($ayah) . D . pathinfo($ayah, PATHINFO_FILENAME) . D . '+' . D . 'kind.json') ?? '[]';
 //                     if (is_array($kind = json_decode($kind, true))) {
 //                         $kind[] = crc32('juz-' . $vv['juz']);
 //                         $kind[] = crc32('manzil-' . $vv['manzil']);
@@ -178,7 +181,7 @@
 //                     }
 //                     sort($kind);
 //                     $kind = array_values(array_unique($kind));
-//                     content(dirname($ayah) . D . pathinfo($ayah, PATHINFO_FILENAME) . D . 'kind.data', json_encode($kind), 0600);
+//                     content(dirname($ayah) . D . pathinfo($ayah, PATHINFO_FILENAME) . D . '+' . D . 'kind.json', json_encode($kind), 0600);
 //                 }
 //             }
 //         }
@@ -191,14 +194,14 @@
 //     if (is_array($sajdas = json_decode($sajdas, true))) {
 //         $ayahs = $sajdas['data']['ayahs'];
 //         foreach ($ayahs as $v) {
-//             if (is_file($ayah = LOT . D . 'page' . D . 'test' . D . 'x' . D . 'page' . D . 'quran' . D . To::kebab($v['surah']['englishName']) . D . 'ayah-' . $v['numberInSurah'] . '.page')) {
-//                 $kind = content(dirname($ayah) . D . pathinfo($ayah, PATHINFO_FILENAME) . D . 'kind.data') ?? '[]';
+//             if (is_file($ayah = LOT . D . 'page' . D . 'test' . D . 'x' . D . 'page' . D . 'quran' . D . To::kebab($v['surah']['englishName']) . D . 'ayah-' . $v['numberInSurah'] . '.txt')) {
+//                 $kind = content(dirname($ayah) . D . pathinfo($ayah, PATHINFO_FILENAME) . D . '+' . D . 'kind.json') ?? '[]';
 //                 if (is_array($kind = json_decode($kind, true))) {
 //                     $kind[] = crc32('sajda');
 //                 }
 //                 sort($kind);
 //                 $kind = array_values(array_unique($kind));
-//                 content(dirname($ayah) . D . pathinfo($ayah, PATHINFO_FILENAME) . D . 'kind.data', json_encode($kind), 0600);
+//                 content(dirname($ayah) . D . pathinfo($ayah, PATHINFO_FILENAME) . D . '+' . D . 'kind.json', json_encode($kind), 0600);
 //             }
 //         }
 //     }

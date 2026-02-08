@@ -1,0 +1,15 @@
+---
+ayah: 4
+title: Āyah 4
+description: Content of sūrah Abasa āyah 4.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ […](ayah-3)</span>
+
+### English
+
+[…](ayah-3) or he may be mindful, benefitting from the reminder.

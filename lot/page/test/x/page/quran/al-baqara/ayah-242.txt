@@ -1,0 +1,15 @@
+---
+ayah: 242
+title: Āyah 242
+description: Content of sūrah Al-Baqara āyah 242.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَـٰتِهِۦ لَعَلَّكُمْ تَعْقِلُونَ</span>
+
+### English
+
+This is how Allah makes His revelations clear to you, so perhaps you will understand.

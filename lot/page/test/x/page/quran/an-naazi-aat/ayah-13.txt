@@ -1,0 +1,15 @@
+---
+ayah: 13
+title: Āyah 13
+description: Content of sūrah An-Naazi’aat āyah 13.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-14) فَإِنَّمَا هِىَ زَجْرَةٌ وَٰحِدَةٌ</span>
+
+### English
+
+But indeed, it will take only one ˹mighty˺ Blast […](ayah-14)

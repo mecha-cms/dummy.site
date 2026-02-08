@@ -1,0 +1,15 @@
+---
+ayah: 8
+title: Āyah 8
+description: Content of sūrah Al-Mutaffifin āyah 8.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-9) وَمَآ أَدْرَىٰكَ مَا سِجِّينٌ […](ayah-7)</span>
+
+### English
+
+[…](ayah-7) and what will make you realize what Sijjîn is?— […](ayah-9)

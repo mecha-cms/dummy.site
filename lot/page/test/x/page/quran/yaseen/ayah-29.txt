@@ -1,0 +1,15 @@
+---
+ayah: 29
+title: Āyah 29
+description: Content of sūrah Yaseen āyah 29.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِن كَانَتْ إِلَّا صَيْحَةً وَٰحِدَةً فَإِذَا هُمْ خَـٰمِدُونَ</span>
+
+### English
+
+All it took was one ˹mighty˺ blast, and they were extinguished at once.

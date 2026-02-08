@@ -1,0 +1,15 @@
+---
+ayah: 159
+title: Āyah 159
+description: Content of sūrah As-Saaffaat āyah 159.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">سُبْحَـٰنَ ٱللَّهِ عَمَّا يَصِفُونَ</span>
+
+### English
+
+Glorified is Allah far above what they claim!

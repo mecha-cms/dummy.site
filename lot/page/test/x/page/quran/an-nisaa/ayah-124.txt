@@ -1,0 +1,15 @@
+---
+ayah: 124
+title: Āyah 124
+description: Content of sūrah An-Nisaa āyah 124.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَمَن يَعْمَلْ مِنَ ٱلصَّـٰلِحَـٰتِ مِن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَأُو۟لَـٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًا</span>
+
+### English
+
+But those who do good—whether male or female—and have faith will enter Paradise and will never be wronged ˹even as much as˺ the speck on a date stone.

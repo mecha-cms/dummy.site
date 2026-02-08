@@ -1,0 +1,15 @@
+---
+ayah: 21
+title: Āyah 21
+description: Content of sūrah At-Takwir āyah 21.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">مُّطَاعٍ ثَمَّ أَمِينٍ […](ayah-20)</span>
+
+### English
+
+[…](ayah-20) obeyed there ˹in heaven˺, and trustworthy.

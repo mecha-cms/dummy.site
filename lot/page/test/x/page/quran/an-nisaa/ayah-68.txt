@@ -1,0 +1,15 @@
+---
+ayah: 68
+title: Āyah 68
+description: Content of sūrah An-Nisaa āyah 68.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَلَهَدَيْنَـٰهُمْ صِرَٰطًا مُّسْتَقِيمًا […](ayah-67)</span>
+
+### English
+
+[…](ayah-67) and guided them to the Straight Path.

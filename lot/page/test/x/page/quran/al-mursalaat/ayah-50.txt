@@ -1,0 +1,15 @@
+---
+ayah: 50
+title: Āyah 50
+description: Content of sūrah Al-Mursalaat āyah 50.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ</span>
+
+### English
+
+So what message after this ˹Quran˺ would they believe in?

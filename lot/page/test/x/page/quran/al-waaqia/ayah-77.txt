@@ -1,0 +1,15 @@
+---
+ayah: 77
+title: Āyah 77
+description: Content of sūrah Al-Waaqia āyah 77.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-78) إِنَّهُۥ لَقُرْءَانٌ كَرِيمٌ […](ayah-76)</span>
+
+### English
+
+[…](ayah-76) that this is truly a noble Quran […](ayah-78)

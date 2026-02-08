@@ -1,0 +1,15 @@
+---
+ayah: 28
+title: Āyah 28
+description: Content of sūrah Al-Waaqia āyah 28.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-29) فِى سِدْرٍ مَّخْضُودٍ</span>
+
+### English
+
+˹They will be˺ amid thornless lote trees […](ayah-29)

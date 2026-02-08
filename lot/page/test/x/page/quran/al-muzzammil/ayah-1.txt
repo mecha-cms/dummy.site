@@ -1,0 +1,15 @@
+---
+ayah: 1
+title: Āyah 1
+description: Content of sūrah Al-Muzzammil āyah 1.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">يَـٰٓأَيُّهَا ٱلْمُزَّمِّلُ</span>
+
+### English
+
+O you wrapped ˹in your clothes˺!

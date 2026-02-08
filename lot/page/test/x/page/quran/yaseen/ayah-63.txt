@@ -1,0 +1,15 @@
+---
+ayah: 63
+title: Āyah 63
+description: Content of sūrah Yaseen āyah 63.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى كُنتُمْ تُوعَدُونَ</span>
+
+### English
+
+This is the Hell you were warned of.

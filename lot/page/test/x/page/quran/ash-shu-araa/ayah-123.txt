@@ -1,0 +1,15 @@
+---
+ayah: 123
+title: Āyah 123
+description: Content of sūrah Ash-Shu’araa āyah 123.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-124) كَذَّبَتْ عَادٌ ٱلْمُرْسَلِينَ</span>
+
+### English
+
+The people of ’Âd rejected the messengers […](ayah-124)

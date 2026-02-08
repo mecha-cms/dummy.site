@@ -1,0 +1,15 @@
+---
+ayah: 44
+title: Āyah 44
+description: Content of sūrah Al-Haaqqa āyah 44.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-45) وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ ٱلْأَقَاوِيلِ</span>
+
+### English
+
+Had the Messenger made up something in Our Name […](ayah-45)

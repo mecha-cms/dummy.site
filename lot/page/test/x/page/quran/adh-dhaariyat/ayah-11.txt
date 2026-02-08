@@ -1,0 +1,15 @@
+---
+ayah: 11
+title: Āyah 11
+description: Content of sūrah Adh-Dhaariyat āyah 11.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">ٱلَّذِينَ هُمْ فِى غَمْرَةٍ سَاهُونَ […](ayah-10)</span>
+
+### English
+
+[…](ayah-10) those who are ˹steeped˺ in ignorance, totally heedless.

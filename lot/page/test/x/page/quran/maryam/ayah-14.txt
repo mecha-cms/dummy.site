@@ -1,0 +1,15 @@
+---
+ayah: 14
+title: Āyah 14
+description: Content of sūrah Maryam āyah 14.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَبَرًّۢا بِوَٰلِدَيْهِ وَلَمْ يَكُن جَبَّارًا عَصِيًّا […](ayah-13)</span>
+
+### English
+
+[…](ayah-13) and kind to his parents. He was neither arrogant nor disobedient.

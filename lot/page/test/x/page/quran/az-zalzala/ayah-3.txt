@@ -1,0 +1,15 @@
+---
+ayah: 3
+title: Āyah 3
+description: Content of sūrah Az-Zalzala āyah 3.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-4) وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا […](ayah-2)</span>
+
+### English
+
+[…](ayah-2) and humanity cries, “What is wrong with it?”— […](ayah-4)

@@ -1,0 +1,15 @@
+---
+ayah: 2
+title: Āyah 2
+description: Content of sūrah Al-Infitaar āyah 2.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-3) وَإِذَا ٱلْكَوَاكِبُ ٱنتَثَرَتْ […](ayah-1)</span>
+
+### English
+
+[…](ayah-1) and when the stars fall away […](ayah-3)

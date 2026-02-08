@@ -1,0 +1,15 @@
+---
+ayah: 87
+title: Āyah 87
+description: Content of sūrah Ash-Shu’araa āyah 87.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-88) وَلَا تُخْزِنِى يَوْمَ يُبْعَثُونَ</span>
+
+### English
+
+And do not disgrace me on the Day all will be resurrected— […](ayah-88)

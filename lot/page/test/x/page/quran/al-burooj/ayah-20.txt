@@ -1,0 +1,15 @@
+---
+ayah: 20
+title: Āyah 20
+description: Content of sūrah Al-Burooj āyah 20.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ</span>
+
+### English
+
+But Allah encompasses them from all sides.

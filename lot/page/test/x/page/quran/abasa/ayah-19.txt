@@ -1,0 +1,15 @@
+---
+ayah: 19
+title: Āyah 19
+description: Content of sūrah Abasa āyah 19.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ</span>
+
+### English
+
+He created them from a sperm-drop, and ordained their development.

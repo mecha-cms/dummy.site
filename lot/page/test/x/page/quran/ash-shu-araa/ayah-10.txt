@@ -1,0 +1,15 @@
+---
+ayah: 10
+title: Āyah 10
+description: Content of sūrah Ash-Shu’araa āyah 10.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-11) وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ</span>
+
+### English
+
+˹Remember˺ when your Lord called out to Moses, “Go to the wrongdoing people— […](ayah-11)

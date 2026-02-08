@@ -1,0 +1,15 @@
+---
+ayah: 128
+title: Āyah 128
+description: Content of sūrah An-Nahl āyah 128.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِنَّ ٱللَّهَ مَعَ ٱلَّذِينَ ٱتَّقَوا۟ وَّٱلَّذِينَ هُم مُّحْسِنُونَ</span>
+
+### English
+
+Surely Allah is with those who shun evil and who do good ˹deeds˺.

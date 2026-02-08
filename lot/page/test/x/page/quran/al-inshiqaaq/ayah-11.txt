@@ -1,0 +1,15 @@
+---
+ayah: 11
+title: Āyah 11
+description: Content of sūrah Al-Inshiqaaq āyah 11.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-12) فَسَوْفَ يَدْعُوا۟ ثُبُورًا […](ayah-10)</span>
+
+### English
+
+[…](ayah-10) they will cry for ˹instant˺ destruction […](ayah-12)

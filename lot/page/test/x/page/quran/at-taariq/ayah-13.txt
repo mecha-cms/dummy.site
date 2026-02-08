@@ -1,0 +1,15 @@
+---
+ayah: 13
+title: Āyah 13
+description: Content of sūrah At-Taariq āyah 13.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-14) إِنَّهُۥ لَقَوْلٌ فَصْلٌ</span>
+
+### English
+
+Surely this ˹Quran˺ is a decisive word […](ayah-14)

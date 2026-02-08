@@ -1,0 +1,15 @@
+---
+ayah: 42
+title: Āyah 42
+description: Content of sūrah Al-Waaqia āyah 42.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-43) فِى سَمُومٍ وَحَمِيمٍ</span>
+
+### English
+
+˹They will be˺ in scorching heat and boiling water […](ayah-43)

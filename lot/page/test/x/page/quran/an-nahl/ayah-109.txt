@@ -1,0 +1,15 @@
+---
+ayah: 109
+title: Āyah 109
+description: Content of sūrah An-Nahl āyah 109.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">لَا جَرَمَ أَنَّهُمْ فِى ٱلْـَٔاخِرَةِ هُمُ ٱلْخَـٰسِرُونَ</span>
+
+### English
+
+Without a doubt, they will be the losers in the Hereafter.

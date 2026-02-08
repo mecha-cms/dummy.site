@@ -1,0 +1,15 @@
+---
+ayah: 26
+title: Āyah 26
+description: Content of sūrah Faatir āyah 26.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">ثُمَّ أَخَذْتُ ٱلَّذِينَ كَفَرُوا۟ ۖ فَكَيْفَ كَانَ نَكِيرِ</span>
+
+### English
+
+Then I seized those who persisted in disbelief. How severe was My response!

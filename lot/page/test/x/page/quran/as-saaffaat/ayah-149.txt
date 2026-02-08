@@ -1,0 +1,15 @@
+---
+ayah: 149
+title: Āyah 149
+description: Content of sūrah As-Saaffaat āyah 149.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَٱسْتَفْتِهِمْ أَلِرَبِّكَ ٱلْبَنَاتُ وَلَهُمُ ٱلْبَنُونَ</span>
+
+### English
+
+Ask them ˹O Prophet˺ if your Lord has daughters, while the pagans ˹prefer to˺ have sons.

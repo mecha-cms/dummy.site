@@ -1,0 +1,15 @@
+---
+ayah: 152
+title: Āyah 152
+description: Content of sūrah Al-Baqara āyah 152.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ […](ayah-151)</span>
+
+### English
+
+[…](ayah-151) remember Me; I will remember you. And thank Me, and never be ungrateful.

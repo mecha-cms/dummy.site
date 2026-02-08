@@ -1,0 +1,15 @@
+---
+ayah: 76
+title: Āyah 76
+description: Content of sūrah Al-Waaqia āyah 76.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-77) وَإِنَّهُۥ لَقَسَمٌ لَّوْ تَعْلَمُونَ عَظِيمٌ […](ayah-75)</span>
+
+### English
+
+[…](ayah-75) and this, if only you knew, is indeed a great oath— […](ayah-77)

@@ -1,0 +1,15 @@
+---
+ayah: 106
+title: Āyah 106
+description: Content of sūrah Al-Anbiyaa āyah 106.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِنَّ فِى هَـٰذَا لَبَلَـٰغًا لِّقَوْمٍ عَـٰبِدِينَ</span>
+
+### English
+
+Surely this ˹Quran˺ is sufficient ˹as a reminder˺ for those devoted to worship.

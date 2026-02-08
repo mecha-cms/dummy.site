@@ -1,0 +1,15 @@
+---
+ayah: 5
+title: Āyah 5
+description: Content of sūrah At-Takwir āyah 5.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-6) وَإِذَا ٱلْوُحُوشُ حُشِرَتْ […](ayah-4)</span>
+
+### English
+
+[…](ayah-4) and when wild beasts are gathered together […](ayah-6)

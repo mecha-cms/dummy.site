@@ -1,0 +1,15 @@
+---
+ayah: 75
+title: Āyah 75
+description: Content of sūrah Al-Hijr āyah 75.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّلْمُتَوَسِّمِينَ</span>
+
+### English
+
+Surely in this are signs for those who contemplate.

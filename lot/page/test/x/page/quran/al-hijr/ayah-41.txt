@@ -1,0 +1,15 @@
+---
+ayah: 41
+title: Āyah 41
+description: Content of sūrah Al-Hijr āyah 41.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-42) قَالَ هَـٰذَا صِرَٰطٌ عَلَىَّ مُسْتَقِيمٌ</span>
+
+### English
+
+Allah said, “This is the Way, binding on Me: […](ayah-42)

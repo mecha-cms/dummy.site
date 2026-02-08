@@ -1,0 +1,15 @@
+---
+ayah: 13
+title: Āyah 13
+description: Content of sūrah Al-Infitaar āyah 13.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-14) إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ</span>
+
+### English
+
+Indeed, the virtuous will be in bliss […](ayah-14)

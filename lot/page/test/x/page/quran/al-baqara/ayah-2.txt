@@ -1,0 +1,15 @@
+---
+ayah: 2
+title: Āyah 2
+description: Content of sūrah Al-Baqara āyah 2.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-3) ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ</span>
+
+### English
+
+This is the Book! There is no doubt about it—a guide for those mindful ˹of Allah˺ […](ayah-3)

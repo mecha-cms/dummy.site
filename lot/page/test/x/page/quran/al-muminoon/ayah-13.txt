@@ -1,0 +1,15 @@
+---
+ayah: 13
+title: Āyah 13
+description: Content of sūrah Al-Muminoon āyah 13.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-14) ثُمَّ جَعَلْنَـٰهُ نُطْفَةً فِى قَرَارٍ مَّكِينٍ […](ayah-12)</span>
+
+### English
+
+[…](ayah-12) then placed each ˹human˺ as a sperm-drop in a secure place […](ayah-14)

@@ -1,0 +1,15 @@
+---
+ayah: 142
+title: Āyah 142
+description: Content of sūrah As-Saaffaat āyah 142.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌ</span>
+
+### English
+
+Then the whale engulfed him while he was blameworthy.

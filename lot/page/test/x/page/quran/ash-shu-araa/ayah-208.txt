@@ -1,0 +1,15 @@
+---
+ayah: 208
+title: Āyah 208
+description: Content of sūrah Ash-Shu’araa āyah 208.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-209) وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا لَهَا مُنذِرُونَ</span>
+
+### English
+
+We have never destroyed a society without warners […](ayah-209)

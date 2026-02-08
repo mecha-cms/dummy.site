@@ -1,0 +1,15 @@
+---
+ayah: 175
+title: Āyah 175
+description: Content of sūrah Aal-i-Imraan āyah 175.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِنَّمَا ذَٰلِكُمُ ٱلشَّيْطَـٰنُ يُخَوِّفُ أَوْلِيَآءَهُۥ فَلَا تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ</span>
+
+### English
+
+That ˹warning˺ was only ˹from˺ Satan, trying to prompt you to fear his followers. So do not fear them; fear Me if you are ˹true˺ believers.

@@ -1,0 +1,15 @@
+---
+ayah: 198
+title: Āyah 198
+description: Content of sūrah Ash-Shu’araa āyah 198.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-199) وَلَوْ نَزَّلْنَـٰهُ عَلَىٰ بَعْضِ ٱلْأَعْجَمِينَ</span>
+
+### English
+
+Had We revealed it to a non-Arab […](ayah-199)

@@ -1,0 +1,15 @@
+---
+ayah: 46
+title: Āyah 46
+description: Content of sūrah Al-Muddaththir āyah 46.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-47) وَكُنَّا نُكَذِّبُ بِيَوْمِ ٱلدِّينِ […](ayah-45)</span>
+
+### English
+
+[…](ayah-45) and deny the Day of Judgment […](ayah-47)

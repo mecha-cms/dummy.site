@@ -1,0 +1,15 @@
+---
+ayah: 103
+title: Āyah 103
+description: Content of sūrah Taa-Haa āyah 103.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">يَتَخَـٰفَتُونَ بَيْنَهُمْ إِن لَّبِثْتُمْ إِلَّا عَشْرًا</span>
+
+### English
+
+They will whisper among themselves, “You stayed no more than ten days ˹on the earth˺.”

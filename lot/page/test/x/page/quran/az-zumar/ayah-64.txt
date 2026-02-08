@@ -1,0 +1,15 @@
+---
+ayah: 64
+title: Āyah 64
+description: Content of sūrah Az-Zumar āyah 64.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">قُلْ أَفَغَيْرَ ٱللَّهِ تَأْمُرُوٓنِّىٓ أَعْبُدُ أَيُّهَا ٱلْجَـٰهِلُونَ</span>
+
+### English
+
+Say, ˹O Prophet,˺ “Are you urging me to worship ˹anyone˺ other than Allah, O  ignorant ones?”

@@ -1,0 +1,15 @@
+---
+ayah: 15
+title: Āyah 15
+description: Content of sūrah Ash-Shams āyah 15.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَلَا يَخَافُ عُقْبَـٰهَا</span>
+
+### English
+
+He has no fear of consequences.

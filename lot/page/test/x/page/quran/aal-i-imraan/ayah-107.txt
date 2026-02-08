@@ -1,0 +1,15 @@
+---
+ayah: 107
+title: Āyah 107
+description: Content of sūrah Aal-i-Imraan āyah 107.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَأَمَّا ٱلَّذِينَ ٱبْيَضَّتْ وُجُوهُهُمْ فَفِى رَحْمَةِ ٱللَّهِ هُمْ فِيهَا خَـٰلِدُونَ</span>
+
+### English
+
+As for the bright-faced, they will be in Allah’s mercy, where they will remain forever.

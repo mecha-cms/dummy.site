@@ -1,0 +1,15 @@
+---
+ayah: 55
+title: Āyah 55
+description: Content of sūrah Saad āyah 55.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-56) هَـٰذَا ۚ وَإِنَّ لِلطَّـٰغِينَ لَشَرَّ مَـَٔابٍ</span>
+
+### English
+
+That is that. And the transgressors will certainly have the worst destination: […](ayah-56)

@@ -1,0 +1,15 @@
+---
+ayah: 37
+title: Āyah 37
+description: Content of sūrah Al-Hijr āyah 37.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-38) قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ</span>
+
+### English
+
+Allah said, “You will be delayed […](ayah-38)

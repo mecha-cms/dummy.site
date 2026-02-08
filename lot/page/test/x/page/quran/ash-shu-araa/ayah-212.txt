@@ -1,0 +1,15 @@
+---
+ayah: 212
+title: Āyah 212
+description: Content of sūrah Ash-Shu’araa āyah 212.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِنَّهُمْ عَنِ ٱلسَّمْعِ لَمَعْزُولُونَ […](ayah-211)</span>
+
+### English
+
+[…](ayah-211) for they are strictly barred from ˹even˺ overhearing ˹it˺.

@@ -1,0 +1,15 @@
+---
+ayah: 103
+title: Āyah 103
+description: Content of sūrah Al-Israa āyah 103.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَأَرَادَ أَن يَسْتَفِزَّهُم مِّنَ ٱلْأَرْضِ فَأَغْرَقْنَـٰهُ وَمَن مَّعَهُۥ جَمِيعًا</span>
+
+### English
+
+So Pharaoh wanted to scare the Israelites out of the land ˹of Egypt˺, but We drowned him and all of those with him.

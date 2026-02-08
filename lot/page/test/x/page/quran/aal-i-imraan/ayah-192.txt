@@ -1,0 +1,15 @@
+---
+ayah: 192
+title: Āyah 192
+description: Content of sūrah Aal-i-Imraan āyah 192.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">رَبَّنَآ إِنَّكَ مَن تُدْخِلِ ٱلنَّارَ فَقَدْ أَخْزَيْتَهُۥ ۖ وَمَا لِلظَّـٰلِمِينَ مِنْ أَنصَارٍ</span>
+
+### English
+
+Our Lord! Indeed, those You commit to the Fire will be ˹completely˺ disgraced! And the wrongdoers will have no helpers.

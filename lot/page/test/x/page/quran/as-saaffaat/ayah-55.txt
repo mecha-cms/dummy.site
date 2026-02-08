@@ -1,0 +1,15 @@
+---
+ayah: 55
+title: Āyah 55
+description: Content of sūrah As-Saaffaat āyah 55.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَٱطَّلَعَ فَرَءَاهُ فِى سَوَآءِ ٱلْجَحِيمِ</span>
+
+### English
+
+Then he ˹and the others˺ will look and spot him in the midst of the Hellfire.

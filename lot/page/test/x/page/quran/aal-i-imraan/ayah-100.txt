@@ -1,0 +1,15 @@
+---
+ayah: 100
+title: Āyah 100
+description: Content of sūrah Aal-i-Imraan āyah 100.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تُطِيعُوا۟ فَرِيقًا مِّنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ يَرُدُّوكُم بَعْدَ إِيمَـٰنِكُمْ كَـٰفِرِينَ</span>
+
+### English
+
+O believers! If you were to yield to a group of those who were given the Scripture, they would turn you back from belief to disbelief.

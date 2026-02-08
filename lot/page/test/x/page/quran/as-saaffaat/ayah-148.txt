@@ -1,0 +1,15 @@
+---
+ayah: 148
+title: Āyah 148
+description: Content of sūrah As-Saaffaat āyah 148.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍ […](ayah-147)</span>
+
+### English
+
+[…](ayah-147) who then believed ˹in him˺, so We allowed them enjoyment for a while.

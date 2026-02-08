@@ -1,0 +1,15 @@
+---
+ayah: 22
+title: Āyah 22
+description: Content of sūrah Al-Insaan āyah 22.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِنَّ هَـٰذَا كَانَ لَكُمْ جَزَآءً وَكَانَ سَعْيُكُم مَّشْكُورًا</span>
+
+### English
+
+˹And they will be told,˺ “All this is surely a reward for you. Your striving has been appreciated.”

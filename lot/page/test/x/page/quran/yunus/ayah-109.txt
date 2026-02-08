@@ -1,0 +1,15 @@
+---
+ayah: 109
+title: Āyah 109
+description: Content of sūrah Yunus āyah 109.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَٱتَّبِعْ مَا يُوحَىٰٓ إِلَيْكَ وَٱصْبِرْ حَتَّىٰ يَحْكُمَ ٱللَّهُ ۚ وَهُوَ خَيْرُ ٱلْحَـٰكِمِينَ</span>
+
+### English
+
+And follow what is revealed to you, and be patient until Allah passes His judgment. For He is the Best of Judges.

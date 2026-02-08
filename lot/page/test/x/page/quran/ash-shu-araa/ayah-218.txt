@@ -1,0 +1,15 @@
+---
+ayah: 218
+title: Āyah 218
+description: Content of sūrah Ash-Shu’araa āyah 218.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-219) ٱلَّذِى يَرَىٰكَ حِينَ تَقُومُ</span>
+
+### English
+
+Who sees you when you rise ˹for prayer at night˺ […](ayah-219)

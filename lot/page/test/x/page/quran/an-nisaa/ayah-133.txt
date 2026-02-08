@@ -1,0 +1,15 @@
+---
+ayah: 133
+title: Āyah 133
+description: Content of sūrah An-Nisaa āyah 133.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِن يَشَأْ يُذْهِبْكُمْ أَيُّهَا ٱلنَّاسُ وَيَأْتِ بِـَٔاخَرِينَ ۚ وَكَانَ ٱللَّهُ عَلَىٰ ذَٰلِكَ قَدِيرًا</span>
+
+### English
+
+If it is His Will, He can remove you altogether, O  humanity, and replace you with others. And Allah is Most Capable to do so.

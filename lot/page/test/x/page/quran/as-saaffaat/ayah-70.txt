@@ -1,0 +1,15 @@
+---
+ayah: 70
+title: Āyah 70
+description: Content of sūrah As-Saaffaat āyah 70.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَهُمْ عَلَىٰٓ ءَاثَـٰرِهِمْ يُهْرَعُونَ […](ayah-69)</span>
+
+### English
+
+[…](ayah-69) so they rushed in their footsteps!

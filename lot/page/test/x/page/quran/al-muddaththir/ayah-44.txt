@@ -1,0 +1,15 @@
+---
+ayah: 44
+title: Āyah 44
+description: Content of sūrah Al-Muddaththir āyah 44.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَلَمْ نَكُ نُطْعِمُ ٱلْمِسْكِينَ […](ayah-43)</span>
+
+### English
+
+[…](ayah-43) nor did we feed the poor.

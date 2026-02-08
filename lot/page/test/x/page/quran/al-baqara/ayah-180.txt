@@ -1,0 +1,15 @@
+---
+ayah: 180
+title: Āyah 180
+description: Content of sūrah Al-Baqara āyah 180.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ إِن تَرَكَ خَيْرًا ٱلْوَصِيَّةُ لِلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ بِٱلْمَعْرُوفِ ۖ حَقًّا عَلَى ٱلْمُتَّقِينَ</span>
+
+### English
+
+It is prescribed that when death approaches any of you—if they leave something of value—a will should be made in favour of parents and immediate family with fairness. ˹This is˺ an obligation on those who are mindful ˹of Allah˺.

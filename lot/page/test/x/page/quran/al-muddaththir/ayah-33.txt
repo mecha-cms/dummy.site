@@ -1,0 +1,15 @@
+---
+ayah: 33
+title: Āyah 33
+description: Content of sūrah Al-Muddaththir āyah 33.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-34) وَٱلَّيْلِ إِذْ أَدْبَرَ […](ayah-32)</span>
+
+### English
+
+[…](ayah-32) and the night as it retreats […](ayah-34)

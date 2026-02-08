@@ -1,0 +1,15 @@
+---
+ayah: 106
+title: Āyah 106
+description: Content of sūrah Al-An’aam āyah 106.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">ٱتَّبِعْ مَآ أُوحِىَ إِلَيْكَ مِن رَّبِّكَ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ وَأَعْرِضْ عَنِ ٱلْمُشْرِكِينَ</span>
+
+### English
+
+˹O Prophet!˺ Follow what is revealed to you from your Lord—there is no god ˹worthy of worship˺ except Him—and turn away from the polytheists.

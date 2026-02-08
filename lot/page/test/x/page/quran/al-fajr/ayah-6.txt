@@ -1,0 +1,15 @@
+---
+ayah: 6
+title: Āyah 6
+description: Content of sūrah Al-Fajr āyah 6.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-7) أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ</span>
+
+### English
+
+Did you not see how your Lord dealt with ’Ȃd— […](ayah-7)

@@ -1,0 +1,15 @@
+---
+ayah: 36
+title: Āyah 36
+description: Content of sūrah An-Naba āyah 36.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-37) جَزَآءً مِّن رَّبِّكَ عَطَآءً حِسَابًا […](ayah-35)</span>
+
+### English
+
+[…](ayah-35) a ˹fitting˺ reward as a generous gift from your Lord […](ayah-37)

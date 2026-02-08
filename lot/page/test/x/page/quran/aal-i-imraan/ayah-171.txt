@@ -1,0 +1,15 @@
+---
+ayah: 171
+title: Āyah 171
+description: Content of sūrah Aal-i-Imraan āyah 171.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">۞ يَسْتَبْشِرُونَ بِنِعْمَةٍ مِّنَ ٱللَّهِ وَفَضْلٍ وَأَنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُؤْمِنِينَ</span>
+
+### English
+
+They are joyful for receiving Allah’s grace and bounty, and that Allah does not deny the reward of the believers.

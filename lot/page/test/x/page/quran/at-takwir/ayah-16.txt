@@ -1,0 +1,15 @@
+---
+ayah: 16
+title: Āyah 16
+description: Content of sūrah At-Takwir āyah 16.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-17) ٱلْجَوَارِ ٱلْكُنَّسِ […](ayah-15)</span>
+
+### English
+
+[…](ayah-15) which travel and hide […](ayah-17)

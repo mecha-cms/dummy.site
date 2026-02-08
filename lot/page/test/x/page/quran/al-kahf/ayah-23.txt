@@ -1,0 +1,15 @@
+---
+ayah: 23
+title: Āyah 23
+description: Content of sūrah Al-Kahf āyah 23.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَلَا تَقُولَنَّ لِشَا۟ىْءٍ إِنِّى فَاعِلٌ ذَٰلِكَ غَدًا</span>
+
+### English
+
+And never say of anything, “I will definitely do this tomorrow,”

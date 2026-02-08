@@ -1,0 +1,15 @@
+---
+ayah: 5
+title: Āyah 5
+description: Content of sūrah Yaseen āyah 5.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-6) تَنزِيلَ ٱلْعَزِيزِ ٱلرَّحِيمِ</span>
+
+### English
+
+˹This is˺ a revelation from the Almighty, Most Merciful […](ayah-6)

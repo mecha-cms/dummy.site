@@ -1,0 +1,15 @@
+---
+ayah: 100
+title: Āyah 100
+description: Content of sūrah As-Saaffaat āyah 100.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">رَبِّ هَبْ لِى مِنَ ٱلصَّـٰلِحِينَ</span>
+
+### English
+
+My Lord! Bless me with righteous offspring.”

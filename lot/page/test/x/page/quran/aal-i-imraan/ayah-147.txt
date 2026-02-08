@@ -1,0 +1,15 @@
+---
+ayah: 147
+title: Āyah 147
+description: Content of sūrah Aal-i-Imraan āyah 147.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَمَا كَانَ قَوْلَهُمْ إِلَّآ أَن قَالُوا۟ رَبَّنَا ٱغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِىٓ أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ</span>
+
+### English
+
+And all they said was, “Our Lord! Forgive our sins and excesses, make our steps firm, and grant us victory over the disbelieving people.”

@@ -1,0 +1,15 @@
+---
+ayah: 3
+title: Āyah 3
+description: Content of sūrah Al-Falaq āyah 3.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-4) وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ […](ayah-2)</span>
+
+### English
+
+[…](ayah-2) and from the evil of the night when it grows dark […](ayah-4)

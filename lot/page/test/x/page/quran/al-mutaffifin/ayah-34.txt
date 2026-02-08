@@ -1,0 +1,15 @@
+---
+ayah: 34
+title: Āyah 34
+description: Content of sūrah Al-Mutaffifin āyah 34.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-35) فَٱلْيَوْمَ ٱلَّذِينَ ءَامَنُوا۟ مِنَ ٱلْكُفَّارِ يَضْحَكُونَ</span>
+
+### English
+
+But on that Day the believers will be laughing at the disbelievers […](ayah-35)

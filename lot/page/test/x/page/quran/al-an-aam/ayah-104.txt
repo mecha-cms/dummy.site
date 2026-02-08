@@ -1,0 +1,15 @@
+---
+ayah: 104
+title: Āyah 104
+description: Content of sūrah Al-An’aam āyah 104.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">قَدْ جَآءَكُم بَصَآئِرُ مِن رَّبِّكُمْ ۖ فَمَنْ أَبْصَرَ فَلِنَفْسِهِۦ ۖ وَمَنْ عَمِىَ فَعَلَيْهَا ۚ وَمَآ أَنَا۠ عَلَيْكُم بِحَفِيظٍ</span>
+
+### English
+
+Indeed, there have come to you insights from your Lord. So whoever chooses to see, it is for their own good. But whoever chooses to be blind, it is to their own loss. And I am not a keeper over you.

@@ -1,0 +1,15 @@
+---
+ayah: 43
+title: Āyah 43
+description: Content of sūrah Al-Muddaththir āyah 43.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-44) قَالُوا۟ لَمْ نَكُ مِنَ ٱلْمُصَلِّينَ</span>
+
+### English
+
+They will reply, “We were not of those who prayed […](ayah-44)

@@ -1,0 +1,15 @@
+---
+ayah: 32
+title: Āyah 32
+description: Content of sūrah Yaseen āyah 32.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَإِن كُلٌّ لَّمَّا جَمِيعٌ لَّدَيْنَا مُحْضَرُونَ</span>
+
+### English
+
+Yet they will all be brought before Us.

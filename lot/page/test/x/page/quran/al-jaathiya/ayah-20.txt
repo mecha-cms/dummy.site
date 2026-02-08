@@ -1,0 +1,15 @@
+---
+ayah: 20
+title: Āyah 20
+description: Content of sūrah Al-Jaathiya āyah 20.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">هَـٰذَا بَصَـٰٓئِرُ لِلنَّاسِ وَهُدًى وَرَحْمَةٌ لِّقَوْمٍ يُوقِنُونَ</span>
+
+### English
+
+This ˹Quran˺ is an insight for humanity—a guide and mercy for people of sure faith.

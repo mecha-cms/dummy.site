@@ -1,0 +1,15 @@
+---
+ayah: 56
+title: Āyah 56
+description: Content of sūrah Al-Muminoon āyah 56.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">نُسَارِعُ لَهُمْ فِى ٱلْخَيْرَٰتِ ۚ بَل لَّا يَشْعُرُونَ […](ayah-55)</span>
+
+### English
+
+[…](ayah-55) that We hasten to ˹honour˺ them ˹with˺ all kinds of good? No! They are not aware.

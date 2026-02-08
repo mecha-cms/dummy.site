@@ -1,0 +1,15 @@
+---
+ayah: 127
+title: Āyah 127
+description: Content of sūrah Al-Baqara āyah 127.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ</span>
+
+### English
+
+And ˹remember˺ when Abraham raised the foundation of the House with Ishmael, ˹both praying,˺ “Our Lord! Accept ˹this˺ from us. You are indeed the All-Hearing, All-Knowing.

@@ -1,0 +1,15 @@
+---
+ayah: 150
+title: Āyah 150
+description: Content of sūrah An-Nisaa āyah 150.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-151) إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِٱللَّهِ وَرُسُلِهِۦ وَيُرِيدُونَ أَن يُفَرِّقُوا۟ بَيْنَ ٱللَّهِ وَرُسُلِهِۦ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَن يَتَّخِذُوا۟ بَيْنَ ذَٰلِكَ سَبِيلًا</span>
+
+### English
+
+Surely those who deny Allah and His messengers and wish to make a distinction between Allah and His messengers, saying, “We believe in some and disbelieve in others,” desiring to forge a compromise […](ayah-151)

@@ -1,0 +1,15 @@
+---
+ayah: 112
+title: Āyah 112
+description: Content of sūrah Al-A’raaf āyah 112.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">يَأْتُوكَ بِكُلِّ سَـٰحِرٍ عَلِيمٍ […](ayah-111)</span>
+
+### English
+
+[…](ayah-111) to bring you every clever magician.”

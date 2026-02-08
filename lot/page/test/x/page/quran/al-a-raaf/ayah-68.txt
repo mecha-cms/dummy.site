@@ -1,0 +1,15 @@
+---
+ayah: 68
+title: Āyah 68
+description: Content of sūrah Al-A’raaf āyah 68.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">أُبَلِّغُكُمْ رِسَـٰلَـٰتِ رَبِّى وَأَنَا۠ لَكُمْ نَاصِحٌ أَمِينٌ […](ayah-67)</span>
+
+### English
+
+[…](ayah-67) conveying to you my Lord’s messages. And I am your sincere advisor.

@@ -1,0 +1,15 @@
+---
+ayah: 22
+title: Āyah 22
+description: Content of sūrah Al-Muddaththir āyah 22.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-23) ثُمَّ عَبَسَ وَبَسَرَ […](ayah-21)</span>
+
+### English
+
+[…](ayah-21) then frowned and scowled […](ayah-23)

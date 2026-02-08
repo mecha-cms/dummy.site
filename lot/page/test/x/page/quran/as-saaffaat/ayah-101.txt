@@ -1,0 +1,15 @@
+---
+ayah: 101
+title: Āyah 101
+description: Content of sūrah As-Saaffaat āyah 101.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَبَشَّرْنَـٰهُ بِغُلَـٰمٍ حَلِيمٍ</span>
+
+### English
+
+So We gave him good news of a forbearing son.

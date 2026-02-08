@@ -1,0 +1,15 @@
+---
+ayah: 25
+title: Āyah 25
+description: Content of sūrah Az-Zukhruf āyah 25.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَٱنتَقَمْنَا مِنْهُمْ ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ</span>
+
+### English
+
+So We inflicted punishment upon them. See then what was the fate of the deniers!

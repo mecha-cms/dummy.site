@@ -1,0 +1,15 @@
+---
+ayah: 31
+title: Āyah 31
+description: Content of sūrah An-Naba āyah 31.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-32) إِنَّ لِلْمُتَّقِينَ مَفَازًا</span>
+
+### English
+
+Indeed, the righteous will have salvation— […](ayah-32)

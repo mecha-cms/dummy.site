@@ -1,0 +1,15 @@
+---
+ayah: 104
+title: Āyah 104
+description: Content of sūrah Al-A’raaf āyah 104.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-105) وَقَالَ مُوسَىٰ يَـٰفِرْعَوْنُ إِنِّى رَسُولٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ</span>
+
+### English
+
+And Moses said, “O Pharaoh! I am truly a messenger from the Lord of all worlds […](ayah-105)

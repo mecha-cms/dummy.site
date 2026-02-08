@@ -1,0 +1,15 @@
+---
+ayah: 197
+title: Āyah 197
+description: Content of sūrah Ash-Shu’araa āyah 197.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">أَوَلَمْ يَكُن لَّهُمْ ءَايَةً أَن يَعْلَمَهُۥ عُلَمَـٰٓؤُا۟ بَنِىٓ إِسْرَٰٓءِيلَ</span>
+
+### English
+
+Was it not sufficient proof for the deniers that it has been recognized by the knowledgeable among the Children of Israel?

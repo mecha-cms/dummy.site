@@ -1,0 +1,15 @@
+---
+ayah: 104
+title: Āyah 104
+description: Content of sūrah Al-Maaida āyah 104.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ قَالُوا۟ حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْلَمُونَ شَيْـًٔا وَلَا يَهْتَدُونَ</span>
+
+### English
+
+When it is said to them, “Come to Allah’s revelations and to the Messenger,” they reply, “What we found our forefathers practicing is good enough for us.” ˹Would they still do so,˺ even if their forefathers had absolutely no knowledge or guidance?

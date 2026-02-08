@@ -1,0 +1,15 @@
+---
+ayah: 7
+title: Āyah 7
+description: Content of sūrah Al-Insaan āyah 7.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-8) يُوفُونَ بِٱلنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُۥ مُسْتَطِيرًا</span>
+
+### English
+
+They ˹are those who˺ fulfil ˹their˺ vows and fear a Day of sweeping horror […](ayah-8)

@@ -1,0 +1,15 @@
+---
+ayah: 100
+title: Āyah 100
+description: Content of sūrah Al-A’raaf āyah 100.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">أَوَلَمْ يَهْدِ لِلَّذِينَ يَرِثُونَ ٱلْأَرْضَ مِنۢ بَعْدِ أَهْلِهَآ أَن لَّوْ نَشَآءُ أَصَبْنَـٰهُم بِذُنُوبِهِمْ ۚ وَنَطْبَعُ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَسْمَعُونَ</span>
+
+### English
+
+Is it not clear to those who take over the land after ˹the destruction of˺ its former residents that—if We will—We can punish them ˹too˺ for their sins and seal their hearts so they will not hear ˹the truth˺?

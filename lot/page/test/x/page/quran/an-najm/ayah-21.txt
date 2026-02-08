@@ -1,0 +1,15 @@
+---
+ayah: 21
+title: Āyah 21
+description: Content of sūrah An-Najm āyah 21.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلْأُنثَىٰ</span>
+
+### English
+
+Do you ˹prefer to˺ have sons while ˹you attribute˺ to Him daughters?

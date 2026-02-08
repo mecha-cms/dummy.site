@@ -1,0 +1,15 @@
+---
+ayah: 6
+title: Āyah 6
+description: Content of sūrah Al-Qasas āyah 6.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَنُمَكِّنَ لَهُمْ فِى ٱلْأَرْضِ وَنُرِىَ فِرْعَوْنَ وَهَـٰمَـٰنَ وَجُنُودَهُمَا مِنْهُم مَّا كَانُوا۟ يَحْذَرُونَ […](ayah-5)</span>
+
+### English
+
+[…](ayah-5) and to establish them in the land; and through them show Pharaoh, Hamân, and their soldiers ˹the fulfilment of˺ what they feared.

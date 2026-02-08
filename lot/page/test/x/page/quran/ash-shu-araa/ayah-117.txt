@@ -1,0 +1,15 @@
+---
+ayah: 117
+title: Āyah 117
+description: Content of sūrah Ash-Shu’araa āyah 117.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">قَالَ رَبِّ إِنَّ قَوْمِى كَذَّبُونِ</span>
+
+### English
+
+Noah prayed, “My Lord! My people have truly rejected me.

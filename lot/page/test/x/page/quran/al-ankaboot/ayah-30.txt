@@ -1,0 +1,15 @@
+---
+ayah: 30
+title: Āyah 30
+description: Content of sūrah Al-Ankaboot āyah 30.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">قَالَ رَبِّ ٱنصُرْنِى عَلَى ٱلْقَوْمِ ٱلْمُفْسِدِينَ</span>
+
+### English
+
+Lot prayed, “My Lord! Help me against the people of corruption.”

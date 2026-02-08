@@ -1,0 +1,15 @@
+---
+ayah: 10
+title: Āyah 10
+description: Content of sūrah An-Naazi’aat āyah 10.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-11) يَقُولُونَ أَءِنَّا لَمَرْدُودُونَ فِى ٱلْحَافِرَةِ</span>
+
+### English
+
+˹But now˺ they ask ˹mockingly˺, “Will we really be restored to our former state […](ayah-11)

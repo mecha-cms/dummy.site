@@ -1,0 +1,15 @@
+---
+ayah: 25
+title: Āyah 25
+description: Content of sūrah Ash-Shura āyah 25.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَهُوَ ٱلَّذِى يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَعْفُوا۟ عَنِ ٱلسَّيِّـَٔاتِ وَيَعْلَمُ مَا تَفْعَلُونَ</span>
+
+### English
+
+He is the One Who accepts repentance from His servants and pardons ˹their˺ sins. And He knows whatever you do.

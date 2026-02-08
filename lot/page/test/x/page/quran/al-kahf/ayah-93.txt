@@ -1,0 +1,15 @@
+---
+ayah: 93
+title: Āyah 93
+description: Content of sūrah Al-Kahf āyah 93.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">حَتَّىٰٓ إِذَا بَلَغَ بَيْنَ ٱلسَّدَّيْنِ وَجَدَ مِن دُونِهِمَا قَوْمًا لَّا يَكَادُونَ يَفْقَهُونَ قَوْلًا […](ayah-92)</span>
+
+### English
+
+[…](ayah-92) until he reached ˹a pass˺ between two mountains. He found in front of them a people who could hardly understand ˹his˺ language.

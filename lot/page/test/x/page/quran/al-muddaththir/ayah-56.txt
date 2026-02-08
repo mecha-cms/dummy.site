@@ -1,0 +1,15 @@
+---
+ayah: 56
+title: Āyah 56
+description: Content of sūrah Al-Muddaththir āyah 56.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَمَا يَذْكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ هُوَ أَهْلُ ٱلتَّقْوَىٰ وَأَهْلُ ٱلْمَغْفِرَةِ</span>
+
+### English
+
+But they cannot do so unless Allah wills. He ˹alone˺ is worthy to be feared and entitled to forgive.

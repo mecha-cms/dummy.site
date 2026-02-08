@@ -1,0 +1,15 @@
+---
+ayah: 178
+title: Āyah 178
+description: Content of sūrah Ash-Shu’araa āyah 178.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِنِّى لَكُمْ رَسُولٌ أَمِينٌ</span>
+
+### English
+
+I am truly a trustworthy messenger to you.

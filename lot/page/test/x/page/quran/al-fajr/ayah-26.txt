@@ -1,0 +1,15 @@
+---
+ayah: 26
+title: Āyah 26
+description: Content of sūrah Al-Fajr āyah 26.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌ […](ayah-25)</span>
+
+### English
+
+[…](ayah-25) and bind ˹them˺ tightly, like no other.

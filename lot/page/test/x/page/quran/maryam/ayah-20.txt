@@ -1,0 +1,15 @@
+---
+ayah: 20
+title: Āyah 20
+description: Content of sūrah Maryam āyah 20.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">قَالَتْ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌ وَلَمْ يَمْسَسْنِى بَشَرٌ وَلَمْ أَكُ بَغِيًّا</span>
+
+### English
+
+She wondered, “How can I have a son when no man has ever touched me, nor am I unchaste?”

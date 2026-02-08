@@ -1,0 +1,15 @@
+---
+ayah: 134
+title: Āyah 134
+description: Content of sūrah As-Saaffaat āyah 134.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-135) إِذْ نَجَّيْنَـٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ</span>
+
+### English
+
+˹Remember˺ when We delivered him and all of his family […](ayah-135)

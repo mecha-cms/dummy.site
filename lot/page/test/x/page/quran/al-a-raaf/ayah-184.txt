@@ -1,0 +1,15 @@
+---
+ayah: 184
+title: Āyah 184
+description: Content of sūrah Al-A’raaf āyah 184.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">أَوَلَمْ يَتَفَكَّرُوا۟ ۗ مَا بِصَاحِبِهِم مِّن جِنَّةٍ ۚ إِنْ هُوَ إِلَّا نَذِيرٌ مُّبِينٌ</span>
+
+### English
+
+Have they not ever given it a thought? Their fellow man is not insane. He is only sent with a clear warning.

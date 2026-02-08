@@ -1,0 +1,15 @@
+---
+ayah: 15
+title: Āyah 15
+description: Content of sūrah An-Najm āyah 15.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-16) عِندَهَا جَنَّةُ ٱلْمَأْوَىٰٓ […](ayah-14)</span>
+
+### English
+
+[…](ayah-14) near which is the Garden of ˹Eternal˺ Residence— […](ayah-16)

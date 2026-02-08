@@ -1,0 +1,15 @@
+---
+ayah: 100
+title: Āyah 100
+description: Content of sūrah An-Nahl āyah 100.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِنَّمَا سُلْطَـٰنُهُۥ عَلَى ٱلَّذِينَ يَتَوَلَّوْنَهُۥ وَٱلَّذِينَ هُم بِهِۦ مُشْرِكُونَ</span>
+
+### English
+
+His authority is only over those who take him as a patron and who—under his influence—associate ˹others˺ with Allah ˹in worship˺.

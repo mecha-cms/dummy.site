@@ -1,0 +1,15 @@
+---
+ayah: 32
+title: Āyah 32
+description: Content of sūrah Al-Mursalaat āyah 32.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-33) إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ</span>
+
+### English
+
+Indeed, it hurls sparks ˹as big˺ as huge castles […](ayah-33)

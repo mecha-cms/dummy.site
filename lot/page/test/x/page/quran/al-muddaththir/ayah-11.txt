@@ -1,0 +1,15 @@
+---
+ayah: 11
+title: Āyah 11
+description: Content of sūrah Al-Muddaththir āyah 11.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-12) ذَرْنِى وَمَنْ خَلَقْتُ وَحِيدًا</span>
+
+### English
+
+And leave to me ˹O Prophet˺ the one I created all by Myself […](ayah-12)

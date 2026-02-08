@@ -1,0 +1,15 @@
+---
+ayah: 20
+title: Āyah 20
+description: Content of sūrah Ash-Shu’araa āyah 20.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">قَالَ فَعَلْتُهَآ إِذًا وَأَنَا۠ مِنَ ٱلضَّآلِّينَ</span>
+
+### English
+
+Moses replied, “I did it then, lacking guidance.

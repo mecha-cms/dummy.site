@@ -1,0 +1,15 @@
+---
+ayah: 2
+title: Āyah 2
+description: Content of sūrah Al-Ma’aarij āyah 2.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-3) لِّلْكَـٰفِرِينَ لَيْسَ لَهُۥ دَافِعٌ […](ayah-1)</span>
+
+### English
+
+[…](ayah-1) for the disbelievers—to be averted by none— […](ayah-3)

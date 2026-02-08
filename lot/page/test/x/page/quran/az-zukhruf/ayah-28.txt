@@ -1,0 +1,15 @@
+---
+ayah: 28
+title: Āyah 28
+description: Content of sūrah Az-Zukhruf āyah 28.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَجَعَلَهَا كَلِمَةًۢ بَاقِيَةً فِى عَقِبِهِۦ لَعَلَّهُمْ يَرْجِعُونَ</span>
+
+### English
+
+And he left this enduring declaration among his descendants, so they may ˹always˺ turn back ˹to Allah˺.

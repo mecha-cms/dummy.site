@@ -1,0 +1,15 @@
+---
+ayah: 111
+title: Āyah 111
+description: Content of sūrah An-Nisaa āyah 111.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَمَن يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُۥ عَلَىٰ نَفْسِهِۦ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا</span>
+
+### English
+
+And whoever commits a sin—it is only to their own loss. Allah is All-Knowing, All-Wise.

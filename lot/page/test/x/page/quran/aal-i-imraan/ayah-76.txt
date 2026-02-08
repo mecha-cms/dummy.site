@@ -1,0 +1,15 @@
+---
+ayah: 76
+title: Āyah 76
+description: Content of sūrah Aal-i-Imraan āyah 76.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">بَلَىٰ مَنْ أَوْفَىٰ بِعَهْدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ</span>
+
+### English
+
+Absolutely! Those who honour their trusts and shun evil—surely Allah loves those who are mindful ˹of Him˺.

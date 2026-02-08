@@ -1,0 +1,15 @@
+---
+ayah: 4
+title: Āyah 4
+description: Content of sūrah Al-Aadiyaat āyah 4.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-5) فَأَثَرْنَ بِهِۦ نَقْعًا […](ayah-3)</span>
+
+### English
+
+[…](ayah-3) stirring up ˹clouds of˺ dust […](ayah-5)

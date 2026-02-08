@@ -1,0 +1,15 @@
+---
+ayah: 29
+title: Āyah 29
+description: Content of sūrah Al-Fajr āyah 29.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-30) فَٱدْخُلِى فِى عِبَـٰدِى</span>
+
+### English
+
+So join My servants […](ayah-30)

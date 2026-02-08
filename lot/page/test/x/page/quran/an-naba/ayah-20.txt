@@ -1,0 +1,15 @@
+---
+ayah: 20
+title: Āyah 20
+description: Content of sūrah An-Naba āyah 20.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَسُيِّرَتِ ٱلْجِبَالُ فَكَانَتْ سَرَابًا […](ayah-19)</span>
+
+### English
+
+[…](ayah-19) and the mountains will be blown away, becoming ˹like˺ a mirage.

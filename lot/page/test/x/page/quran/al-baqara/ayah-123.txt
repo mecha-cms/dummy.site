@@ -1,0 +1,15 @@
+---
+ayah: 123
+title: Āyah 123
+description: Content of sūrah Al-Baqara āyah 123.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَٱتَّقُوا۟ يَوْمًا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍ شَيْـًٔا وَلَا يُقْبَلُ مِنْهَا عَدْلٌ وَلَا تَنفَعُهَا شَفَـٰعَةٌ وَلَا هُمْ يُنصَرُونَ</span>
+
+### English
+
+And guard yourselves against the Day when no soul will be of any help to another. No ransom will be taken, no intercession accepted, and no help will be given.

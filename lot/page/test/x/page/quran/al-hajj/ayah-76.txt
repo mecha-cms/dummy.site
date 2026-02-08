@@ -1,0 +1,15 @@
+---
+ayah: 76
+title: Āyah 76
+description: Content of sūrah Al-Hajj āyah 76.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۗ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ</span>
+
+### English
+
+He knows what is ahead of them and what is behind them. And to Allah ˹all˺ matters will be returned ˹for judgment˺.

@@ -1,0 +1,15 @@
+---
+ayah: 115
+title: Āyah 115
+description: Content of sūrah Hud āyah 115.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَٱصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ</span>
+
+### English
+
+And be patient! Certainly Allah does not discount the reward of the good-doers.

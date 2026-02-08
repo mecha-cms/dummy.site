@@ -1,0 +1,15 @@
+---
+ayah: 116
+title: Āyah 116
+description: Content of sūrah Al-Muminoon āyah 116.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَتَعَـٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْكَرِيمِ</span>
+
+### English
+
+Exalted is Allah, the True King! There is no god ˹worthy of worship˺ except Him, the Lord of the Honourable Throne.

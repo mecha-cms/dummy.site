@@ -1,0 +1,15 @@
+---
+ayah: 135
+title: Āyah 135
+description: Content of sūrah Al-A’raaf āyah 135.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلرِّجْزَ إِلَىٰٓ أَجَلٍ هُم بَـٰلِغُوهُ إِذَا هُمْ يَنكُثُونَ</span>
+
+### English
+
+But as soon as We removed the torment from them—until they met their inevitable fate—they broke their promise.

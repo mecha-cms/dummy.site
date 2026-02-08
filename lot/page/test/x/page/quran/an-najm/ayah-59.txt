@@ -1,0 +1,15 @@
+---
+ayah: 59
+title: Āyah 59
+description: Content of sūrah An-Najm āyah 59.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-60) أَفَمِنْ هَـٰذَا ٱلْحَدِيثِ تَعْجَبُونَ</span>
+
+### English
+
+Do you find this revelation astonishing […](ayah-60)

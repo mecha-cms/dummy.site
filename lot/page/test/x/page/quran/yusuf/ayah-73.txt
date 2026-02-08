@@ -1,0 +1,15 @@
+---
+ayah: 73
+title: Āyah 73
+description: Content of sūrah Yusuf āyah 73.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">قَالُوا۟ تَٱللَّهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِى ٱلْأَرْضِ وَمَا كُنَّا سَـٰرِقِينَ</span>
+
+### English
+
+Joseph’s brothers replied, “By Allah! You know well that we did not come to cause trouble in the land, nor are we thieves.”

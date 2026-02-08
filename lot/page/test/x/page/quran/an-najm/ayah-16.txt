@@ -1,0 +1,15 @@
+---
+ayah: 16
+title: Āyah 16
+description: Content of sūrah An-Najm āyah 16.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِذْ يَغْشَى ٱلسِّدْرَةَ مَا يَغْشَىٰ […](ayah-15)</span>
+
+### English
+
+[…](ayah-15) while the Lote Tree was overwhelmed with ˹heavenly˺ splendours!

@@ -1,0 +1,15 @@
+---
+ayah: 57
+title: Āyah 57
+description: Content of sūrah Ash-Shu’araa āyah 57.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-58) فَأَخْرَجْنَـٰهُم مِّن جَنَّـٰتٍ وَعُيُونٍ</span>
+
+### English
+
+So We lured the tyrants out of ˹their˺ gardens, springs […](ayah-58)

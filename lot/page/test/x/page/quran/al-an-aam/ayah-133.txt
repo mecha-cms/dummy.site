@@ -1,0 +1,15 @@
+---
+ayah: 133
+title: Āyah 133
+description: Content of sūrah Al-An’aam āyah 133.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَرَبُّكَ ٱلْغَنِىُّ ذُو ٱلرَّحْمَةِ ۚ إِن يَشَأْ يُذْهِبْكُمْ وَيَسْتَخْلِفْ مِنۢ بَعْدِكُم مَّا يَشَآءُ كَمَآ أَنشَأَكُم مِّن ذُرِّيَّةِ قَوْمٍ ءَاخَرِينَ</span>
+
+### English
+
+Your Lord is the Self-Sufficient, Full of Mercy. If He wills, He can do away with you and replace you with whoever He wills, just as He produced you from the offspring of other people.

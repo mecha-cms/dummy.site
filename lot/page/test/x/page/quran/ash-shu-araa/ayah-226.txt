@@ -1,0 +1,15 @@
+---
+ayah: 226
+title: Āyah 226
+description: Content of sūrah Ash-Shu’araa āyah 226.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَأَنَّهُمْ يَقُولُونَ مَا لَا يَفْعَلُونَ […](ayah-225)</span>
+
+### English
+
+[…](ayah-225) only saying what they never do?

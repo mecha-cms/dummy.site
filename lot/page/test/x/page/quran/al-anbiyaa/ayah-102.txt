@@ -1,0 +1,15 @@
+---
+ayah: 102
+title: Āyah 102
+description: Content of sūrah Al-Anbiyaa āyah 102.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">لَا يَسْمَعُونَ حَسِيسَهَا ۖ وَهُمْ فِى مَا ٱشْتَهَتْ أَنفُسُهُمْ خَـٰلِدُونَ […](ayah-101)</span>
+
+### English
+
+[…](ayah-101) not even hearing the slightest hissing from it. And they will delight forever in what their souls desire.

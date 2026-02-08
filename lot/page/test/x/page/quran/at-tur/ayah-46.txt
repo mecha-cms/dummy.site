@@ -1,0 +1,15 @@
+---
+ayah: 46
+title: Āyah 46
+description: Content of sūrah At-Tur āyah 46.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">يَوْمَ لَا يُغْنِى عَنْهُمْ كَيْدُهُمْ شَيْـًٔا وَلَا هُمْ يُنصَرُونَ […](ayah-45)</span>
+
+### English
+
+[…](ayah-45) the Day their scheming will be of no benefit to them whatsoever, nor will they be helped.

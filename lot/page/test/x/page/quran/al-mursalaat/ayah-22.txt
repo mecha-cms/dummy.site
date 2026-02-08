@@ -1,0 +1,15 @@
+---
+ayah: 22
+title: Āyah 22
+description: Content of sūrah Al-Mursalaat āyah 22.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِلَىٰ قَدَرٍ مَّعْلُومٍ […](ayah-21)</span>
+
+### English
+
+[…](ayah-21) until an appointed time?

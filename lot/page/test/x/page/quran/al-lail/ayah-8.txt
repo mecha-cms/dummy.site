@@ -1,0 +1,15 @@
+---
+ayah: 8
+title: Āyah 8
+description: Content of sūrah Al-Lail āyah 8.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-9) وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ</span>
+
+### English
+
+And as for the one who is stingy, indifferent ˹to Allah˺ […](ayah-9)

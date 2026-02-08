@@ -1,0 +1,15 @@
+---
+ayah: 29
+title: Āyah 29
+description: Content of sūrah Qaaf āyah 29.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">مَا يُبَدَّلُ ٱلْقَوْلُ لَدَىَّ وَمَآ أَنَا۠ بِظَلَّـٰمٍ لِّلْعَبِيدِ</span>
+
+### English
+
+My Word cannot be changed, nor am I unjust to ˹My˺ creation.”

@@ -1,0 +1,15 @@
+---
+ayah: 194
+title: Āyah 194
+description: Content of sūrah Al-Baqara āyah 194.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">ٱلشَّهْرُ ٱلْحَرَامُ بِٱلشَّهْرِ ٱلْحَرَامِ وَٱلْحُرُمَـٰتُ قِصَاصٌ ۚ فَمَنِ ٱعْتَدَىٰ عَلَيْكُمْ فَٱعْتَدُوا۟ عَلَيْهِ بِمِثْلِ مَا ٱعْتَدَىٰ عَلَيْكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ</span>
+
+### English
+
+˹There will be retaliation in˺ a sacred month for ˹an offence in˺ a sacred month, and all violations will bring about retaliation. So, if anyone attacks you, retaliate in the same manner. ˹But˺ be mindful of Allah, and know that Allah is with those mindful ˹of Him˺.

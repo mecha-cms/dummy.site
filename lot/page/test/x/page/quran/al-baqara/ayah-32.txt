@@ -1,0 +1,15 @@
+---
+ayah: 32
+title: Āyah 32
+description: Content of sūrah Al-Baqara āyah 32.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">قَالُوا۟ سُبْحَـٰنَكَ لَا عِلْمَ لَنَآ إِلَّا مَا عَلَّمْتَنَآ ۖ إِنَّكَ أَنتَ ٱلْعَلِيمُ ٱلْحَكِيمُ</span>
+
+### English
+
+They replied, “Glory be to You! We have no knowledge except what You have taught us. You are truly the All-Knowing, All-Wise.”

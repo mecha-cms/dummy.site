@@ -1,0 +1,22 @@
+---
+title: Storms of the Northern Atlantic
+description: Hurricanes in one part of the world.
+author: Taufik Nurrohman
+type: Markdown
+...
+
+![Image](/lot/asset/page/article/storm-of-the-northern-atlantic/16313103.jpg)
+ Photo by [Guilherme Christmann][1] from [Pexels][2].
+
+Hurricanes generally occur in the North Atlantic from May through November, with the peak of the hurricane season in
+September; only rarely will they occur from December through April in that part of the ocean. The main reason for the
+occurance of hurricanes during this period is that the temperature on the water’s surface is at its warmest and the
+humidity of the air is at its highest.
+
+Of the tropical storms that occur each year in the North Atlantic, only about five, on the average, are powerful enough
+to be called hurricanes. To be classified as a hurricane, a tropical storm must have winds reaching speeds of at least
+117 kilometers per hour, but the winds are often much stronger than that; the winds of intense hurricanes can easily
+surpass 240 kilometers per hour.
+
+ [1]: https://www.pexels.com/@guilherme-christmann-473890195
+ [2]: https://www.pexels.com/photo/palm-trees-during-a-hurricane-16313103

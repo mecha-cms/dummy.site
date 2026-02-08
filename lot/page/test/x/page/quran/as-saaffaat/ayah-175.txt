@@ -1,0 +1,15 @@
+---
+ayah: 175
+title: Āyah 175
+description: Content of sūrah As-Saaffaat āyah 175.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ</span>
+
+### English
+
+You will see ˹what will happen to˺ them, and they too will see!

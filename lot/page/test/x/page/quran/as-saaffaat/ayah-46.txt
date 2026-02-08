@@ -1,0 +1,15 @@
+---
+ayah: 46
+title: Āyah 46
+description: Content of sūrah As-Saaffaat āyah 46.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">بَيْضَآءَ لَذَّةٍ لِّلشَّـٰرِبِينَ […](ayah-45)</span>
+
+### English
+
+[…](ayah-45) crystal-white, delicious to drink.

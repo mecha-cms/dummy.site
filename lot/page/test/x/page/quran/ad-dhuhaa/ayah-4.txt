@@ -1,0 +1,15 @@
+---
+ayah: 4
+title: Āyah 4
+description: Content of sūrah Ad-Dhuhaa āyah 4.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ</span>
+
+### English
+
+And the next life is certainly far better for you than this one.

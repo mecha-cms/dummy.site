@@ -1,0 +1,15 @@
+---
+ayah: 173
+title: Āyah 173
+description: Content of sūrah As-Saaffaat āyah 173.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَإِنَّ جُندَنَا لَهُمُ ٱلْغَـٰلِبُونَ […](ayah-172)</span>
+
+### English
+
+[…](ayah-172) and that Our forces will certainly prevail.

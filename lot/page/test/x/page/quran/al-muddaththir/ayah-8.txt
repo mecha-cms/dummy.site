@@ -1,0 +1,15 @@
+---
+ayah: 8
+title: Āyah 8
+description: Content of sūrah Al-Muddaththir āyah 8.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-9) فَإِذَا نُقِرَ فِى ٱلنَّاقُورِ</span>
+
+### English
+
+˹For˺ when the Trumpet will be sounded […](ayah-9)

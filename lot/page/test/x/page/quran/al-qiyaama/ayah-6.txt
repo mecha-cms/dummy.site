@@ -1,0 +1,15 @@
+---
+ayah: 6
+title: Āyah 6
+description: Content of sūrah Al-Qiyaama āyah 6.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَـٰمَةِ […](ayah-5)</span>
+
+### English
+
+[…](ayah-5) asking ˹mockingly˺, “When is this Day of Judgment?”

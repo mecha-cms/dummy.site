@@ -1,0 +1,15 @@
+---
+ayah: 105
+title: Āyah 105
+description: Content of sūrah Taa-Haa āyah 105.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-106) وَيَسْـَٔلُونَكَ عَنِ ٱلْجِبَالِ فَقُلْ يَنسِفُهَا رَبِّى نَسْفًا</span>
+
+### English
+
+And ˹if˺ they ask you ˹O Prophet˺ about the mountains, ˹then˺ say, “My Lord will wipe them out completely […](ayah-106)

@@ -1,0 +1,15 @@
+---
+ayah: 1
+title: Āyah 1
+description: Content of sūrah An-Naazi’aat āyah 1.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-2) وَٱلنَّـٰزِعَـٰتِ غَرْقًا</span>
+
+### English
+
+By those ˹angels˺ stripping out ˹evil souls˺ harshly […](ayah-2)

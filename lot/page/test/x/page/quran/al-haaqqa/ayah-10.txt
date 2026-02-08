@@ -1,0 +1,15 @@
+---
+ayah: 10
+title: Āyah 10
+description: Content of sūrah Al-Haaqqa āyah 10.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَعَصَوْا۟ رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَّابِيَةً […](ayah-9)</span>
+
+### English
+
+[…](ayah-9) each disobeying their Lord’s messenger, so He seized them with a crushing grip.

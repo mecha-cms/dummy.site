@@ -1,0 +1,5 @@
+---
+title: Page
+description: 'Test for the [Page](https://mecha-cms.com/store/extension/page) extension.'
+type: Markdown
+...

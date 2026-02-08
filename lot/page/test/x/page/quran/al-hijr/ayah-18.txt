@@ -1,0 +1,15 @@
+---
+ayah: 18
+title: Āyah 18
+description: Content of sūrah Al-Hijr āyah 18.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِلَّا مَنِ ٱسْتَرَقَ ٱلسَّمْعَ فَأَتْبَعَهُۥ شِهَابٌ مُّبِينٌ […](ayah-17)</span>
+
+### English
+
+[…](ayah-17) except the one eavesdropping, who is then pursued by a visible flare.

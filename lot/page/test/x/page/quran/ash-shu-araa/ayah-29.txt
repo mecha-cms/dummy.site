@@ -1,0 +1,15 @@
+---
+ayah: 29
+title: Āyah 29
+description: Content of sūrah Ash-Shu’araa āyah 29.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">قَالَ لَئِنِ ٱتَّخَذْتَ إِلَـٰهًا غَيْرِى لَأَجْعَلَنَّكَ مِنَ ٱلْمَسْجُونِينَ</span>
+
+### English
+
+Pharaoh threatened, “If you take any other god besides me, I will certainly have you imprisoned.”

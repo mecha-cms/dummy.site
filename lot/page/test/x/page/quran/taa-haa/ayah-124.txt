@@ -1,0 +1,15 @@
+---
+ayah: 124
+title: Āyah 124
+description: Content of sūrah Taa-Haa āyah 124.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَمَنْ أَعْرَضَ عَن ذِكْرِى فَإِنَّ لَهُۥ مَعِيشَةً ضَنكًا وَنَحْشُرُهُۥ يَوْمَ ٱلْقِيَـٰمَةِ أَعْمَىٰ</span>
+
+### English
+
+But whoever turns away from My Reminder will certainly have a miserable life, then We will raise them up blind on the Day of Judgment.”

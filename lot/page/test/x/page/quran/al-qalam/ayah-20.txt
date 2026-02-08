@@ -1,0 +1,15 @@
+---
+ayah: 20
+title: Āyah 20
+description: Content of sūrah Al-Qalam āyah 20.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">فَأَصْبَحَتْ كَٱلصَّرِيمِ […](ayah-19)</span>
+
+### English
+
+[…](ayah-19) so it was reduced to ashes.

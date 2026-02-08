@@ -1,0 +1,15 @@
+---
+ayah: 20
+title: Āyah 20
+description: Content of sūrah At-Takwir āyah 20.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-21) ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍ […](ayah-19)</span>
+
+### English
+
+[…](ayah-19) full of power, held in honour by the Lord of the Throne […](ayah-21)

@@ -1,0 +1,15 @@
+---
+ayah: 131
+title: Āyah 131
+description: Content of sūrah Al-Baqara āyah 131.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">إِذْ قَالَ لَهُۥ رَبُّهُۥٓ أَسْلِمْ ۖ قَالَ أَسْلَمْتُ لِرَبِّ ٱلْعَـٰلَمِينَ</span>
+
+### English
+
+When his Lord ordered him, “Submit ˹to My Will˺,” he responded, “I submit to the Lord of all worlds.”

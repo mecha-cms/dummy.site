@@ -1,0 +1,15 @@
+---
+ayah: 147
+title: Āyah 147
+description: Content of sūrah As-Saaffaat āyah 147.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-148) وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ</span>
+
+### English
+
+We ˹later˺ sent him ˹back˺ to ˹his city of˺ at least one hundred thousand people […](ayah-148)

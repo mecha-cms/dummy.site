@@ -1,0 +1,15 @@
+---
+ayah: 24
+title: Āyah 24
+description: Content of sūrah Adh-Dhaariyat āyah 24.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">هَلْ أَتَىٰكَ حَدِيثُ ضَيْفِ إِبْرَٰهِيمَ ٱلْمُكْرَمِينَ</span>
+
+### English
+
+Has the story of Abraham’s honoured guests reached you ˹O Prophet˺?

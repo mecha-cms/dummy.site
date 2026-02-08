@@ -1,0 +1,15 @@
+---
+ayah: 10
+title: Āyah 10
+description: Content of sūrah Ad-Dhuhaa āyah 10.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ […](ayah-9)</span>
+
+### English
+
+[…](ayah-9) nor repulse the beggar.

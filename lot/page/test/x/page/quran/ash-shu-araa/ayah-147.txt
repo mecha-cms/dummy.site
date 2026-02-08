@@ -1,0 +1,15 @@
+---
+ayah: 147
+title: Āyah 147
+description: Content of sūrah Ash-Shu’araa āyah 147.
+author: '@taufik-nurrohman'
+type: Markdown
+...
+
+### Arabic
+
+<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-148) فِى جَنَّـٰتٍ وَعُيُونٍ […](ayah-146)</span>
+
+### English
+
+[…](ayah-146) amid gardens and springs […](ayah-148)
