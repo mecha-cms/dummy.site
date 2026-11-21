@@ -8,7 +8,7 @@ type: Markdown
 
 ### Arabic
 
-<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-99) فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُن مِّنَ ٱلسَّـٰجِدِينَ</span>
+<span style="display: block; font-size: 180%; text-align: right;">فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُن مِّنَ ٱلسَّـٰجِدِينَ […](ayah-99)</span>
 
 ### English
 

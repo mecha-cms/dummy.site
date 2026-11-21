@@ -2,7 +2,8 @@
 title: The Holy Quran
 description: >-
   Using the Quran to stress test the [Page](https://mecha-cms.com/store/extension/page) extension. Let’s see how much
-  memory is used to list all the pages. The list is sorted by the `ayah` and `surah` key embedded in the file content.
+  memory is used to list all the pages. The list is sorted by the `ayah` and `surah` key embedded in the file content,
+  so a partial reading of the file content is necessary.
 author: '@taufik-nurrohman'
 type: Markdown
 chunk: 144

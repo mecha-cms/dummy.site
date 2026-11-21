@@ -8,7 +8,7 @@ type: Markdown
 
 ### Arabic
 
-<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-38) قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ</span>
+<span style="display: block; font-size: 180%; text-align: right;">قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ […](ayah-38)</span>
 
 ### English
 

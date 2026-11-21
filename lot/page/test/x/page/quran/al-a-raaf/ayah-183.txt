@@ -8,7 +8,7 @@ type: Markdown
 
 ### Arabic
 
-<span style="display: block; font-size: 150%; text-align: right;">وَأُمْلِى لَهُمْ ۚ إِنَّ كَيْدِى مَتِينٌ</span>
+<span style="display: block; font-size: 180%; text-align: right;">وَأُمْلِى لَهُمْ ۚ إِنَّ كَيْدِى مَتِينٌ</span>
 
 ### English
 

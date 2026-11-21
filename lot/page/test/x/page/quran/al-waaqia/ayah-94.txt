@@ -8,7 +8,7 @@ type: Markdown
 
 ### Arabic
 
-<span style="display: block; font-size: 150%; text-align: right;">وَتَصْلِيَةُ جَحِيمٍ […](ayah-93)</span>
+<span style="display: block; font-size: 180%; text-align: right;">[…](ayah-93) وَتَصْلِيَةُ جَحِيمٍ</span>
 
 ### English
 

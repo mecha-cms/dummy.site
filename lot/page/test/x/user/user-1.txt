@@ -1,5 +1,5 @@
 ---
-title: No User
+title: No User, with Author
 description: Lorem ipsum dolor sit amet.
 author: Taufik Nurrohman
 type: Markdown

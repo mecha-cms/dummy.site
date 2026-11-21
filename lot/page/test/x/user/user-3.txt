@@ -1,0 +1,7 @@
+---
+title: No User, No Author
+description: Lorem ipsum dolor sit amet.
+type: Markdown
+...
+
+Lorem ipsum dolor sit amet.

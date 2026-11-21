@@ -8,7 +8,7 @@ type: Markdown
 
 ### Arabic
 
-<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-5) يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا […](ayah-3)</span>
+<span style="display: block; font-size: 180%; text-align: right;">[…](ayah-3) يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا […](ayah-5)</span>
 
 ### English
 

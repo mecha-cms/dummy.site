@@ -5,8 +5,7 @@ author: Taufik Nurrohman
 type: Markdown
 ...
 
-![Image](/lot/asset/page/article/longfellow-s-popular-appeal/1122865.jpg)
- Photo by [Suzy Hazelwood][1] from [Pexels][2].
+![](http://source.unsplash.com/Mwuod2cm8g4/600x300)
 
 Henry Wadsworth Longfellow (1807-1882) was perhaps the best-known American poet of the nineteenth century. His clear
 writing style and emphasis on the prevalent values of the period made him popular with the general public if not always
@@ -27,6 +26,3 @@ viewed as a time of honor and romance. In this poem centered around a love trian
 Alden to propose to Priscilla Mullins for him; John Alden ends up marrying Priscilla Mullins himself, and it takes time
 for his friendship with Miles Standish to recover. As with Longfellow’s other narrative poems, the emphasis on high
 ideals and romance made the poem extremely popular.
-
- [1]: https://www.pexels.com/@suzyhazelwood
- [2]: https://www.pexels.com/photo/closeup-photo-of-assorted-title-books-1122865

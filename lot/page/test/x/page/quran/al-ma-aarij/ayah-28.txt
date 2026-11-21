@@ -8,7 +8,7 @@ type: Markdown
 
 ### Arabic
 
-<span style="display: block; font-size: 150%; text-align: right;">[…](ayah-29) إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ</span>
+<span style="display: block; font-size: 180%; text-align: right;">إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ […](ayah-29)</span>
 
 ### English
 

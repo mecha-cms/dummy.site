@@ -1,8 +1,8 @@
 ---
 title: Pikachu
 description: >-
-  Artist Atsuko Nishida is credited as the main person behind Pikachu’s design, which was later finalized by artist Ken
-  Sugimori.
+  Artist Atsuko Nishida is credited as the main person behind Pikachu’s design, which was later finalized by artist
+  Ken Sugimori.
 author: Taufik Nurrohman
 type: Markdown
 ...

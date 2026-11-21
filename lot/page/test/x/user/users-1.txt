@@ -1,0 +1,11 @@
+---
+title: Mixed Authors and Users
+description: Lorem ipsum dolor sit amet.
+authors:
+  - '@guest'
+  - 1
+  - Taufik Nurrohman
+type: Markdown
+...
+
+Lorem ipsum dolor sit amet.
